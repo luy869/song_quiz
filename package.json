@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "deploy": "vite build && rm -rf ../luy_web/public/song_quiz && cp -r dist ../luy_web/public/song_quiz",
     "lint": "eslint .",
     "preview": "vite preview"
   },
