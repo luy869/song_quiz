@@ -9,7 +9,6 @@ npm run dev       # 開発サーバー起動 (localhost:5173)
 npm run build     # 本番ビルド → dist/
 npm run preview   # 本番ビルドのプレビュー
 npm run lint      # ESLint 実行
-npm run deploy    # ビルド後 dist/ を ../luy_web/public/song_quiz/ にコピー
 ```
 
 テストフレームワークは未設定。
