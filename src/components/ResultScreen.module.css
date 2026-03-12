@@ -1,0 +1,130 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+    animation: fadeInUp 0.5s ease both;
+    text-align: center;
+}
+
+.emojiDisplay {
+    font-size: 4rem;
+    animation: popIn 0.4s ease;
+}
+
+.title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, #e0d7ff, #a78bfa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.scoreCard {
+    width: 100%;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 32px;
+    backdrop-filter: blur(12px);
+}
+
+.scoreNum {
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    color: var(--accent);
+}
+
+.scoreDenom {
+    font-size: 1.5rem;
+    color: var(--text-secondary);
+}
+
+.scoreLabel {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-top: 8px;
+}
+
+.barWrap {
+    width: 80%;
+    margin: 20px auto 0;
+    height: 10px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.bar {
+    height: 100%;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #7c3aed, #a78bfa);
+    transition: width 1s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.message {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+}
+
+.actions {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+}
+
+.retryBtn {
+    width: 100%;
+    padding: 16px;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(135deg, #7c3aed 0%, #6366f1 100%);
+    border-radius: var(--radius-md);
+    transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.retryBtn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(124, 58, 237, 0.4);
+}
+
+.homeBtn {
+    width: 100%;
+    padding: 14px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    transition: color var(--transition), border-color var(--transition);
+}
+
+.homeBtn:hover {
+    color: var(--text-primary);
+    border-color: var(--accent);
+}
+
+@media (max-width: 480px) {
+    .emojiDisplay {
+        font-size: 3rem;
+    }
+
+    .title {
+        font-size: 1.5rem;
+    }
+
+    .scoreCard {
+        padding: 24px 16px;
+    }
+
+    .scoreNum {
+        font-size: 3rem;
+    }
+}

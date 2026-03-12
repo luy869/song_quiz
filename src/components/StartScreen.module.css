@@ -1,0 +1,114 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    animation: fadeInUp 0.5s ease both;
+}
+
+.badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: var(--accent-glow);
+    border: 1px solid rgba(167, 139, 250, 0.4);
+    border-radius: 999px;
+    padding: 4px 14px;
+}
+
+.titleBlock {
+    text-align: center;
+}
+
+.album {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    background: linear-gradient(135deg, #e0d7ff 0%, #a78bfa 50%, #818cf8 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.2;
+}
+
+.subtitle {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin-top: 12px;
+}
+
+/* Album list */
+.albumList {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.albumCard {
+    width: 100%;
+    padding: 18px 22px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    transition: background var(--transition), border-color var(--transition), transform var(--transition);
+    backdrop-filter: blur(12px);
+}
+
+.albumCard:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--accent);
+    transform: translateX(6px);
+}
+
+.albumCardHeader {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+}
+
+.albumNumber {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--accent);
+    font-family: 'Outfit', monospace;
+}
+
+.albumTitle {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.albumSeries {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+}
+
+@media (max-width: 480px) {
+    .title {
+        font-size: 2.2rem;
+    }
+
+    .albumCard {
+        padding: 14px 16px;
+    }
+
+    .albumTitle {
+        font-size: 1.15rem;
+    }
+}

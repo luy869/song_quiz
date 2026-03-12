@@ -1,0 +1,5 @@
+/* App level styles - minimal since we use CSS modules per component */
+.app {
+  width: 100%;
+  max-width: 560px;
+}
