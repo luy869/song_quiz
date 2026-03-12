@@ -1,0 +1,67 @@
+id: dyj-08
+title: 彩
+series: 凋叶棕 ナンバリング作品
+number: 8
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-08-01
+    trackNumber: 1
+    songTitle: いとおしきものに、うつくしきものに
+    questions:
+      - id: dyj-08-01-q1
+        prompt: めぐりあわせた、
+        target: その叢雲
+        display: めぐりあわせた、『その叢雲』の小粋なはからいとしましょう。
+        choices:
+          - うごき
+          - はてしなさ
+          - いま
+          - くも
+        correct: 3
+        answer:
+          text: くも
+          reading: くも
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-08-02
+    trackNumber: 2
+    songTitle: その命（いろ）戻して、彩を生む。
+    questions:
+      - id: dyj-08-02-q1
+        prompt: ''
+        target: どんな弾幕
+        display: 『どんな弾幕』よりも輝きを放てよ。
+        choices:
+          - あにあに
+          - ごみくず
+          - わざ
+          - みつからない
+        correct: 2
+        answer:
+          text: わざ
+          reading: わざ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-08-03
+    trackNumber: 3
+    songTitle: 靴の音を、響かせて、その手を
+    questions:
+      - id: dyj-08-03-q1
+        prompt: ''
+        target: “我一直在这里等着你
+        display: 『“我一直在这里等着你』*1”
+        choices:
+          - かお
+          - ショウジョ
+          - なぞ
+          - ウォ イーツ ザイ ヅーリ デンチャ ニー
+        correct: 3
+        answer:
+          text: ウォ イーツ ザイ ヅーリ デンチャ ニー
+          reading: ウォ イーツ ザイ ヅーリ デンチャ ニー
+        tags:
+          - ateji
+          - 4択

@@ -1,0 +1,463 @@
+id: dyj-17
+title: 求
+series: 凋叶棕 ナンバリング作品
+number: 17
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-17-01
+    trackNumber: 1
+    songTitle: ジ・アノニマス
+    questions:
+      - id: dyj-17-01-q1
+        prompt: ''
+        target: 没個性的
+        display: 『没個性的』な笑顔の裏に 凶悪な牙を持ち
+        choices:
+          - こんぺいとう
+          - はじまり
+          - あお
+          - anonymous
+        correct: 3
+        answer:
+          text: anonymous
+          reading: anonymous
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-01-q2
+        prompt: 没個性的（anonymous）な笑顔の裏に
+        target: 凶悪
+        display: 没個性的な笑顔の裏に 『凶悪』な牙を持ち
+        choices:
+          - アキュムレーション
+          - なぞ
+          - grotesque
+          - けがれたばしょ
+        correct: 2
+        answer:
+          text: grotesque
+          reading: grotesque
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-02
+    trackNumber: 2
+    songTitle: Die Lorelei
+    questions:
+      - id: dyj-17-02-q1
+        prompt: ''
+        target: この“歌
+        display: 『この“歌』”を得たからには
+        choices:
+          - とき
+          - こんや
+          - かげ
+          - ことば
+        correct: 3
+        answer:
+          text: ことば
+          reading: ことば
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-02-q2
+        prompt: “…この歌の、
+        target: 秘められしくすしき魔力
+        display: “…この歌の、『秘められしくすしき魔力』に魂もまよう。これこそ私の仕業～♪”
+        choices:
+          - あらゆるかたち
+          - ひとたるもの
+          - ちから
+          - とも
+        correct: 2
+        answer:
+          text: ちから
+          reading: ちから
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-02-q3
+        prompt: “…この歌の、秘められしくすしき魔力（ちから）
+        target: に魂
+        display: “…この歌の、秘められしくすしき魔力『に魂』もまよう。これこそ私の仕業～♪”
+        choices:
+          - たま
+          - やつ
+          - かそけ
+          - しんこう
+        correct: 0
+        answer:
+          text: たま
+          reading: たま
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-02-q4
+        prompt: “…この歌の、秘められしくすしき魔力（ちから）に魂（たま）もまよう。
+        target: これこそ私の仕業
+        display: “…この歌の、秘められしくすしき魔力に魂もまよう。『これこそ私の仕業』～♪”
+        choices:
+          - かわ
+          - Die Lorelei getan
+          - ものがたり
+          - せかい
+        correct: 1
+        answer:
+          text: Die Lorelei getan
+          reading: Die Lorelei getan
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-03
+    trackNumber: 3
+    songTitle: 声も発せぬくらい翅（はね）を毟られた私が
+    questions:
+      - id: dyj-17-03-q1
+        prompt: “…この歌は、
+        target: 音に聞くくすしき魔歌
+        display: “…この歌は、『音に聞くくすしき魔歌』。歌い止まず。これこそ私の仕業～♪”
+        choices:
+          - まえ
+          - ひとつ
+          - もの
+          - まがうた
+        correct: 3
+        answer:
+          text: まがうた
+          reading: まがうた
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-03-q2
+        prompt: “…この歌は、音に聞くくすしき魔歌（まがうた）。歌い止まず。
+        target: これこそ私の仕業
+        display: “…この歌は、音に聞くくすしき魔歌。歌い止まず。『これこそ私の仕業』～♪”
+        choices:
+          - Die Lorelei getan
+          - あぎと
+          - いよいよ
+          - アリス
+        correct: 0
+        answer:
+          text: Die Lorelei getan
+          reading: Die Lorelei getan
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-03-q3
+        prompt: “…この歌に、みな憧れ天を仰げば。夜雀の歌が、空を埋め尽くす。
+        target: これこそ私の仕業
+        display: “…この歌に、みな憧れ天を仰げば。夜雀の歌が、空を埋め尽くす。『これこそ私の仕業』～♪”
+        choices:
+          - Die Lorelei getan
+          - ケージ
+          - まほう
+          - へや
+        correct: 0
+        answer:
+          text: Die Lorelei getan
+          reading: Die Lorelei getan
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-04
+    trackNumber: 4
+    songTitle: ア・ローン・ロンリー・ローリン・ローア
+    questions:
+      - id: dyj-17-04-q1
+        prompt: ''
+        target: 私が何者
+        display: 『私が何者』かも知らなくても。
+        choices:
+          - とき
+          - しごと
+          - おぼ
+          - だれ
+        correct: 3
+        answer:
+          text: だれ
+          reading: だれ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-05
+    trackNumber: 5
+    songTitle: 人か獣か雄（おとこ）ばかりが狼であるわけでもないが
+    questions:
+      - id: dyj-17-05-q1
+        prompt: ''
+        target: それは抗えぬ生
+        display: 『それは抗えぬ生』の奔出
+        choices:
+          - がらくた
+          - あい
+          - みんな
+          - real
+        correct: 3
+        answer:
+          text: real
+          reading: real
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-05-q2
+        prompt: それは抗えぬ生（real）
+        target: の奔出
+        display: それは抗えぬ生『の奔出』
+        choices:
+          - かけだし
+          - わらべあそび
+          - あなた
+          - うたかた
+        correct: 0
+        answer:
+          text: かけだし
+          reading: かけだし
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-05-q3
+        prompt: ''
+        target: 嬌声
+        display: 『嬌声』 それは内なる人と獣の鬩ぎ合い
+        choices:
+          - かい
+          - おたけび
+          - かぎろい
+          - みつからない
+        correct: 1
+        answer:
+          text: おたけび
+          reading: おたけび
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-05-q4
+        prompt: 嬌声（おたけび）
+        target: それは内なる人と獣の鬩
+        display: 嬌声 『それは内なる人と獣の鬩』ぎ合い
+        choices:
+          - まどか
+          - われ
+          - あそ
+          - せめ
+        correct: 3
+        answer:
+          text: せめ
+          reading: せめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-06
+    trackNumber: 6
+    songTitle: そしてその最後の一片（ひとつ）が、暴かれゆく。
+    questions:
+      - id: dyj-17-06-q1
+        prompt: 【抱く】のは
+        target: 軽率にも手を出した男
+        display: 【抱く】のは 『軽率にも手を出した男』の骸
+        choices:
+          - おおかみ
+          - さい
+          - うたかた
+          - すく
+        correct: 0
+        answer:
+          text: おおかみ
+          reading: おおかみ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-06-q2
+        prompt: 【抱く】のは 軽率にも手を出した男（おおかみ）
+        target: の骸
+        display: 【抱く】のは 軽率にも手を出した男『の骸』
+        choices:
+          - あおぐろ
+          - からだ
+          - わたしたち
+          - ゆうしゃ
+        correct: 1
+        answer:
+          text: からだ
+          reading: からだ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-07
+    trackNumber: 7
+    songTitle: すーぱーなちゅらるとりっくわーくす
+    questions:
+      - id: dyj-17-07-q1
+        prompt: ''
+        target: 何も知らずに歩いてくる標的
+        display: 『何も知らずに歩いてくる標的』
+        choices:
+          - target
+          - しょくじ
+          - あやし
+          - わからず
+        correct: 0
+        answer:
+          text: target
+          reading: target
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-08
+    trackNumber: 8
+    songTitle: 年中夢中の好奇心（いたずらごころ） 止むことは無く。
+    questions:
+      - id: dyj-17-08-q1
+        prompt: ''
+        target: さらに高まる期待にまわせよまわせよ回転盤
+        display: 『さらに高まる期待にまわせよまわせよ回転盤』！
+        choices:
+          - クロースエンカウンター
+          - roulette
+          - なげい
+          - くうき
+        correct: 1
+        answer:
+          text: roulette
+          reading: roulette
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-09
+    trackNumber: 9
+    songTitle: 善意のマモノ
+    questions:
+      - id: dyj-17-09-q1
+        prompt: ''
+        target: 穢
+        display: 『穢』れ
+        choices:
+          - そば
+          - よご
+          - うそ
+          - かえ
+        correct: 1
+        answer:
+          text: よご
+          reading: よご
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-17-09-q2
+        prompt: ''
+        target: その痕に口吻
+        display: 『その痕に口吻』ながら
+        choices:
+          - くちづけ
+          - のこ
+          - よろず
+          - かんじょう
+        correct: 0
+        answer:
+          text: くちづけ
+          reading: くちづけ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-10
+    trackNumber: 10
+    songTitle: 在り続けることを快（よし）として
+    questions:
+      - id: dyj-17-10-q1
+        prompt: ''
+        target: その瘴気
+        display: 『その瘴気』に踊りながら
+        choices:
+          - もの
+          - くうき
+          - ばら
+          - あなた
+        correct: 1
+        answer:
+          text: くうき
+          reading: くうき
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-11
+    trackNumber: 11
+    songTitle: 人形（ひとがた）のようでいて。
+    questions:
+      - id: dyj-17-11-q1
+        prompt: ''
+        target: 系
+        display: 『系』
+        choices:
+          - こわ
+          - ほんとう
+          - すがた
+          - かんじょう
+        correct: 2
+        answer:
+          text: すがた
+          reading: すがた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-12
+    trackNumber: 12
+    songTitle: Cirno,Q?
+    questions:
+      - id: dyj-17-12-q1
+        prompt: ''
+        target: その危うさに両足を踏んで“哲学
+        display: 『その危うさに両足を踏んで“哲学』”を進めるなら
+        choices:
+          - ぼうけん
+          - とも
+          - ちから
+          - あきんど
+        correct: 0
+        answer:
+          text: ぼうけん
+          reading: ぼうけん
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-13
+    trackNumber: 13
+    songTitle: からくれなゐの影
+    questions:
+      - id: dyj-17-13-q1
+        prompt: ''
+        target: 泡沫
+        display: 『泡沫』の夢 さあ勝利の野望を打ち砕け
+        choices:
+          - いろ
+          - わらい
+          - うたかた
+          - ばけ
+        correct: 2
+        answer:
+          text: うたかた
+          reading: うたかた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-17-14
+    trackNumber: 14
+    songTitle: 表演（や）ってみせるが弾幕で
+    questions:
+      - id: dyj-17-14-q1
+        prompt: ''
+        target: 声なき“弾
+        display: 『声なき“弾』”にぞ叫んだる
+        choices:
+          - こえ
+          - こがねいろ
+          - なすこと
+          - うたごえ
+        correct: 0
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択

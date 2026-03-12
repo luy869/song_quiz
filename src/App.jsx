@@ -12,16 +12,21 @@ export default function App() {
   const [album, setAlbum] = useState(null);           // 選択中のアルバム（tracks含む）
   const [screen, setScreen] = useState(SCREEN.START);
   const [score, setScore] = useState(0);
+  const [quizKey, setQuizKey] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   // アルバム一覧を読み込む
-  useEffect(() => {
+  const loadIndex = () => {
+    setLoading(true);
+    setError(null);
     loadAlbumIndex()
       .then((albums) => setAlbumIndex(albums))
       .catch((e) => setError(e.message))
       .finally(() => setLoading(false));
-  }, []);
+  };
+
+  useEffect(() => { loadIndex(); }, []);
 
   // アルバム選択 → 詳細データ取得 → クイズ開始
   const handleSelectAlbum = async (albumMeta) => {
@@ -30,6 +35,7 @@ export default function App() {
       const data = await loadAlbumData(albumMeta.file);
       setAlbum(data);
       setScore(0);
+      setQuizKey((k) => k + 1);
       setScreen(SCREEN.QUIZ);
     } catch (e) {
       setError(e.message);
@@ -50,6 +56,7 @@ export default function App() {
 
   const handleRetry = () => {
     setScore(0);
+    setQuizKey((k) => k + 1);
     setScreen(SCREEN.QUIZ);
   };
 
@@ -61,7 +68,7 @@ export default function App() {
 
   if (loading) {
     return (
-      <div className="app" style={{ textAlign: 'center', color: 'var(--text-secondary)', paddingTop: 40 }}>
+      <div className="app app--center">
         読み込み中...
       </div>
     );
@@ -69,8 +76,9 @@ export default function App() {
 
   if (error) {
     return (
-      <div className="app" style={{ textAlign: 'center', color: 'var(--wrong)', paddingTop: 40 }}>
-        データの読み込みに失敗しました: {error}
+      <div className="app app--center">
+        <p className="app__error">データの読み込みに失敗しました: {error}</p>
+        <button className="app__reload-btn" onClick={loadIndex}>再読み込み</button>
       </div>
     );
   }
@@ -86,9 +94,8 @@ export default function App() {
       )}
       {screen === SCREEN.QUIZ && album && (
         <QuizScreen
-          key={`quiz-${album.id}`}
+          key={quizKey}
           album={album}
-          score={score}
           onFinish={handleFinish}
         />
       )}
@@ -97,7 +104,6 @@ export default function App() {
           key="result"
           score={score}
           total={getTotalQuestions(album)}
-          albumTitle={album?.title}
           onRetry={handleRetry}
           onHome={handleHome}
         />

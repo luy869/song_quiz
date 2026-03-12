@@ -1,0 +1,543 @@
+id: dyj-42
+title: 眩
+series: 凋叶棕 ナンバリング作品
+number: 42
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-42-01
+    trackNumber: 1
+    songTitle: Something Shiny
+    questions:
+      - id: dyj-42-01-q1
+        prompt: ''
+        target: それはいつしか唱え始めた魔法
+        display: 『それはいつしか唱え始めた魔法』
+        choices:
+          - アリア
+          - ルナ・ダイアル
+          - ショウジョ
+          - マジック
+        correct: 3
+        answer:
+          text: マジック
+          reading: マジック
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-02
+    trackNumber: 2
+    songTitle: 彩られ開いた世界に根差す幻想（ファンタジック）
+    questions:
+      - id: dyj-42-02-q1
+        prompt: ''
+        target: 少女
+        display: 『少女』の形に切り取られた残影に
+        choices:
+          - ひそか
+          - からだわか
+          - ともがら
+          - あなた
+        correct: 3
+        answer:
+          text: あなた
+          reading: あなた
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-02-q2
+        prompt: ''
+        target: けして消えない一条の閃光
+        display: 『けして消えない一条の閃光』がごとくに
+        choices:
+          - ひらめ
+          - て
+          - げんそう
+          - ひかり
+        correct: 3
+        answer:
+          text: ひかり
+          reading: ひかり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-03
+    trackNumber: 3
+    songTitle: 甘くて脆い砂糖菓子の弾幕（だんがん）で
+    questions:
+      - id: dyj-42-03-q1
+        prompt: ''
+        target: 届かない世界に手を伸ばす魔法
+        display: 『届かない世界に手を伸ばす魔法』
+        choices:
+          - ストーリア
+          - マジック
+          - カタルシス
+          - クライシス
+        correct: 1
+        answer:
+          text: マジック
+          reading: マジック
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-04
+    trackNumber: 4
+    songTitle: 単純明快　理知聡明　力強き論理（ロジック）
+    questions:
+      - id: dyj-42-04-q1
+        prompt: ''
+        target: たとえば空に広がる天の川
+        display: 『たとえば空に広がる天の川』
+        choices:
+          - ズル
+          - アキュムレーション
+          - オニキス
+          - ミルキーウェイ
+        correct: 3
+        answer:
+          text: ミルキーウェイ
+          reading: ミルキーウェイ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-05
+    trackNumber: 5
+    songTitle: 知って拓（ひら）けるそれこそ未踏の地平
+    questions:
+      - id: dyj-42-05-q1
+        prompt: ''
+        target: 降り積もる感情
+        display: 『降り積もる感情』の果てに
+        choices:
+          - ゆうしゃ
+          - て
+          - おもい
+          - つよ
+        correct: 2
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-06
+    trackNumber: 6
+    songTitle: 『かがやいて？』（スパークリー？）
+    questions:
+      - id: dyj-42-06-q1
+        prompt: ''
+        target: いくぜ誰より革新的に
+        display: 『いくぜ誰より革新的に』
+        choices:
+          - ネタ
+          - ラディカル
+          - レヴァリエ
+          - ハレ
+        correct: 1
+        answer:
+          text: ラディカル
+          reading: ラディカル
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-07
+    trackNumber: 7
+    songTitle: 『活き活きと？』（ライブリー？）
+    questions:
+      - id: dyj-42-07-q1
+        prompt: ''
+        target: なべて基本は身体の問題
+        display: 『なべて基本は身体の問題』
+        choices:
+          - ラストオカルトファンタジー
+          - レアリティ
+          - スペリオリティ
+          - フィジカル
+        correct: 3
+        answer:
+          text: フィジカル
+          reading: フィジカル
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-08
+    trackNumber: 8
+    songTitle: 『夢見るように？』（ドリーミー？）
+    questions:
+      - id: dyj-42-08-q1
+        prompt: ''
+        target: 全て叶える魔法
+        display: 『全て叶える魔法』
+        choices:
+          - マジカル
+          - プレイヤーズ・スコア
+          - サネカズラ
+          - ダッシュ
+        correct: 0
+        answer:
+          text: マジカル
+          reading: マジカル
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-09
+    trackNumber: 9
+    songTitle: 『より近づいて？』（クロースリー？）
+    questions:
+      - id: dyj-42-09-q1
+        prompt: ''
+        target: 帽子
+        display: 『帽子』も靴も髪型もリボンも
+        choices:
+          - うで
+          - あらゆるかたち
+          - らくえん
+          - これ
+        correct: 3
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-09-q2
+        prompt: 帽子（これ）
+        target: も靴
+        display: 帽子『も靴』も髪型もリボンも
+        choices:
+          - これ
+          - ことば
+          - うすっぺらなそのおもい
+          - よ
+        correct: 0
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-09-q3
+        prompt: 帽子（これ）も靴（これ）
+        target: も髪型
+        display: 帽子も靴『も髪型』もリボンも
+        choices:
+          - これ
+          - ありかた
+          - たのしさ
+          - がらくた
+        correct: 0
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-09-q4
+        prompt: 帽子（これ）も靴（これ）も髪型（これ）
+        target: もリボン
+        display: 帽子も靴も髪型『もリボン』も
+        choices:
+          - しょうぶ
+          - これ
+          - むね
+          - こちらがわ
+        correct: 1
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-09-q5
+        prompt: ''
+        target: その他色んな小物
+        display: 『その他色んな小物』も！
+        choices:
+          - これ
+          - わらい
+          - ここ
+          - さい
+        correct: 0
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-10
+    trackNumber: 10
+    songTitle: 規則（ルール）有用
+    questions:
+      - id: dyj-42-10-q1
+        prompt: ''
+        target: そうだ私
+        display: 『そうだ私』！
+        choices:
+          - かんじょう
+          - ひとみ
+          - おとめ
+          - こんぺいとう
+        correct: 2
+        answer:
+          text: おとめ
+          reading: おとめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-11
+    trackNumber: 11
+    songTitle: 『必死に？』（デッドリー？）
+    questions:
+      - id: dyj-42-11-q1
+        prompt: ''
+        target: 口調
+        display: 『口調』も言動も箒も声色も
+        choices:
+          - いろ
+          - たのしさ
+          - たぬきやろう
+          - これ
+        correct: 3
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-11-q2
+        prompt: 口調（これ）
+        target: も言動
+        display: 口調『も言動』も箒も声色も
+        choices:
+          - ひとのこころ
+          - これ
+          - おわらぬまつり
+          - うご
+        correct: 1
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-11-q3
+        prompt: 口調（これ）も言動（これ）
+        target: も箒
+        display: 口調も言動『も箒』も声色も
+        choices:
+          - すべて
+          - あらわ
+          - なすこと
+          - これ
+        correct: 3
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-11-q4
+        prompt: 口調（これ）も言動（これ）も箒（これ）
+        target: も声色
+        display: 口調も言動も箒『も声色』も
+        choices:
+          - これ
+          - ゆうしゃ
+          - かんじょう
+          - おもい
+        correct: 0
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-11-q5
+        prompt: ''
+        target: その他いろんな白黒仕草
+        display: 『その他いろんな白黒仕草』も！
+        choices:
+          - かわ
+          - ふるさと
+          - これ
+          - けがれたばしょ
+        correct: 2
+        answer:
+          text: これ
+          reading: これ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-12
+    trackNumber: 12
+    songTitle: つみあがっていく役割演技（ロール）が
+    questions:
+      - id: dyj-42-12-q1
+        prompt: ''
+        target: 自則
+        display: 『自則』有用
+        choices:
+          - ルール
+          - アリス
+          - ラストオカルトファンタジー
+          - サネカズラ
+        correct: 0
+        answer:
+          text: ルール
+          reading: ルール
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-13
+    trackNumber: 13
+    songTitle: 法則（ルール）無用
+    questions:
+      - id: dyj-42-13-q1
+        prompt: ''
+        target: そもそも見渡せば右も左も反則
+        display: 『そもそも見渡せば右も左も反則』ばっか
+        choices:
+          - ズル
+          - アッパー
+          - イドラ
+          - ネタ
+        correct: 0
+        answer:
+          text: ズル
+          reading: ズル
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-14
+    trackNumber: 14
+    songTitle: But all that glitters
+    questions:
+      - id: dyj-42-14-q1
+        prompt: ''
+        target: 滲む視界の片隅にいつも幻視
+        display: 『滲む視界の片隅にいつも幻視』続けている
+        choices:
+          - しょうぶ
+          - せかい
+          - み
+          - あぎと
+        correct: 2
+        answer:
+          text: み
+          reading: み
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-15
+    trackNumber: 15
+    songTitle: それさえも判然としない迷宮（ラビリンス）
+    questions:
+      - id: dyj-42-15-q1
+        prompt: ''
+        target: 世界に法則
+        display: 『世界に法則』をひとつだけ書き足せるとしたら
+        choices:
+          - レアリティ
+          - アリス
+          - ルール
+          - メッサージュ
+        correct: 2
+        answer:
+          text: ルール
+          reading: ルール
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-16
+    trackNumber: 16
+    songTitle: Super Light Shooter
+    questions:
+      - id: dyj-42-16-q1
+        prompt: ''
+        target: 魑魅魍魎
+        display: 『魑魅魍魎』手ぐすね引いてこんばんは
+        choices:
+          - きずな
+          - みちのり
+          - やまびこ
+          - みんな
+        correct: 3
+        answer:
+          text: みんな
+          reading: みんな
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-17
+    trackNumber: 17
+    songTitle: 夜を告げる号砲（おと）
+    questions:
+      - id: dyj-42-17-q1
+        prompt: そうだ　いつだって
+        target: モノを言わせるのは火力
+        display: そうだ　いつだって　『モノを言わせるのは火力』
+        choices:
+          - カプリチオ
+          - ドメイン
+          - デマゴーグ
+          - ファイヤーパワー
+        correct: 3
+        answer:
+          text: ファイヤーパワー
+          reading: ファイヤーパワー
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-42-18
+    trackNumber: 18
+    songTitle: 夜を貫いて奔（はし）れ　我が頼みの魔砲
+    questions:
+      - id: dyj-42-18-q1
+        prompt: ''
+        target: 来る狂
+        display: 『来る狂』る　全てが痺れていく
+        choices:
+          - わたしたち
+          - からっぽ
+          - からだわか
+          - く
+        correct: 3
+        answer:
+          text: く
+          reading: く
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-18-q2
+        prompt: ''
+        target: 遠く遠く夜の深底
+        display: 『遠く遠く夜の深底』へ
+        choices:
+          - こんや
+          - なかま
+          - そこ
+          - のろい
+        correct: 2
+        answer:
+          text: そこ
+          reading: そこ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-42-18-q3
+        prompt: そうさ　いつだって
+        target: 最短距離で行くぜ光速
+        display: そうさ　いつだって　『最短距離で行くぜ光速』
+        choices:
+          - メッサージュ
+          - アソビ
+          - ラディカル
+          - ライトスピード
+        correct: 3
+        answer:
+          text: ライトスピード
+          reading: ライトスピード
+        tags:
+          - ateji
+          - 4択

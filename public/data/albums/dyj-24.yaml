@@ -1,0 +1,391 @@
+id: dyj-24
+title: 音
+series: 凋叶棕 ナンバリング作品
+number: 24
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-24-01
+    trackNumber: 1
+    songTitle: 唄片の人魚
+    questions:
+      - id: dyj-24-01-q1
+        prompt: ''
+        target: 誰一匹
+        display: 『誰一匹』として
+        choices:
+          - たかぶり
+          - お
+          - かそけ
+          - だれひとり
+        correct: 3
+        answer:
+          text: だれひとり
+          reading: だれひとり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-02
+    trackNumber: 2
+    songTitle: アリスのわすれもの
+    questions:
+      - id: dyj-24-02-q1
+        prompt: ''
+        target: 興味
+        display: 『興味』の全てを。
+        choices:
+          - しりたいこと
+          - め
+          - すべてかくすもの
+          - よわいもの
+        correct: 0
+        answer:
+          text: しりたいこと
+          reading: しりたいこと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-03
+    trackNumber: 3
+    songTitle: 一つの秩序（rule）を解き明かす！
+    questions:
+      - id: dyj-24-03-q1
+        prompt: 『
+        target: 幻想郷
+        display: 『『幻想郷』』は
+        choices:
+          - はじめ
+          - なかま
+          - おんなのこ
+          - このばしょ
+        correct: 3
+        answer:
+          text: このばしょ
+          reading: このばしょ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-04
+    trackNumber: 4
+    songTitle: 『アリス（わたし）』という幻想は。
+    questions:
+      - id: dyj-24-04-q1
+        prompt: '-新たな『'
+        target: わたし
+        display: '-新たな『『わたし』』を知りたいの、'
+        choices:
+          - アリス
+          - マジカル
+          - ダッシュ
+          - エクラン
+        correct: 0
+        answer:
+          text: アリス
+          reading: アリス
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-05
+    trackNumber: 5
+    songTitle: Spirited Away
+    questions:
+      - id: dyj-24-05-q1
+        prompt: ''
+        target: 遍
+        display: 『遍』。
+        choices:
+          - そいわずとわずかたらず
+          - あまね
+          - あなた
+          - ひとつ
+        correct: 1
+        answer:
+          text: あまね
+          reading: あまね
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-06
+    trackNumber: 6
+    songTitle: あれ哭（な）く声が聞こえるか
+    questions:
+      - id: dyj-24-06-q1
+        prompt: ''
+        target: その魂
+        display: 『その魂』に
+        choices:
+          - あめつち
+          - こがねいろ
+          - かな
+          - こころ
+        correct: 3
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-07
+    trackNumber: 7
+    songTitle: 長き夢の果て
+    questions:
+      - id: dyj-24-07-q1
+        prompt: ''
+        target: 煽
+        display: 『煽』ぐ仰ぐ空の彼方
+        choices:
+          - あお
+          - あまびと
+          - ほしをみるひと
+          - あばきつくすもの
+        correct: 0
+        answer:
+          text: あお
+          reading: あお
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-24-07-q2
+        prompt: ''
+        target: 陽炎の中に沈む殿
+        display: 『陽炎の中に沈む殿』
+        choices:
+          - ひとひら
+          - すきま
+          - まえ
+          - あなた
+        correct: 3
+        answer:
+          text: あなた
+          reading: あなた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-08
+    trackNumber: 8
+    songTitle: 旧き神の幻想（おもい）に縋り
+    questions:
+      - id: dyj-24-08-q1
+        prompt: ''
+        target: 焼
+        display: 『焼』べられよ　諸共に焚かれよ
+        choices:
+          - すきま
+          - く
+          - ちぎ
+          - つち
+        correct: 1
+        answer:
+          text: く
+          reading: く
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-24-08-q2
+        prompt: 焼（く）べられよ
+        target: 諸共に焚
+        display: 焼べられよ　『諸共に焚』かれよ
+        choices:
+          - さんげつうららちてらす
+          - あおぐろ
+          - みつからない
+          - や
+        correct: 3
+        answer:
+          text: や
+          reading: や
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-09
+    trackNumber: 9
+    songTitle: 灼灼（あかあか）と燃えるのなら
+    questions:
+      - id: dyj-24-09-q1
+        prompt: ''
+        target: それもまた佳
+        display: 『それもまた佳』かろう
+        choices:
+          - ほし
+          - うすっぺらなそのおもい
+          - おぼ
+          - よ
+        correct: 3
+        answer:
+          text: よ
+          reading: よ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-10
+    trackNumber: 10
+    songTitle: curse upon me!
+    questions:
+      - id: dyj-24-10-q1
+        prompt: ''
+        target: なんであって実現
+        display: 『なんであって実現』てみせる
+        choices:
+          - ぼうけん
+          - かなえ
+          - かぜ
+          - あめつち
+        correct: 1
+        answer:
+          text: かなえ
+          reading: かなえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-11
+    trackNumber: 11
+    songTitle: 嘔吐、又。
+    questions:
+      - id: dyj-24-11-q1
+        prompt: ''
+        target: 与えられたその命令
+        display: 『与えられたその命令』が尽きれば
+        choices:
+          - わるふざけ
+          - やまびこ
+          - げきせき
+          - code
+        correct: 3
+        answer:
+          text: code
+          reading: code
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-12
+    trackNumber: 12
+    songTitle: 何も生みださぬはずの器官（もの）
+    questions:
+      - id: dyj-24-12-q1
+        prompt: ''
+        target: ばらばらの信号
+        display: 『ばらばらの信号』の寄せ集め
+        choices:
+          - かざ
+          - めざ
+          - signal
+          - あらそい
+        correct: 2
+        answer:
+          text: signal
+          reading: signal
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-13
+    trackNumber: 13
+    songTitle: 不明瞭な兆候（sign）の
+    questions:
+      - id: dyj-24-13-q1
+        prompt: ''
+        target: 意志なき哀れ自動死体
+        display: 『意志なき哀れ自動死体』
+        choices:
+          - automata
+          - われ
+          - クラウンピース
+          - いだ
+        correct: 0
+        answer:
+          text: automata
+          reading: automata
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-14
+    trackNumber: 14
+    songTitle: わすらるる物語
+    questions:
+      - id: dyj-24-14-q1
+        prompt: ''
+        target: 音
+        display: 『音』えているのは、
+        choices:
+          - おわらぬまつり
+          - わらべあそび
+          - あおぐろ
+          - おぼ
+        correct: 3
+        answer:
+          text: おぼ
+          reading: おぼ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-24-14-q2
+        prompt: きっと、
+        target: 私の中の音
+        display: きっと、『私の中の音』。
+        choices:
+          - てき
+          - まぼろし
+          - しきにでき
+          - からだ
+        correct: 1
+        answer:
+          text: まぼろし
+          reading: まぼろし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-15
+    trackNumber: 15
+    songTitle: きっとどれほどの音（ものがたり）も
+    questions:
+      - id: dyj-24-15-q1
+        prompt: ''
+        target: 音
+        display: 『音』の一片でしか、ない！
+        choices:
+          - いのり
+          - あそび
+          - けがれたばしょ
+          - ものがたり
+        correct: 3
+        answer:
+          text: ものがたり
+          reading: ものがたり
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-24-15-q2
+        prompt: 音（ものがたり）
+        target: の一片
+        display: 音『の一片』でしか、ない！
+        choices:
+          - かけら
+          - ひら
+          - うで
+          - みちばた
+        correct: 0
+        answer:
+          text: かけら
+          reading: かけら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-24-16
+    trackNumber: 16
+    songTitle: 「心（あなた）」をずっと知りたい
+    questions:
+      - id: dyj-24-16-q1
+        prompt: ……もって「
+        target: 音
+        display: ……もって「『音』」を忘れてしまいたい……
+        choices:
+          - してはいけないこと
+          - あなた
+          - ひと
+          - ひたすら
+        correct: 1
+        answer:
+          text: あなた
+          reading: あなた
+        tags:
+          - ateji
+          - 4択

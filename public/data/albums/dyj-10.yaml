@@ -1,0 +1,395 @@
+id: dyj-10
+title: 辿／誘
+series: 凋叶棕 ナンバリング作品
+number: 10
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-10-01
+    trackNumber: 1
+    songTitle: Grate Escapers
+    questions:
+      - id: dyj-10-01-q1
+        prompt: ''
+        target: 赦される心算
+        display: 『赦される心算』はないと、
+        choices:
+          - まじわ
+          - しんこう
+          - かご
+          - つもり
+        correct: 3
+        answer:
+          text: つもり
+          reading: つもり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-02
+    trackNumber: 2
+    songTitle: この高揚（たかぶり）を、否定などさせない。
+    questions:
+      - id: dyj-10-02-q1
+        prompt: ''
+        target: 還る心算
+        display: 『還る心算』などないと、
+        choices:
+          - あきんど
+          - いのり
+          - つもり
+          - おびやかして
+        correct: 2
+        answer:
+          text: つもり
+          reading: つもり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-03
+    trackNumber: 3
+    songTitle: left behind
+    questions:
+      - id: dyj-10-03-q1
+        prompt: そんな、
+        target: 何て儚い幻覚
+        display: そんな、『何て儚い幻覚』
+        choices:
+          - fantasma
+          - ことば
+          - かい
+          - おとめ
+        correct: 0
+        answer:
+          text: fantasma
+          reading: fantasma
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-04
+    trackNumber: 4
+    songTitle: 相容れぬものが誰か判明（わか）るだけ。
+    questions:
+      - id: dyj-10-04-q1
+        prompt: そんな、
+        target: 何てくだらぬ夢想
+        display: そんな、『何てくだらぬ夢想』
+        choices:
+          - つもり
+          - うた
+          - まほう
+          - fantasia
+        correct: 3
+        answer:
+          text: fantasia
+          reading: fantasia
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-05
+    trackNumber: 5
+    songTitle: かつて同じ人間（もの）であったと
+    questions:
+      - id: dyj-10-05-q1
+        prompt: ''
+        target: 幻想
+        display: 『幻想』に逃げながら。
+        choices:
+          - じんせい
+          - ゆめ
+          - きらわれもの
+          - あやかし
+        correct: 1
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-06
+    trackNumber: 6
+    songTitle: name for the love
+    questions:
+      - id: dyj-10-06-q1
+        prompt: 貴女はその目の奥に、得も言われぬ、
+        target: 無間の幻想
+        display: 貴女はその目の奥に、得も言われぬ、『無間の幻想』を湛え、
+        choices:
+          - いろ
+          - まね
+          - しあわせ
+          - かご
+        correct: 0
+        answer:
+          text: いろ
+          reading: いろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-07
+    trackNumber: 7
+    songTitle: 機械的に、そう、事務的に、ただ役目（こと）をこなせばいいだけなのだが。
+    questions:
+      - id: dyj-10-07-q1
+        prompt: いざ、渡るは、
+        target: この幻想
+        display: いざ、渡るは、『この幻想』の先へ。
+        choices:
+          - みちのり
+          - ゆめ
+          - あなた
+          - ひらめ
+        correct: 1
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-08
+    trackNumber: 8
+    songTitle: she's purity
+    questions:
+      - id: dyj-10-08-q1
+        prompt: ''
+        target: ステキな淑女
+        display: 『ステキな淑女』になって、
+        choices:
+          - lady
+          - ひと
+          - あまね
+          - たかぶり
+        correct: 0
+        answer:
+          text: lady
+          reading: lady
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-09
+    trackNumber: 9
+    songTitle: 無数の空想（あい）の拠所として、
+    questions:
+      - id: dyj-10-09-q1
+        prompt: ''
+        target: 無数の妄想
+        display: 『無数の妄想』の捌け口としてさえ、
+        choices:
+          - かげ
+          - あい
+          - ものがたり
+          - はし
+        correct: 1
+        answer:
+          text: あい
+          reading: あい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-10-09-q2
+        prompt: ''
+        target: 無数の幻想
+        display: 『無数の幻想』の「廃棄された」先に、
+        choices:
+          - なかま
+          - おもい
+          - あい
+          - きおく
+        correct: 2
+        answer:
+          text: あい
+          reading: あい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-10-09-q3
+        prompt: 無数の幻想（あい）の「
+        target: 廃棄された
+        display: 無数の幻想の「『廃棄された』」先に、
+        choices:
+          - むいしき
+          - ゆめ
+          - たどりついた
+          - はじめ
+        correct: 2
+        answer:
+          text: たどりついた
+          reading: たどりついた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-10
+    trackNumber: 10
+    songTitle: The beautiful world
+    questions:
+      - id: dyj-10-10-q1
+        prompt: ただ、
+        target: その冷たさ
+        display: ただ、『その冷たさ』を心の支えにして、
+        choices:
+          - 暖かさ
+          - ゆくさき
+          - ふるさと
+          - けがれたばしょ
+        correct: 0
+        answer:
+          text: 暖かさ
+          reading: 暖かさ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-11
+    trackNumber: 11
+    songTitle: 闇の中、独り（二人）で、探していた。
+    questions:
+      - id: dyj-10-11-q1
+        prompt: 隣には、
+        target: 誰も居ないのに
+        display: 隣には、『誰も居ないのに』。
+        choices:
+          - 貴女がいるのに
+          - いくどいくたび
+          - なれのはて
+          - るり
+        correct: 0
+        answer:
+          text: 貴女がいるのに
+          reading: 貴女がいるのに
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-12
+    trackNumber: 12
+    songTitle: どうしてか、彼方の声が聞こえる（貴女の声が聞こえない）。
+    questions:
+      - id: dyj-10-12-q1
+        prompt: もう、
+        target: 蓮子
+        display: もう、『蓮子』では、無かった。
+        choices:
+          - おとめ
+          - ひと
+          - すく
+          - きせき
+        correct: 1
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-13
+    trackNumber: 13
+    songTitle: “死という名の幻想（necro-fantasia）”
+    questions:
+      - id: dyj-10-13-q1
+        prompt: ''
+        target: 圧倒的な何かに陵辱
+        display: 『圧倒的な何かに陵辱』されたでもなく
+        choices:
+          - まね
+          - けが
+          - おも
+          - まとも
+        correct: 1
+        answer:
+          text: けが
+          reading: けが
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-10-13-q2
+        prompt: そう、私を、縛るものなど、
+        target: はじめから存在
+        display: そう、私を、縛るものなど、『はじめから存在』なかったのだ。
+        choices:
+          - い
+          - ぜったい
+          - ゆめ
+          - わか
+        correct: 0
+        answer:
+          text: い
+          reading: い
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-14
+    trackNumber: 14
+    songTitle: うつくしきこのせかいを、目にした刹那の瞬間（とき）より
+    questions:
+      - id: dyj-10-14-q1
+        prompt: ''
+        target: 終わりなき幻想
+        display: 『終わりなき幻想』をかき抱くために
+        choices:
+          - ゆめ
+          - て
+          - おぼ
+          - いみ
+        correct: 0
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-15
+    trackNumber: 15
+    songTitle: 何より尊いわが友人（とも）でさえも
+    questions:
+      - id: dyj-10-15-q1
+        prompt: これが、
+        target: “彼方
+        display: これが、『“彼方』の願い”なのでしょう？
+        choices:
+          - ふるさと
+          - こい
+          - たどりつく
+          - わたし
+        correct: 3
+        answer:
+          text: わたし
+          reading: わたし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-16
+    trackNumber: 16
+    songTitle: Calling
+    questions:
+      - id: dyj-10-16-q1
+        prompt: '[呼んでいる。耳を澄まし、聞けば、そこにほら。呼んでいる。'
+        target: 遠き幻想郷
+        display: '[呼んでいる。耳を澄まし、聞けば、そこにほら。呼んでいる。『遠き幻想郷』の物語が]'
+        choices:
+          - かいじん
+          - だ
+          - くに
+          - のろい
+        correct: 2
+        answer:
+          text: くに
+          reading: くに
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-10-17
+    trackNumber: 17
+    songTitle: 猛き幻想（ゆめ）さえ、
+    questions:
+      - id: dyj-10-17-q1
+        prompt: ''
+        target: 潰えぬ幻想
+        display: 『潰えぬ幻想』をかき抱くために。
+        choices:
+          - このせかい
+          - ゆめ
+          - しにげしょう
+          - おしえ
+        correct: 1
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択

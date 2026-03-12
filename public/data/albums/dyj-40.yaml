@@ -1,0 +1,231 @@
+id: dyj-40
+title: 界
+series: 凋叶棕 ナンバリング作品
+number: 40
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-40-01
+    trackNumber: 1
+    songTitle: トラウマメライ
+    questions:
+      - id: dyj-40-01-q1
+        prompt: ''
+        target: 宝石箱
+        display: 『宝石箱』がごとくに
+        choices:
+          - エクラン
+          - アリス
+          - ライトスピード
+          - サネカズラ
+        correct: 0
+        answer:
+          text: エクラン
+          reading: エクラン
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-40-02
+    trackNumber: 2
+    songTitle: 美しい貌（かお）の奥に怪物を飼うものにも
+    questions:
+      - id: dyj-40-02-q1
+        prompt: ''
+        target: 圧
+        display: 『圧』し潰す心の底で
+        choices:
+          - お
+          - ひとたるもの
+          - あか
+          - ごみくず
+        correct: 0
+        answer:
+          text: お
+          reading: お
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-40-02-q2
+        prompt: ''
+        target: 聞けよ≪眠りを覚ます恐怖の記憶≫
+        display: 『聞けよ≪眠りを覚ます恐怖の記憶≫』
+        choices:
+          - トラウマメライ
+          - ラストオカルトファンタジー
+          - ケージ
+          - マジック
+        correct: 0
+        answer:
+          text: トラウマメライ
+          reading: トラウマメライ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-40-03
+    trackNumber: 3
+    songTitle: 汝（おまえ）がそだてた我（おまえ）だから
+    questions:
+      - id: dyj-40-03-q1
+        prompt: ''
+        target: 圧潰
+        display: 『圧潰』された汚泥の底で
+        choices:
+          - つぶ
+          - ばしょ
+          - いき
+          - せわたり
+        correct: 0
+        answer:
+          text: つぶ
+          reading: つぶ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-40-03-q2
+        prompt: ''
+        target: 傷付き害され虚飾
+        display: 『傷付き害され虚飾』られたものが
+        choices:
+          - かざ
+          - おたけび
+          - わらべあそび
+          - かんじょう
+        correct: 0
+        answer:
+          text: かざ
+          reading: かざ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-40-03-q3
+        prompt: ''
+        target: 出でよ≪眠りより覚める恐怖の記憶≫
+        display: 『出でよ≪眠りより覚める恐怖の記憶≫』
+        choices:
+          - トラウマメライ
+          - アキュムレーション
+          - ペン
+          - ラストオカルトファンタジー
+        correct: 0
+        answer:
+          text: トラウマメライ
+          reading: トラウマメライ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-40-04
+    trackNumber: 4
+    songTitle: hearken unto
+    questions:
+      - id: dyj-40-04-q1
+        prompt: ''
+        target: 未明
+        display: 『未明』の彩に至るまで
+        choices:
+          - かみ
+          - あさあけ
+          - つくりもの
+          - まぼろし
+        correct: 1
+        answer:
+          text: あさあけ
+          reading: あさあけ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-40-04-q2
+        prompt: 未明（あさあけ）
+        target: の彩
+        display: 未明『の彩』に至るまで
+        choices:
+          - いろ
+          - たどりつく
+          - おわ
+          - かざ
+        correct: 0
+        answer:
+          text: いろ
+          reading: いろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-40-05
+    trackNumber: 5
+    songTitle: 幻想郷（このせかい）に　独りきりで立つ
+    questions:
+      - id: dyj-40-05-q1
+        prompt: ''
+        target: 歎
+        display: 『歎』きさえも
+        choices:
+          - なげ
+          - うたごえ
+          - かぎろい
+          - ふりょう
+        correct: 0
+        answer:
+          text: なげ
+          reading: なげ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-40-06
+    trackNumber: 6
+    songTitle: 空を想う地で
+    questions:
+      - id: dyj-40-06-q1
+        prompt: ''
+        target: よしんばその琴線
+        display: 『よしんばその琴線』に
+        choices:
+          - おわらぬまつり
+          - こころ
+          - すがた
+          - しごと
+        correct: 1
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-40-07
+    trackNumber: 7
+    songTitle: 空（おも）い想（えが）く
+    questions:
+      - id: dyj-40-07-q1
+        prompt: ''
+        target: その天
+        display: 『その天』さばかりを
+        choices:
+          - つよ
+          - かいじん
+          - ぼうけん
+          - ひろ
+        correct: 3
+        answer:
+          text: ひろ
+          reading: ひろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-40-08
+    trackNumber: 8
+    songTitle: 形容（あらわ）す言葉も知ろうとして
+    questions:
+      - id: dyj-40-08-q1
+        prompt: ''
+        target: きっとそここそが≪空を想う地≫
+        display: 『きっとそここそが≪空を想う地≫』
+        choices:
+          - ストーリア
+          - メッサージュ
+          - シャングリラ
+          - ラディカル
+        correct: 2
+        answer:
+          text: シャングリラ
+          reading: シャングリラ
+        tags:
+          - ateji
+          - 4択

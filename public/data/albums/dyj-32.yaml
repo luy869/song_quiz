@@ -1,0 +1,395 @@
+id: dyj-32
+title: 報
+series: 凋叶棕 ナンバリング作品
+number: 32
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-32-01
+    trackNumber: 1
+    songTitle: カネと楽園とエゴイスト
+    questions:
+      - id: dyj-32-01-q1
+        prompt: ''
+        target: 上昇志向
+        display: 『上昇志向』
+        choices:
+          - カプリチオ
+          - サーガ
+          - アッパー
+          - ラストオカルトファンタジー
+        correct: 2
+        answer:
+          text: アッパー
+          reading: アッパー
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-02
+    trackNumber: 2
+    songTitle: Bloodless Gleaming
+    questions:
+      - id: dyj-32-02-q1
+        prompt: ''
+        target: その小さな肢体
+        display: 『その小さな肢体』どこまでが
+        choices:
+          - まじ
+          - おもさ
+          - けしてつづかぬもの
+          - からだ
+        correct: 3
+        answer:
+          text: からだ
+          reading: からだ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-03
+    trackNumber: 3
+    songTitle: 昂（のぼ）りきったら
+    questions:
+      - id: dyj-32-03-q1
+        prompt: ''
+        target: 色彩
+        display: 『色彩』が足りないわ　美しくねもっと
+        choices:
+          - こわ
+          - みちのり
+          - めためた
+          - いろ
+        correct: 3
+        answer:
+          text: いろ
+          reading: いろ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-32-03-q2
+        prompt: さあ回されてよ
+        target: 狂時計
+        display: さあ回されてよ　『狂時計』のまま
+        choices:
+          - ルナ・ダイアル
+          - ネタ
+          - ルナティックシグナルクラウド
+          - シャングリラ
+        correct: 0
+        answer:
+          text: ルナ・ダイアル
+          reading: ルナ・ダイアル
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-04
+    trackNumber: 4
+    songTitle: Fairy Disease
+    questions:
+      - id: dyj-32-04-q1
+        prompt: ''
+        target: どうにも色情
+        display: 『どうにも色情』にも匂わさせ
+        choices:
+          - いろ
+          - めためた
+          - たま
+          - ひかり
+        correct: 0
+        answer:
+          text: いろ
+          reading: いろ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-32-04-q2
+        prompt: ''
+        target: 瑠璃
+        display: 『瑠璃』　玻璃　蒼玉　黒瑪瑙の
+        choices:
+          - ふりょう
+          - たかぶり
+          - て
+          - るり
+        correct: 3
+        answer:
+          text: るり
+          reading: るり
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-32-04-q3
+        prompt: 瑠璃（るり）
+        target: 玻璃
+        display: 瑠璃　『玻璃』　蒼玉　黒瑪瑙の
+        choices:
+          - こちらがわ
+          - ぜったい
+          - はり
+          - ふりょう
+        correct: 2
+        answer:
+          text: はり
+          reading: はり
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-32-04-q4
+        prompt: 瑠璃（るり）　玻璃（はり）
+        target: 蒼玉
+        display: 瑠璃　玻璃　『蒼玉』　黒瑪瑙の
+        choices:
+          - まぼろし
+          - やみ
+          - あらゆるかたち
+          - そうぎょく
+        correct: 3
+        answer:
+          text: そうぎょく
+          reading: そうぎょく
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-32-04-q5
+        prompt: 瑠璃（るり）　玻璃（はり）　蒼玉（そうぎょく）
+        target: 黒瑪瑙
+        display: 瑠璃　玻璃　蒼玉　『黒瑪瑙』の
+        choices:
+          - ハレ
+          - オールドアダム
+          - ネタ
+          - オニキス
+        correct: 3
+        answer:
+          text: オニキス
+          reading: オニキス
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-05
+    trackNumber: 5
+    songTitle: 孤独のイドラ
+    questions:
+      - id: dyj-32-05-q1
+        prompt: ''
+        target: その膚
+        display: 『その膚』は土塊
+        choices:
+          - これ
+          - ちぎ
+          - よわいもの
+          - はだえ
+        correct: 3
+        answer:
+          text: はだえ
+          reading: はだえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-32-05-q2
+        prompt: ''
+        target: 方／円／線
+        display: 『方／円／線』のもと生み出された偶像
+        choices:
+          - いのり
+          - みんな
+          - あらゆるかたち
+          - しろがね
+        correct: 2
+        answer:
+          text: あらゆるかたち
+          reading: あらゆるかたち
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-32-05-q3
+        prompt: 方／円／線（あらゆるかたち）
+        target: のもと生み出された偶像
+        display: 方／円／線『のもと生み出された偶像』
+        choices:
+          - こいごころ
+          - こわす
+          - ばけもの
+          - いのち
+        correct: 3
+        answer:
+          text: いのち
+          reading: いのち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-06
+    trackNumber: 6
+    songTitle: 「創造（悪魔の所業）」
+    questions:
+      - id: dyj-32-06-q1
+        prompt: 「
+        target: 孤独のイドラ
+        display: 「『孤独のイドラ』」
+        choices:
+          - かぐわ
+          - あお
+          - ラストオカルトファンタジー
+          - 五つ目のさだめ
+        correct: 3
+        answer:
+          text: 五つ目のさだめ
+          reading: 五つ目のさだめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-07
+    trackNumber: 7
+    songTitle: 他愛なき噂沓（そんとう）の木霊する果てに
+    questions:
+      - id: dyj-32-07-q1
+        prompt: ''
+        target: 質されることのないただ一つの盲
+        display: 『質されることのないただ一つの盲』
+        choices:
+          - めしい
+          - けみ
+          - なれのはて
+          - らくえん
+        correct: 0
+        answer:
+          text: めしい
+          reading: めしい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-08
+    trackNumber: 8
+    songTitle: 劇（ドラマ）は劇（ドラマ）がため疑われはしない。
+    questions:
+      - id: dyj-32-08-q1
+        prompt: ''
+        target: いつか御骸
+        display: 『いつか御骸』　越えてみせよう
+        choices:
+          - さんげつうららちてらす
+          - のこ
+          - みむくろ
+          - やりかた
+        correct: 2
+        answer:
+          text: みむくろ
+          reading: みむくろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-09
+    trackNumber: 9
+    songTitle: ラストオカルトファンタジー
+    questions:
+      - id: dyj-32-09-q1
+        prompt: そう
+        target: 希少性
+        display: そう　『希少性』　優位性　特別の証明よ！
+        choices:
+          - レアリティ
+          - ルナティックシグナルクラウド
+          - クロースエンカウンター
+          - アリス
+        correct: 0
+        answer:
+          text: レアリティ
+          reading: レアリティ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-32-09-q2
+        prompt: そう　希少性（レアリティ）
+        target: 優位性
+        display: そう　希少性　『優位性』　特別の証明よ！
+        choices:
+          - レアリティ
+          - イドラ
+          - スペリオリティ
+          - ラディカル
+        correct: 2
+        answer:
+          text: スペリオリティ
+          reading: スペリオリティ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-10
+    trackNumber: 10
+    songTitle: 咲き誇れよ“端末の中の栄華（ゆめまぼろしのはな）”
+    questions:
+      - id: dyj-32-10-q1
+        prompt: 〈＊さあ、その一回に無数の祈りを込めて！
+        target: ＊
+        display: 〈『＊』さあ、その一回に無数の祈りを込めて！＊〉
+        choices:
+          - レアリティ
+          - ラストオカルトファンタジー
+          - ルール
+          - サネカズラ
+        correct: 1
+        answer:
+          text: ラストオカルトファンタジー
+          reading: ラストオカルトファンタジー
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-11
+    trackNumber: 11
+    songTitle: 見知ったような遊戯（ゲーム）の数々
+    questions:
+      - id: dyj-32-11-q1
+        prompt: ＜＊さあ､その一回に無限の幻想を託して！
+        target: ＊
+        display: ＜『＊』さあ､その一回に無限の幻想を託して！＊＞
+        choices:
+          - ルナ・ダイアル
+          - ミルキーウェイ
+          - ファイヤーパワー
+          - ラストオカルトファンタジー
+        correct: 3
+        answer:
+          text: ラストオカルトファンタジー
+          reading: ラストオカルトファンタジー
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-12
+    trackNumber: 12
+    songTitle: Greedy Girl
+    questions:
+      - id: dyj-32-12-q1
+        prompt: ''
+        target: まるで商人
+        display: 『まるで商人』ね
+        choices:
+          - よわいもの
+          - あきんど
+          - みちばた
+          - おびやかして
+        correct: 1
+        answer:
+          text: あきんど
+          reading: あきんど
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-32-13
+    trackNumber: 13
+    songTitle: でもでも閑古鳥（とり）が鳴いている
+    questions:
+      - id: dyj-32-13-q1
+        prompt: ''
+        target: 少女の綺想曲
+        display: 『少女の綺想曲』
+        choices:
+          - ネタ
+          - マジカル
+          - アソビ
+          - カプリチオ
+        correct: 3
+        answer:
+          text: カプリチオ
+          reading: カプリチオ
+        tags:
+          - ateji
+          - 4択

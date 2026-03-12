@@ -1,0 +1,99 @@
+id: dyj-31
+title: 蒐
+series: 凋叶棕 ナンバリング作品
+number: 31
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-31-01
+    trackNumber: 1
+    songTitle: 月の歌
+    questions:
+      - id: dyj-31-01-q1
+        prompt: ''
+        target: 月光色
+        display: 『月光色』の
+        choices:
+          - こがねいろ
+          - おやがみ
+          - あか
+          - くも
+        correct: 0
+        answer:
+          text: こがねいろ
+          reading: こがねいろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-31-02
+    trackNumber: 2
+    songTitle: 黒滔々（こくとうとう）と
+    questions:
+      - id: dyj-31-02-q1
+        prompt: ''
+        target: 光
+        display: 『光』
+        choices:
+          - や
+          - つくりもの
+          - かい
+          - いろ
+        correct: 3
+        answer:
+          text: いろ
+          reading: いろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-31-03
+    trackNumber: 3
+    songTitle: コレクターズ・ハイ
+    questions:
+      - id: dyj-31-03-q1
+        prompt: ''
+        target: 法則
+        display: 『法則』に
+        choices:
+          - まがうた
+          - ひとつ
+          - rule
+          - だれひとり
+        correct: 2
+        answer:
+          text: rule
+          reading: rule
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-31-03-q2
+        prompt: ''
+        target: “目的
+        display: 『“目的』”は“手段”
+        choices:
+          - goal
+          - ひと
+          - おしえて
+          - だれ
+        correct: 0
+        answer:
+          text: goal
+          reading: goal
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-31-03-q3
+        prompt: “目的（goal）
+        target: ”は“手段
+        display: “目的『”は“手段』”
+        choices:
+          - ライトスピード
+          - start
+          - かる
+          - げきせき
+        correct: 1
+        answer:
+          text: start
+          reading: start
+        tags:
+          - ateji
+          - 4択

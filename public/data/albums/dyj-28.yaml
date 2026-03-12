@@ -1,0 +1,411 @@
+id: dyj-28
+title: 奏
+series: 凋叶棕 ナンバリング作品
+number: 28
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-28-01
+    trackNumber: 1
+    songTitle: the music I love
+    questions:
+      - id: dyj-28-01-q1
+        prompt: ''
+        target: ふりまわすあらゆる暴力
+        display: 『ふりまわすあらゆる暴力』
+        choices:
+          - あそび
+          - ちから
+          - あれ
+          - あさあけ
+        correct: 1
+        answer:
+          text: ちから
+          reading: ちから
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-02
+    trackNumber: 2
+    songTitle: 芸事（そういうこと）には疎く
+    questions:
+      - id: dyj-28-02-q1
+        prompt: ''
+        target: きっと上手い節
+        display: 『きっと上手い節』も思いつかない
+        choices:
+          - ことば
+          - よろず
+          - とき
+          - たけなわ
+        correct: 0
+        answer:
+          text: ことば
+          reading: ことば
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-03
+    trackNumber: 3
+    songTitle: 玉兎遠隔群体電波通信網
+    questions:
+      - id: dyj-28-03-q1
+        prompt: ''
+        target: けれど騒がし電波
+        display: 『けれど騒がし電波』
+        choices:
+          - げんそう
+          - しきにでき
+          - まね
+          - こえ
+        correct: 3
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-04
+    trackNumber: 4
+    songTitle: 『玉兎遠隔群体電波通信網（はかないつきのうた）』は届くのよ
+    questions:
+      - id: dyj-28-04-q1
+        prompt: ''
+        target: かくも他愛のない虚音
+        display: 『かくも他愛のない虚音』
+        choices:
+          - ミーティア
+          - コヒーレント
+          - デマゴーグ
+          - ペン
+        correct: 2
+        answer:
+          text: デマゴーグ
+          reading: デマゴーグ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-05
+    trackNumber: 5
+    songTitle: けして信じられぬ雑音（ノイジーストーリー）
+    questions:
+      - id: dyj-28-05-q1
+        prompt: これが「
+        target: 玉兎遠隔群体電波通信網
+        display: これが「『玉兎遠隔群体電波通信網』」
+        choices:
+          - ノンシグナル
+          - ワルツ
+          - コヒーレント
+          - ルナティックシグナルクラウド
+        correct: 3
+        answer:
+          text: ルナティックシグナルクラウド
+          reading: ルナティックシグナルクラウド
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-06
+    trackNumber: 6
+    songTitle: 世界中の誰よりも
+    questions:
+      - id: dyj-28-06-q1
+        prompt: ''
+        target: そんな儚い人間
+        display: 『そんな儚い人間』
+        choices:
+          - はじまり
+          - からだわか
+          - がらくた
+          - ひと
+        correct: 3
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-07
+    trackNumber: 7
+    songTitle: かばねのうた
+    questions:
+      - id: dyj-28-07-q1
+        prompt: ''
+        target: 棺
+        display: 『棺』揺らせ
+        choices:
+          - からっぽ
+          - すきま
+          - このせかい
+          - かご
+        correct: 3
+        answer:
+          text: かご
+          reading: かご
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-08
+    trackNumber: 8
+    songTitle: その道（み）ち行きその者に伝えるよに
+    questions:
+      - id: dyj-28-08-q1
+        prompt: ''
+        target: 歌うは妖精
+        display: 『歌うは妖精』
+        choices:
+          - みちばた
+          - そうぎょく
+          - こい
+          - いのちなきもの
+        correct: 3
+        answer:
+          text: いのちなきもの
+          reading: いのちなきもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-09
+    trackNumber: 9
+    songTitle: the music I hate
+    questions:
+      - id: dyj-28-09-q1
+        prompt: 「
+        target: 私
+        display: 「『私』」が生きた人生
+        choices:
+          - だれか
+          - かけだし
+          - のぞみ
+          - さだめ
+        correct: 0
+        answer:
+          text: だれか
+          reading: だれか
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-28-09-q2
+        prompt: 「私（だれか）」
+        target: が生きた人生
+        display: 「私」『が生きた人生』
+        choices:
+          - いのち
+          - ゆめ
+          - なかま
+          - わたしたち
+        correct: 0
+        answer:
+          text: いのち
+          reading: いのち
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-28-09-q3
+        prompt: ''
+        target: そんな得体の知れない音跡
+        display: 『そんな得体の知れない音跡』
+        choices:
+          - こえ
+          - けが
+          - ひかり
+          - もの
+        correct: 3
+        answer:
+          text: もの
+          reading: もの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-10
+    trackNumber: 10
+    songTitle: そんな独り善がりの「音楽（おもいで）」なんて
+    questions:
+      - id: dyj-28-10-q1
+        prompt: ''
+        target: それでも生きて生きてこの鼓動
+        display: 『それでも生きて生きてこの鼓動』
+        choices:
+          - いのち
+          - おとめ
+          - ひそか
+          - こわ
+        correct: 0
+        answer:
+          text: いのち
+          reading: いのち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-11
+    trackNumber: 11
+    songTitle: ためすがめ
+    questions:
+      - id: dyj-28-11-q1
+        prompt: ''
+        target: 猶も豈々
+        display: 『猶も豈々』図らんや
+        choices:
+          - つぎのゆめ
+          - そいわずとわずかたらず
+          - みな
+          - あにあに
+        correct: 3
+        answer:
+          text: あにあに
+          reading: あにあに
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-12
+    trackNumber: 12
+    songTitle: the boogey monster
+    questions:
+      - id: dyj-28-12-q1
+        prompt: ''
+        target: 黝
+        display: 『黝』く空
+        choices:
+          - ときをつげ
+          - けしてつづかぬもの
+          - こわす
+          - あおぐろ
+        correct: 3
+        answer:
+          text: あおぐろ
+          reading: あおぐろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-13
+    trackNumber: 13
+    songTitle: 妖怪（ほんぎょう）か知れたもんじゃない
+    questions:
+      - id: dyj-28-13-q1
+        prompt: 『
+        target: そこの親切な妖怪さん
+        display: 『『そこの親切な妖怪さん』』
+        choices:
+          - たのしさ
+          - そばだ
+          - boogey monster
+          - ラストオカルトファンタジー
+        correct: 2
+        answer:
+          text: boogey monster
+          reading: boogey monster
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-14
+    trackNumber: 14
+    songTitle: STAR FOLLOWER
+    questions:
+      - id: dyj-28-14-q1
+        prompt: ''
+        target: 白黒
+        display: 『白黒』を染める黄金の髪
+        choices:
+          - monotone
+          - マジカル
+          - みなも
+          - すきま
+        correct: 0
+        answer:
+          text: monotone
+          reading: monotone
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-28-14-q2
+        prompt: 白黒（monotone）
+        target: を染める黄金
+        display: 白黒『を染める黄金』の髪
+        choices:
+          - かんじょう
+          - からっぽ
+          - おもい
+          - こがね
+        correct: 3
+        answer:
+          text: こがね
+          reading: こがね
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-15
+    trackNumber: 15
+    songTitle: 誰も読み取れぬ光彩（いろ）
+    questions:
+      - id: dyj-28-15-q1
+        prompt: ''
+        target: 感情
+        display: 『感情』の色
+        choices:
+          - て
+          - かいなで
+          - おもい
+          - かみ
+        correct: 2
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-16
+    trackNumber: 16
+    songTitle: シノショウジョ
+    questions:
+      - id: dyj-28-16-q1
+        prompt: ''
+        target: 命を持たない人形
+        display: 『命を持たない人形』達
+        choices:
+          - プレイヤーズ・スコア
+          - ショウジョ
+          - ネタ
+          - ルナ・ダイアル
+        correct: 1
+        answer:
+          text: ショウジョ
+          reading: ショウジョ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-28-17
+    trackNumber: 17
+    songTitle: 鏡の彼方（あちら）の幻想郷（ふしぎのくに）で
+    questions:
+      - id: dyj-28-17-q1
+        prompt: ''
+        target: 誰かを■
+        display: 『誰かを■』せば
+        choices:
+          - おぼつか
+          - おぼ
+          - ばら
+          - かみ
+        correct: 2
+        answer:
+          text: ばら
+          reading: ばら
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-28-17-q2
+        prompt: ''
+        target: 命を持たない登場人物
+        display: 『命を持たない登場人物』達
+        choices:
+          - マロングラッセ
+          - ショウジョ
+          - ファイヤーパワー
+          - クライシス
+        correct: 1
+        answer:
+          text: ショウジョ
+          reading: ショウジョ
+        tags:
+          - ateji
+          - 4択

@@ -1,0 +1,355 @@
+id: dyj-23
+title: 随
+series: 凋叶棕 ナンバリング作品
+number: 23
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-23-01
+    trackNumber: 1
+    songTitle: 疵とマントと○○心
+    questions:
+      - id: dyj-23-01-q1
+        prompt: ああ！　この疵の痛み『
+        target: 体中
+        display: ああ！　この疵の痛み『『体中』』を
+        choices:
+          - 首から下
+          - あばきつくすもの
+          - ゆめ
+          - まほう
+        correct: 0
+        answer:
+          text: 首から下
+          reading: 首から下
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-02
+    trackNumber: 2
+    songTitle: 外套（マント）
+    questions:
+      - id: dyj-23-02-q1
+        prompt: ''
+        target: 恐怖と自尊心
+        display: 『恐怖と自尊心』の狭間で
+        choices:
+          - pride
+          - ラストオカルトファンタジー
+          - あさあけ
+          - は
+        correct: 0
+        answer:
+          text: pride
+          reading: pride
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-03
+    trackNumber: 3
+    songTitle: なにいろ小径
+    questions:
+      - id: dyj-23-03-q1
+        prompt: ''
+        target: きっとみんなとそれほど変わらないくらい少女
+        display: 『きっとみんなとそれほど変わらないくらい少女』の顔してる？
+        choices:
+          - にくら
+          - ものがたり
+          - まとも
+          - おんなのこ
+        correct: 3
+        answer:
+          text: おんなのこ
+          reading: おんなのこ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-04
+    trackNumber: 4
+    songTitle: 千夜一夜
+    questions:
+      - id: dyj-23-04-q1
+        prompt: あなたを
+        target: 幻想郷
+        display: あなたを　『幻想郷』を　抱いて
+        choices:
+          - わからず
+          - いのち
+          - おはなし
+          - せかい
+        correct: 3
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-05
+    trackNumber: 5
+    songTitle: 硝子色の月　風が哂（わら）う声
+    questions:
+      - id: dyj-23-05-q1
+        prompt: ''
+        target: 無限の物語
+        display: 『無限の物語』を見届けながら。
+        choices:
+          - うごき
+          - いろ
+          - ゆくさき
+          - いのち
+        correct: 3
+        answer:
+          text: いのち
+          reading: いのち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-06
+    trackNumber: 6
+    songTitle: 尚も口閉ざす賢者（シェヘラザード）は。
+    questions:
+      - id: dyj-23-06-q1
+        prompt: ''
+        target: その色彩
+        display: 『その色彩』を独り今も見つめている。
+        choices:
+          - このばしょ
+          - いろ
+          - こんぺいとう
+          - げんそう
+        correct: 1
+        answer:
+          text: いろ
+          reading: いろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-07
+    trackNumber: 7
+    songTitle: グラスホッパーズ
+    questions:
+      - id: dyj-23-07-q1
+        prompt: 皆それぞれが
+        target: 口々愚痴々々具
+        display: 皆それぞれが　『口々愚痴々々具』に
+        choices:
+          - おびやかして
+          - げんそう
+          - くちぐちぐちぐちつぶさ
+          - なぞ
+        correct: 2
+        answer:
+          text: くちぐちぐちぐちつぶさ
+          reading: くちぐちぐちぐちつぶさ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-08
+    trackNumber: 8
+    songTitle: 『闇に潜む密偵の如く（grasshoppers）』
+    questions:
+      - id: dyj-23-08-q1
+        prompt: あいつが噂の『
+        target: 詐欺師
+        display: あいつが噂の『『詐欺師』』か。
+        choices:
+          - おねえさん
+          - たぬきやろう
+          - しりあい
+          - おびやかして
+        correct: 1
+        answer:
+          text: たぬきやろう
+          reading: たぬきやろう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-09
+    trackNumber: 9
+    songTitle: 桑原始終四散子守歌（くわばらばらばらららばい）
+    questions:
+      - id: dyj-23-09-q1
+        prompt: 真実は　　そうさ　皆聞いてる
+        target: 耳を欹
+        display: 真実は　　そうさ　皆聞いてる　『耳を欹』て
+        choices:
+          - せかい
+          - きせき
+          - こわ
+          - そばだ
+        correct: 3
+        answer:
+          text: そばだ
+          reading: そばだ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-10
+    trackNumber: 10
+    songTitle: 『混迷に惑わす伏兵の如く（grasshoppers）』
+    questions:
+      - id: dyj-23-10-q1
+        prompt: 『
+        target: 監視社会に蔓延する情報の如く
+        display: 『『監視社会に蔓延する情報の如く』』
+        choices:
+          - grasshoppers
+          - よ
+          - ミーティア
+          - く
+        correct: 0
+        answer:
+          text: grasshoppers
+          reading: grasshoppers
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-11
+    trackNumber: 11
+    songTitle: オールド・モチーフ
+    questions:
+      - id: dyj-23-11-q1
+        prompt: ''
+        target: 天空
+        display: 『天空』の洞を覗き込む
+        choices:
+          - なぞ
+          - そら
+          - つくりもの
+          - わたし
+        correct: 1
+        answer:
+          text: そら
+          reading: そら
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-23-11-q2
+        prompt: そう
+        target: 所以なき自己過信と擁
+        display: そう　『所以なき自己過信と擁』く熱量の高さ
+        choices:
+          - いだ
+          - つぎのゆめ
+          - あやややや
+          - かけだし
+        correct: 0
+        answer:
+          text: いだ
+          reading: いだ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-12
+    trackNumber: 12
+    songTitle: 我らが手に＜原初の想像（old motif）＞の絶えずあることを
+    questions:
+      - id: dyj-23-12-q1
+        prompt: ''
+        target: けして手放すことの叶わぬ重き原罪
+        display: 『けして手放すことの叶わぬ重き原罪』を追って
+        choices:
+          - はてしなさ
+          - karma
+          - たびびと
+          - メッサージュ
+        correct: 1
+        answer:
+          text: karma
+          reading: karma
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-13
+    trackNumber: 13
+    songTitle: 我らが手に＜原初の発想（old motif）＞の絶えずあることを
+    questions:
+      - id: dyj-23-13-q1
+        prompt: 誰もがみな
+        target: 己の世界
+        display: 誰もがみな　『己の世界』を持つ
+        choices:
+          - そら
+          - ゆめ
+          - ひたむき
+          - そば
+        correct: 1
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-23-13-q2
+        prompt: ''
+        target: 己の理想
+        display: 『己の理想』を見て　その幻想の先に
+        choices:
+          - ふたり
+          - のぞむこと
+          - かたちな
+          - ゆめ
+        correct: 3
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-23-13-q3
+        prompt: 己の理想（ゆめ）を見て
+        target: その幻想
+        display: 己の理想を見て　『その幻想』の先に
+        choices:
+          - ゆめ
+          - て
+          - お
+          - き
+        correct: 0
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-14
+    trackNumber: 14
+    songTitle: 皆それぞれ　癒せぬ中二病（ふしぎ）を抱えて生きていく
+    questions:
+      - id: dyj-23-14-q1
+        prompt: ''
+        target: 我らが手に＜原初の空想
+        display: 『我らが手に＜原初の空想』＞の絶えずあることを
+        choices:
+          - old motif
+          - アッパー
+          - ふりょう
+          - アイデンティティ
+        correct: 0
+        answer:
+          text: old motif
+          reading: old motif
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-23-15
+    trackNumber: 15
+    songTitle: かぜのゆくえ
+    questions:
+      - id: dyj-23-15-q1
+        prompt: ''
+        target: 遙か届かぬ時間
+        display: 『遙か届かぬ時間』へ
+        choices:
+          - まえ
+          - こわ
+          - もの
+          - とき
+        correct: 3
+        answer:
+          text: とき
+          reading: とき
+        tags:
+          - ateji
+          - 4択

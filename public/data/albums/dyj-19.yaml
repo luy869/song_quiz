@@ -1,0 +1,591 @@
+id: dyj-19
+title: 密
+series: 凋叶棕 ナンバリング作品
+number: 19
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-19-01
+    trackNumber: 1
+    songTitle: Ms. lonely hedgehog
+    questions:
+      - id: dyj-19-01-q1
+        prompt: ああ、辺り一面
+        target: 散らばっている≪名前も知らないクラスメート≫
+        display: ああ、辺り一面 『散らばっている≪名前も知らないクラスメート≫』の破片
+        choices:
+          - なぶ
+          - だれか
+          - まつり
+          - よわいもの
+        correct: 1
+        answer:
+          text: だれか
+          reading: だれか
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-02
+    trackNumber: 2
+    songTitle: ただ呆然と考えている 夢と夢（うつつ）の狭間に、身を置いて。
+    questions:
+      - id: dyj-19-02-q1
+        prompt: ''
+        target: そんな俯瞰的
+        display: 『そんな俯瞰的』な思いを 抱くその端から徹底的に叩きのめされて
+        choices:
+          - meta
+          - せわたり
+          - おんなのこ
+          - おわらぬまつり
+        correct: 0
+        answer:
+          text: meta
+          reading: meta
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-02-q2
+        prompt: そんな俯瞰的（meta）な思いを
+        target: 抱くその端から徹底的
+        display: そんな俯瞰的な思いを 『抱くその端から徹底的』に叩きのめされて
+        choices:
+          - めためた
+          - こいごころ
+          - なれのはて
+          - かご
+        correct: 0
+        answer:
+          text: めためた
+          reading: めためた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-03
+    trackNumber: 3
+    songTitle: アイ・リトル・ヒーロー
+    questions:
+      - id: dyj-19-03-q1
+        prompt: ''
+        target: いつかみた偶像
+        display: 『いつかみた偶像』
+        choices:
+          - ズル
+          - がらくた
+          - あまびと
+          - hero
+        correct: 3
+        answer:
+          text: hero
+          reading: hero
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-04
+    trackNumber: 4
+    songTitle: 『我が愛しき密室少女に寄せて』
+    questions:
+      - id: dyj-19-04-q1
+        prompt: ''
+        target: 私が妄想
+        display: 『私が妄想』うこと。
+        choices:
+          - つぶ
+          - ねがい
+          - おも
+          - かぎろい
+        correct: 2
+        answer:
+          text: おも
+          reading: おも
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-04-q2
+        prompt: ''
+        target: もう誰も《従者と客人》
+        display: 『もう誰も《従者と客人》』をとめられないの!?
+        choices:
+          - ふたり
+          - あか
+          - あれ
+          - こんぺいとう
+        correct: 0
+        answer:
+          text: ふたり
+          reading: ふたり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-05
+    trackNumber: 5
+    songTitle: 嗚呼、我が愛しき密室少女（my dear lalala locked girl）。
+    questions:
+      - id: dyj-19-05-q1
+        prompt: ''
+        target: そのうちにどれほどの秘密
+        display: 『そのうちにどれほどの秘密』を抱えているの…?
+        choices:
+          - romance
+          - たどりつく
+          - まざ
+          - ぜったい
+        correct: 0
+        answer:
+          text: romance
+          reading: romance
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-06
+    trackNumber: 6
+    songTitle: もう誰も《後輩と先輩》（ふたり）をとめられないの!?
+    questions:
+      - id: dyj-19-06-q1
+        prompt: ''
+        target: もう誰も《下僕と主人》
+        display: 『もう誰も《下僕と主人》』をとめられないの!?
+        choices:
+          - ふたり
+          - しょうぶ
+          - うま
+          - なん
+        correct: 0
+        answer:
+          text: ふたり
+          reading: ふたり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-07
+    trackNumber: 7
+    songTitle: アリス・ザ・エニグマティクドール
+    questions:
+      - id: dyj-19-07-q1
+        prompt: ''
+        target: 幼い憧憬の眼
+        display: 『幼い憧憬の眼』の先に
+        choices:
+          - ねがい
+          - しろがね
+          - わたつみ
+          - ひとみ
+        correct: 3
+        answer:
+          text: ひとみ
+          reading: ひとみ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-07-q2
+        prompt: ''
+        target: 命あるように舞い踊る役者
+        display: 『命あるように舞い踊る役者』達
+        choices:
+          - なぶ
+          - げんそう
+          - おねえさん
+          - ひとがた
+        correct: 3
+        answer:
+          text: ひとがた
+          reading: ひとがた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-08
+    trackNumber: 8
+    songTitle: 知って尚 命観る演技（しぐさ）
+    questions:
+      - id: dyj-19-08-q1
+        prompt: ''
+        target: 本質
+        display: 『本質』を隠しうる魔法
+        choices:
+          - からっぽ
+          - おもい
+          - しょうたい
+          - うごき
+        correct: 2
+        answer:
+          text: しょうたい
+          reading: しょうたい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-08-q2
+        prompt: けして暴かれることなき
+        target: 謎
+        display: けして暴かれることなき 『謎』
+        choices:
+          - かけだし
+          - ゆめ
+          - enigma
+          - かわ
+        correct: 2
+        answer:
+          text: enigma
+          reading: enigma
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-09
+    trackNumber: 9
+    songTitle: 或いはあれらと同じ素体（からだ）か
+    questions:
+      - id: dyj-19-09-q1
+        prompt: 夢と幻想の『
+        target: 自己愛の権化
+        display: 夢と幻想の『『自己愛の権化』』
+        choices:
+          - agalmatophilia
+          - ケージ
+          - たけなわ
+          - おぼつか
+        correct: 0
+        answer:
+          text: agalmatophilia
+          reading: agalmatophilia
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-10
+    trackNumber: 10
+    songTitle: いつか沈み行く暗闇の中に
+    questions:
+      - id: dyj-19-10-q1
+        prompt: ねぇ、
+        target: 人の悪夢
+        display: ねぇ、『人の悪夢』の話ほど、
+        choices:
+          - ゆめ
+          - ひ
+          - おおかみ
+          - まね
+        correct: 0
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-11
+    trackNumber: 11
+    songTitle: ときに恐れる感情（おもい）
+    questions:
+      - id: dyj-19-11-q1
+        prompt: ''
+        target: 傍の寝顔
+        display: 『傍の寝顔』を見つめて
+        choices:
+          - にえ
+          - うご
+          - はだえ
+          - ほし
+        correct: 3
+        answer:
+          text: ほし
+          reading: ほし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-12
+    trackNumber: 12
+    songTitle: 竹藪の中《阿礼乙女に問われたる花屋の物語》
+    questions:
+      - id: dyj-19-12-q1
+        prompt: ''
+        target: 命を拾うもう一方
+        display: 『命を拾うもう一方』
+        choices:
+          - ひとり
+          - たけなわ
+          - うたげ
+          - りょうめ
+        correct: 0
+        answer:
+          text: ひとり
+          reading: ひとり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-13
+    trackNumber: 13
+    songTitle: 我が教子（いとしご）の姿を
+    questions:
+      - id: dyj-19-13-q1
+        prompt: 風に
+        target: 銀髪
+        display: 風に 『銀髪』を靡かせ
+        choices:
+          - みなも
+          - しろがね
+          - すがた
+          - まね
+        correct: 1
+        answer:
+          text: しろがね
+          reading: しろがね
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-14
+    trackNumber: 14
+    songTitle: 竹藪の中《蓬莱人に問われたる白兎の証言/白澤の独白》
+    questions:
+      - id: dyj-19-14-q1
+        prompt: 襲い来た
+        target: 銀毛
+        display: 襲い来た 『銀毛』の獣は どこか見た姿とさ
+        choices:
+          - ひたすら
+          - せかい
+          - しろがね
+          - してはいけないこと
+        correct: 2
+        answer:
+          text: しろがね
+          reading: しろがね
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-14-q2
+        prompt: 何の因果 悪戯か
+        target: 屍体
+        display: 何の因果 悪戯か 『屍体』を照らすは円なる月。
+        choices:
+          - うつく
+          - あが
+          - たま
+          - かばね
+        correct: 3
+        answer:
+          text: かばね
+          reading: かばね
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-14-q3
+        prompt: 何の因果 悪戯か 屍体（かばね）
+        target: を照らすは円
+        display: 何の因果 悪戯か 屍体『を照らすは円』なる月。
+        choices:
+          - のろい
+          - まどか
+          - ぜったい
+          - おんなのこ
+        correct: 1
+        answer:
+          text: まどか
+          reading: まどか
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-15
+    trackNumber: 15
+    songTitle: 仰ぐ その空を映した 我が友人（とも）のその瞳
+    questions:
+      - id: dyj-19-15-q1
+        prompt: 紡ぐ
+        target: 万
+        display: 紡ぐ 『万』の糸を
+        choices:
+          - ひ
+          - こいごころ
+          - きみ
+          - よろず
+        correct: 3
+        answer:
+          text: よろず
+          reading: よろず
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-15-q2
+        prompt: どうか
+        target: 忌むべき歴史
+        display: どうか 『忌むべき歴史』の
+        choices:
+          - きおく
+          - おとめ
+          - め
+          - ひびき
+        correct: 0
+        answer:
+          text: きおく
+          reading: きおく
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-16
+    trackNumber: 16
+    songTitle: 竹藪の中《　　人の慟哭》
+    questions:
+      - id: dyj-19-16-q1
+        prompt: 仰ぐ その身の罪を
+        target: ただただ嘆く友人
+        display: 仰ぐ その身の罪を 『ただただ嘆く友人』の姿
+        choices:
+          - せわたり
+          - とも
+          - いのち
+          - まぼろしのくに
+        correct: 1
+        answer:
+          text: とも
+          reading: とも
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-17
+    trackNumber: 17
+    songTitle: Kirisame Eversion
+    questions:
+      - id: dyj-19-17-q1
+        prompt: 「
+        target: 貴女
+        display: 「『貴女』しか見えない」 なら
+        choices:
+          - わたし
+          - しあわせ
+          - かえ
+          - つぶ
+        correct: 0
+        answer:
+          text: わたし
+          reading: わたし
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-17-q2
+        prompt: 傍から見れば
+        target: ただの友人
+        display: 傍から見れば 『ただの友人』か
+        choices:
+          - しりあい
+          - こがねいろ
+          - まがうた
+          - なぞ
+        correct: 0
+        answer:
+          text: しりあい
+          reading: しりあい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-19-17-q3
+        prompt: それはまるでそれを
+        target: 油断ならぬ敵と看做
+        display: それはまるでそれを 『油断ならぬ敵と看做』しているようで
+        choices:
+          - ぼうけん
+          - つもり
+          - みな
+          - すきま
+        correct: 2
+        answer:
+          text: みな
+          reading: みな
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-18
+    trackNumber: 18
+    songTitle: けして目を離さぬ 凶星（まがつぼし）
+    questions:
+      - id: dyj-19-18-q1
+        prompt: ''
+        target: 少女はどこまでも真っ直ぐに
+        display: 『少女はどこまでも真っ直ぐに』いるのか
+        choices:
+          - しあわせ
+          - おびやかして
+          - さだめ
+          - ゆがんで
+        correct: 3
+        answer:
+          text: ゆがんで
+          reading: ゆがんで
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-19
+    trackNumber: 19
+    songTitle: 『怪奇、 秘密、 神秘、 結界、 都市伝説、 etc...』（けして見えぬもの）
+    questions:
+      - id: dyj-19-19-q1
+        prompt: ''
+        target: 秘封倶楽部
+        display: 『秘封倶楽部』、 その名を掲げて。
+        choices:
+          - あめつち
+          - あばきつくすもの
+          - なぞ
+          - わたしたち
+        correct: 1
+        answer:
+          text: あばきつくすもの
+          reading: あばきつくすもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-20
+    trackNumber: 20
+    songTitle: Secret Keepers
+    questions:
+      - id: dyj-19-20-q1
+        prompt: ''
+        target: かくも醜きこれら幻想
+        display: 『かくも醜きこれら幻想』
+        choices:
+          - て
+          - fantasia
+          - まつり
+          - こころ
+        correct: 1
+        answer:
+          text: fantasia
+          reading: fantasia
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-21
+    trackNumber: 21
+    songTitle: 『欺瞞、利用、打算、野心、etc...』（けして見えぬもの）
+    questions:
+      - id: dyj-19-21-q1
+        prompt: ''
+        target: 秘封倶楽部
+        display: 『秘封倶楽部』、その名を名乗るの？
+        choices:
+          - すべてかくすもの
+          - まがうた
+          - やみ
+          - いき
+        correct: 0
+        answer:
+          text: すべてかくすもの
+          reading: すべてかくすもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-19-22
+    trackNumber: 22
+    songTitle: 『犠牲、生贄、餌食、道連、etc...』（けして見えぬもの）
+    questions:
+      - id: dyj-19-22-q1
+        prompt: ''
+        target: 秘封倶楽部
+        display: 『秘封倶楽部』、その名を背負うの？
+        choices:
+          - だれ
+          - がらくた
+          - あか
+          - すべてかくすもの
+        correct: 3
+        answer:
+          text: すべてかくすもの
+          reading: すべてかくすもの
+        tags:
+          - ateji
+          - 4択

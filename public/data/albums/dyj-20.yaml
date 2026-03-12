@@ -1,0 +1,1011 @@
+id: dyj-20
+title: 掲
+series: 凋叶棕 ナンバリング作品
+number: 20
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-20-01
+    trackNumber: 1
+    songTitle: 始符「博麗命名決闘法布告ノ儀」
+    questions:
+      - id: dyj-20-01-q1
+        prompt: ''
+        target: 一片
+        display: 『一片』の。
+        choices:
+          - おもちゃ
+          - むね
+          - ひとひら
+          - かお
+        correct: 2
+        answer:
+          text: ひとひら
+          reading: ひとひら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-02
+    trackNumber: 2
+    songTitle: 意味という符名（な）の定め。
+    questions:
+      - id: dyj-20-02-q1
+        prompt: ''
+        target: 祈祷
+        display: 『祈祷』り届ける。
+        choices:
+          - くび
+          - たどりつく
+          - やまびこ
+          - いの
+        correct: 3
+        answer:
+          text: いの
+          reading: いの
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-02-q2
+        prompt: 高く天まで高く
+        target: その始符
+        display: 高く天まで高く 『その始符』
+        choices:
+          - ことば
+          - かけら
+          - あい
+          - ひとひら
+        correct: 0
+        answer:
+          text: ことば
+          reading: ことば
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-03
+    trackNumber: 3
+    songTitle: 刻（とき）の限りに続けよと
+    questions:
+      - id: dyj-20-03-q1
+        prompt: ''
+        target: 夢の宣言
+        display: 『夢の宣言』を掲げて　　。
+        choices:
+          - るり
+          - なげ
+          - うたかた
+          - はじまり
+        correct: 3
+        answer:
+          text: はじまり
+          reading: はじまり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-04
+    trackNumber: 4
+    songTitle: 強き敵（もの）。
+    questions:
+      - id: dyj-20-04-q1
+        prompt: ''
+        target: それを宣
+        display: 『それを宣』び。
+        choices:
+          - つよ
+          - さけ
+          - あんこく
+          - ゆがんで
+        correct: 1
+        answer:
+          text: さけ
+          reading: さけ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-04-q2
+        prompt: その手に握るイデオロギー
+        target: 意志を符名
+        display: その手に握るイデオロギー 『意志を符名』にして
+        choices:
+          - おしえて
+          - て
+          - こい
+          - ことば
+        correct: 3
+        answer:
+          text: ことば
+          reading: ことば
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-04-q3
+        prompt: 今
+        target: 秩序
+        display: 今 『秩序』無き 弾闘に 新たな美学を添えて
+        choices:
+          - まぼろし
+          - さい
+          - けしてつづかぬもの
+          - rule
+        correct: 3
+        answer:
+          text: rule
+          reading: rule
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-04-q4
+        prompt: 今 秩序（rule）無き
+        target: 弾闘
+        display: 今 秩序無き 『弾闘』に 新たな美学を添えて
+        choices:
+          - すきま
+          - いのり
+          - ありかた
+          - あらそい
+        correct: 3
+        answer:
+          text: あらそい
+          reading: あらそい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-04-q5
+        prompt: 今 秩序（rule）無き 弾闘（あらそい）に
+        target: 新たな美学
+        display: 今 秩序無き 弾闘に 『新たな美学』を添えて
+        choices:
+          - rule
+          - こわす
+          - いき
+          - ごみくず
+        correct: 0
+        answer:
+          text: rule
+          reading: rule
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-05
+    trackNumber: 5
+    songTitle: 垣間見る 予見する 己の来るべき明日を幻視（み）る
+    questions:
+      - id: dyj-20-05-q1
+        prompt: 空を埋め尽くす弾幕に
+        target: 相対する昂揚
+        display: 空を埋め尽くす弾幕に 『相対する昂揚』は たとえる術などなく
+        choices:
+          - たかぶり
+          - よ
+          - さんげつうららちてらす
+          - あらゆるかたち
+        correct: 0
+        answer:
+          text: たかぶり
+          reading: たかぶり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-06
+    trackNumber: 6
+    songTitle: 強き私（もの）。
+    questions:
+      - id: dyj-20-06-q1
+        prompt: ''
+        target: それら宣
+        display: 『それら宣』ぶ。
+        choices:
+          - さけ
+          - やまびこ
+          - ばけ
+          - よ
+        correct: 0
+        answer:
+          text: さけ
+          reading: さけ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-06-q2
+        prompt: ''
+        target: それはきっとこの瞬間
+        display: 『それはきっとこの瞬間』さえ 変わらないことなのでしょう
+        choices:
+          - とき
+          - みむくろ
+          - みつからない
+          - かけら
+        correct: 0
+        answer:
+          text: とき
+          reading: とき
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-07
+    trackNumber: 7
+    songTitle: 携えて 撃ち放つ それが博麗（わたし）という名のスペルカード
+    questions:
+      - id: dyj-20-07-q1
+        prompt: 愚かしき企みの全て
+        target: 越えていく快感
+        display: 愚かしき企みの全て 『越えていく快感』は たとえる術などなく
+        choices:
+          - たのしさ
+          - ときをつげ
+          - ながれぼし
+          - おまえ
+        correct: 0
+        answer:
+          text: たのしさ
+          reading: たのしさ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-08
+    trackNumber: 8
+    songTitle: 二重（ふたえ）なる結界（かべ） 境界を消し去って
+    questions:
+      - id: dyj-20-08-q1
+        prompt: ''
+        target: そうしてはじまった世界
+        display: 『そうしてはじまった世界』が いつしか潰える日が来ても
+        choices:
+          - rule
+          - つき
+          - ノンシグナル
+          - かたちな
+        correct: 0
+        answer:
+          text: rule
+          reading: rule
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-09
+    trackNumber: 9
+    songTitle: 禁符「フォービドゥン・ゲーム」
+    questions:
+      - id: dyj-20-09-q1
+        prompt: ''
+        target: 私の弾幕
+        display: 『私の弾幕』を避けないで！！
+        choices:
+          - こわす
+          - のぞみ
+          - わたつみ
+          - こうい
+        correct: 3
+        answer:
+          text: こうい
+          reading: こうい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-10
+    trackNumber: 10
+    songTitle: 二つの『命（rule）』が握られているの
+    questions:
+      - id: dyj-20-10-q1
+        prompt: ''
+        target: 私を単体
+        display: 『私を単体』にしないで！
+        choices:
+          - げきせき
+          - たどりつく
+          - かたちな
+          - ひとり
+        correct: 3
+        answer:
+          text: ひとり
+          reading: ひとり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-11
+    trackNumber: 11
+    songTitle: 蝕符「スイート・ポイズン」
+    questions:
+      - id: dyj-20-11-q1
+        prompt: ''
+        target: 思念
+        display: 『思念』を持つものがいるなら
+        choices:
+          - ことば
+          - げんそう
+          - あれ
+          - ほんとう
+        correct: 0
+        answer:
+          text: ことば
+          reading: ことば
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-12
+    trackNumber: 12
+    songTitle: その言種（ことば）をそっと芽吹かせよう
+    questions:
+      - id: dyj-20-12-q1
+        prompt: ''
+        target: 何も知らないその精神
+        display: 『何も知らないその精神』は
+        choices:
+          - ものがたり
+          - かざ
+          - こころ
+          - や
+        correct: 2
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-13
+    trackNumber: 13
+    songTitle: 容（かたち）無き意志の器とて
+    questions:
+      - id: dyj-20-13-q1
+        prompt: ''
+        target: いとけなき歓声
+        display: 『いとけなき歓声』をあげて
+        choices:
+          - みんな
+          - かげ
+          - こえ
+          - はや
+        correct: 2
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-13-q2
+        prompt: われらが愛しき『
+        target: 小さき姫
+        display: われらが愛しき『『小さき姫』』
+        choices:
+          - しりたいこと
+          - sweet poison
+          - ちから
+          - うたごえ
+        correct: 1
+        answer:
+          text: sweet poison
+          reading: sweet poison
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-14
+    trackNumber: 14
+    songTitle: いとけなき掛声（こえ）をあげて
+    questions:
+      - id: dyj-20-14-q1
+        prompt: われらが麗しき『
+        target: 小さき女帝
+        display: われらが麗しき『『小さき女帝』』
+        choices:
+          - こちらがわ
+          - ディフュージョン
+          - sweet poison
+          - すきま
+        correct: 2
+        answer:
+          text: sweet poison
+          reading: sweet poison
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-15
+    trackNumber: 15
+    songTitle: 祭符「神遊びの唄」
+    questions:
+      - id: dyj-20-15-q1
+        prompt: ''
+        target: 振り放け見遣れば未闢の幻想郷
+        display: 『振り放け見遣れば未闢の幻想郷』に
+        choices:
+          - だいち
+          - そこ
+          - しり
+          - ひかり
+        correct: 0
+        answer:
+          text: だいち
+          reading: だいち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-16
+    trackNumber: 16
+    songTitle: 原風景（けしき）
+    questions:
+      - id: dyj-20-16-q1
+        prompt: ''
+        target: 瀬渡
+        display: 『瀬渡』斯くやも
+        choices:
+          - せわたり
+          - やりなお
+          - よろず
+          - まつり
+        correct: 0
+        answer:
+          text: せわたり
+          reading: せわたり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-17
+    trackNumber: 17
+    songTitle: 歓喜び咲（わら）うこと
+    questions:
+      - id: dyj-20-17-q1
+        prompt: ''
+        target: 涼
+        display: 『涼』れにそよぐ
+        choices:
+          - おんなのこ
+          - こえ
+          - なが
+          - ながれぼし
+        correct: 2
+        answer:
+          text: なが
+          reading: なが
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-18
+    trackNumber: 18
+    songTitle: 来無処（くなど）
+    questions:
+      - id: dyj-20-18-q1
+        prompt: その
+        target: 酣
+        display: その 『酣』なること
+        choices:
+          - たけなわ
+          - ながれぼし
+          - かいなで
+          - かばね
+        correct: 0
+        answer:
+          text: たけなわ
+          reading: たけなわ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-19
+    trackNumber: 19
+    songTitle: 拡散（ひろ）がる弾幕（けしき）に
+    questions:
+      - id: dyj-20-19-q1
+        prompt: ''
+        target: 奉避
+        display: 『奉避』る舞となって
+        choices:
+          - たどりついた
+          - われ
+          - おも
+          - ささげ
+        correct: 3
+        answer:
+          text: ささげ
+          reading: ささげ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-19-q2
+        prompt: 奉避（ささげ）
+        target: る舞
+        display: 奉避『る舞』となって
+        choices:
+          - よご
+          - ひとのこころ
+          - からっぽ
+          - うごき
+        correct: 3
+        answer:
+          text: うごき
+          reading: うごき
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-19-q3
+        prompt: ''
+        target: 神
+        display: 『神』祭ろうと楽ばすように
+        choices:
+          - われ
+          - み
+          - しりあい
+          - しんこう
+        correct: 0
+        answer:
+          text: われ
+          reading: われ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-19-q4
+        prompt: 神（われ）
+        target: 祭ろうと楽
+        display: 神『祭ろうと楽』ばすように
+        choices:
+          - おおかみ
+          - あそ
+          - しり
+          - さけ
+        correct: 1
+        answer:
+          text: あそ
+          reading: あそ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-20
+    trackNumber: 20
+    songTitle: 悠（はる）けく眠れ
+    questions:
+      - id: dyj-20-20-q1
+        prompt: ''
+        target: 永遠
+        display: 『永遠』の花褥
+        choices:
+          - ほしをみるひと
+          - あい
+          - わたし
+          - とわ
+        correct: 3
+        answer:
+          text: とわ
+          reading: とわ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-20-q2
+        prompt: 永遠（とわ）
+        target: の花褥
+        display: 永遠『の花褥』
+        choices:
+          - はなしとね
+          - のぞみ
+          - かげ
+          - ながれぼし
+        correct: 0
+        answer:
+          text: はなしとね
+          reading: はなしとね
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-21
+    trackNumber: 21
+    songTitle: 鉄の鑰（かぎ）持て
+    questions:
+      - id: dyj-20-21-q1
+        prompt: ''
+        target: かつての神話
+        display: 『かつての神話』
+        choices:
+          - こいごころ
+          - かばね
+          - あらごと
+          - まぼろし
+        correct: 2
+        answer:
+          text: あらごと
+          reading: あらごと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-22
+    trackNumber: 22
+    songTitle: うち滅（あそ）ばさん
+    questions:
+      - id: dyj-20-22-q1
+        prompt: ''
+        target: 拡散
+        display: 『拡散』がる弾幕
+        choices:
+          - ひろ
+          - おのれ
+          - ありかた
+          - あらゆるかたち
+        correct: 0
+        answer:
+          text: ひろ
+          reading: ひろ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-22-q2
+        prompt: 拡散（ひろ）
+        target: がる弾幕
+        display: 拡散『がる弾幕』
+        choices:
+          - かばね
+          - おもちゃ
+          - うたごえ
+          - すべて
+        correct: 2
+        answer:
+          text: うたごえ
+          reading: うたごえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-23
+    trackNumber: 23
+    songTitle: 祝避（いわい）の詞となって
+    questions:
+      - id: dyj-20-23-q1
+        prompt: ''
+        target: 神
+        display: 『神』祀ろうと唄わすように
+        choices:
+          - うすっぺらなそのおもい
+          - しろがね
+          - あが
+          - われ
+        correct: 3
+        answer:
+          text: われ
+          reading: われ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-23-q2
+        prompt: ''
+        target: 神
+        display: 『神』も演者をも楽ばすように
+        choices:
+          - ひび
+          - ひとがた
+          - われ
+          - うたごえ
+        correct: 2
+        answer:
+          text: われ
+          reading: われ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-23-q3
+        prompt: 神（われ）
+        target: も演者
+        display: 神『も演者』をも楽ばすように
+        choices:
+          - ぜったい
+          - のろい
+          - ゆうしゃ
+          - ひと
+        correct: 3
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-23-q4
+        prompt: 神（われ）も演者（ひと）
+        target: をも楽
+        display: 神も演者『をも楽』ばすように
+        choices:
+          - とんずら
+          - まぼろし
+          - ひそか
+          - あそ
+        correct: 3
+        answer:
+          text: あそ
+          reading: あそ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-23-q5
+        prompt: ''
+        target: 即ち明日
+        display: 『即ち明日』のちまた明日
+        choices:
+          - ディフュージョン
+          - スプライツ
+          - ハレ
+          - エゴ
+        correct: 2
+        answer:
+          text: ハレ
+          reading: ハレ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-23-q6
+        prompt: 即ち明日（ハレ）
+        target: のちまた明日
+        display: 即ち明日『のちまた明日』
+        choices:
+          - ショウジョ
+          - ライトスピード
+          - ハレ
+          - アキュムレーション
+        correct: 2
+        answer:
+          text: ハレ
+          reading: ハレ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-24
+    trackNumber: 24
+    songTitle: 核符「ミライノエネルギー」
+    questions:
+      - id: dyj-20-24-q1
+        prompt: 人の手に余る その力
+        target: 天を頂く陽炎
+        display: 人の手に余る その力 『天を頂く陽炎』
+        choices:
+          - なぞ
+          - かぎろい
+          - わらべあそび
+          - かけら
+        correct: 1
+        answer:
+          text: かぎろい
+          reading: かぎろい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-25
+    trackNumber: 25
+    songTitle: 美しき、原初（はじまり）の世界（こうけい）めがけて
+    questions:
+      - id: dyj-20-25-q1
+        prompt: ''
+        target: この火
+        display: 『この火』もて 全て照らさん
+        choices:
+          - ひかり
+          - だれか
+          - まぼ
+          - むね
+        correct: 0
+        answer:
+          text: ひかり
+          reading: ひかり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-26
+    trackNumber: 26
+    songTitle: この火（ひかり）もて 全て燃やしつくさん
+    questions:
+      - id: dyj-20-26-q1
+        prompt: 美しき、
+        target: 遥かな恒星
+        display: 美しき、『遥かな恒星』のように輝く
+        choices:
+          - おわらぬまつり
+          - こい
+          - しんこう
+          - ほし
+        correct: 3
+        answer:
+          text: ほし
+          reading: ほし
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-26-q2
+        prompt: 地の底に もう一つの星 我こそが「
+        target: 地獄の太陽
+        display: 地の底に もう一つの星 我こそが「『地獄の太陽』」
+        choices:
+          - ばしょ
+          - まぼろし
+          - くび
+          - subterranean sun
+        correct: 3
+        answer:
+          text: subterranean sun
+          reading: subterranean sun
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-27
+    trackNumber: 27
+    songTitle: 惑符「ナイトクロウラー」
+    questions:
+      - id: dyj-20-27-q1
+        prompt: ''
+        target: 己を描く有象無象
+        display: 『己を描く有象無象』が
+        choices:
+          - はし
+          - エゴ
+          - おまえ
+          - image
+        correct: 3
+        answer:
+          text: image
+          reading: image
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-28
+    trackNumber: 28
+    songTitle: 邪符「ハオシャオグイ」
+    questions:
+      - id: dyj-20-28-q1
+        prompt: ''
+        target: ただ満たされぬ欲望
+        display: 『ただ満たされぬ欲望』のまま
+        choices:
+          - しん
+          - おもい
+          - ばら
+          - おはなし
+        correct: 1
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-29
+    trackNumber: 29
+    songTitle: その執念（おもい）全て 受け止めて
+    questions:
+      - id: dyj-20-29-q1
+        prompt: ''
+        target: 変貌
+        display: 『変貌』り果てるのを
+        choices:
+          - そうぎょく
+          - からだ
+          - わたしたち
+          - かわ
+        correct: 3
+        answer:
+          text: かわ
+          reading: かわ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-30
+    trackNumber: 30
+    songTitle: 养小鬼（いのちなきもの）のその姿
+    questions:
+      - id: dyj-20-30-q1
+        prompt: ''
+        target: その妄執
+        display: 『その妄執』全て 受け止めて
+        choices:
+          - おもい
+          - やみ
+          - すきま
+          - ひとみ
+        correct: 0
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-31
+    trackNumber: 31
+    songTitle: 無題「空飛ぶ巫女と普通の魔法使いのいつもの毎日」
+    questions:
+      - id: dyj-20-31-q1
+        prompt: ''
+        target: 相手に押し付ける“符
+        display: 『相手に押し付ける“符』”なんて
+        choices:
+          - ideology
+          - ひろ
+          - だれか
+          - ともがら
+        correct: 0
+        answer:
+          text: ideology
+          reading: ideology
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-32
+    trackNumber: 32
+    songTitle: 私が思う一つ一つの“意味（ちから）”
+    questions:
+      - id: dyj-20-32-q1
+        prompt: さあ
+        target: 新たなる“ルール
+        display: さあ 『新たなる“ルール』”の下で！
+        choices:
+          - あそび
+          - うつく
+          - てき
+          - ふりょう
+        correct: 0
+        answer:
+          text: あそび
+          reading: あそび
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-33
+    trackNumber: 33
+    songTitle: 同じ空を飛翔（と）ぶ
+    questions:
+      - id: dyj-20-33-q1
+        prompt: ''
+        target: これが少女達
+        display: 『これが少女達』の遊びなら
+        choices:
+          - わらべあそび
+          - だいち
+          - こいごころ
+          - わたしたち
+        correct: 3
+        answer:
+          text: わたしたち
+          reading: わたしたち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-34
+    trackNumber: 34
+    songTitle: そういうのは符（spell）の中で
+    questions:
+      - id: dyj-20-34-q1
+        prompt: 散らばれ！
+        target: 甘い幻想
+        display: 散らばれ！ 『甘い幻想』は星屑のごとく
+        choices:
+          - reverie
+          - ひらめ
+          - さんげつうららちてらす
+          - せわたり
+        correct: 0
+        answer:
+          text: reverie
+          reading: reverie
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-20-35
+    trackNumber: 35
+    songTitle: 輝け！ 天（そら）を照らす地上の星
+    questions:
+      - id: dyj-20-35-q1
+        prompt: ''
+        target: 私の“符名
+        display: 『私の“符名』”はまだ“不明”から
+        choices:
+          - ほし
+          - し
+          - つもり
+          - いみ
+        correct: 3
+        answer:
+          text: いみ
+          reading: いみ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-20-35-q2
+        prompt: 私の“符名（いみ）
+        target: ”はまだ“不明
+        display: 私の“符名『”はまだ“不明』”から
+        choices:
+          - みなも
+          - あが
+          - みむくろ
+          - みつからない
+        correct: 3
+        answer:
+          text: みつからない
+          reading: みつからない
+        tags:
+          - ateji
+          - 4択

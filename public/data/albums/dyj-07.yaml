@@ -1,0 +1,359 @@
+id: dyj-07
+title: 綴
+series: 凋叶棕 ナンバリング作品
+number: 7
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-07-01
+    trackNumber: 1
+    songTitle: ヒカリ
+    questions:
+      - id: dyj-07-01-q1
+        prompt: ねぇ、愛しい『
+        target: 私の作品
+        display: ねぇ、愛しい『『私の作品』』
+        choices:
+          - このばしょ
+          - Alice
+          - くちぐちぐちぐちつぶさ
+          - へや
+        correct: 1
+        answer:
+          text: Alice
+          reading: Alice
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-02
+    trackNumber: 2
+    songTitle: そう、愛しい『私の代替物（Alice）』
+    questions:
+      - id: dyj-07-02-q1
+        prompt: さぁ、愛しい『
+        target: 私の人形
+        display: さぁ、愛しい『『私の人形』』
+        choices:
+          - さけ
+          - おのれ
+          - これ
+          - Alice
+        correct: 3
+        answer:
+          text: Alice
+          reading: Alice
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-03
+    trackNumber: 3
+    songTitle: A-Yah-YAh-YaH-YAH!
+    questions:
+      - id: dyj-07-03-q1
+        prompt: ''
+        target: 追い求め続けるものは形無き真実
+        display: 『追い求め続けるものは形無き真実』
+        choices:
+          - えんぎ
+          - つもり
+          - もの
+          - ごみくず
+        correct: 2
+        answer:
+          text: もの
+          reading: もの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-04
+    trackNumber: 4
+    songTitle: 旋風（かぜ）よ！
+    questions:
+      - id: dyj-07-04-q1
+        prompt: ''
+        target: 神風
+        display: 『神風』よ！
+        choices:
+          - かぜ
+          - あやまち
+          - あが
+          - あい
+        correct: 0
+        answer:
+          text: かぜ
+          reading: かぜ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-05
+    trackNumber: 5
+    songTitle: ホンノタビビト
+    questions:
+      - id: dyj-07-05-q1
+        prompt: ひとつめは、
+        target: 魔道書
+        display: ひとつめは、『魔道書』。
+        choices:
+          - つぶ
+          - grimoire
+          - これ
+          - あらゆるかたち
+        correct: 1
+        answer:
+          text: grimoire
+          reading: grimoire
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-06
+    trackNumber: 6
+    songTitle: ふたつめは、童話（conte de fée）。
+    questions:
+      - id: dyj-07-06-q1
+        prompt: みっつめは、
+        target: 新聞紙
+        display: みっつめは、『新聞紙』。
+        choices:
+          - journal
+          - からっぽ
+          - あなた
+          - あにあに
+        correct: 0
+        answer:
+          text: journal
+          reading: journal
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-07
+    trackNumber: 7
+    songTitle: よっつめは、絵本（livre d’images）。
+    questions:
+      - id: dyj-07-07-q1
+        prompt: ''
+        target: 大図書館
+        display: 『大図書館』
+        choices:
+          - わたしたち
+          - たどりつく
+          - からだわか
+          - このばしょ
+        correct: 3
+        answer:
+          text: このばしょ
+          reading: このばしょ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-08
+    trackNumber: 8
+    songTitle: いつつめは、年代記（chronicle）。
+    questions:
+      - id: dyj-07-08-q1
+        prompt: ''
+        target: 私の書斎
+        display: 『私の書斎』には欠かせない。
+        choices:
+          - へや
+          - からだわか
+          - くも
+          - は
+        correct: 0
+        answer:
+          text: へや
+          reading: へや
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-07-08-q2
+        prompt: むっつめは、
+        target: 学術論文
+        display: むっつめは、『学術論文』。
+        choices:
+          - しん
+          - ときをつげ
+          - せい
+          - la thèse
+        correct: 3
+        answer:
+          text: la thèse
+          reading: la thèse
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-09
+    trackNumber: 9
+    songTitle: Demon Strundum
+    questions:
+      - id: dyj-07-09-q1
+        prompt: 「
+        target: コンテニュー
+        display: 「『コンテニュー』」
+        choices:
+          - うすっぺらなそのおもい
+          - かそけ
+          - なすこと
+          - やりなおし
+        correct: 3
+        answer:
+          text: やりなおし
+          reading: やりなおし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-10
+    trackNumber: 10
+    songTitle: パラレルスカイ
+    questions:
+      - id: dyj-07-10-q1
+        prompt: ''
+        target: こんな世界
+        display: 『こんな世界』と、歩んでゆける。
+        choices:
+          - あぎと
+          - きせき
+          - かな
+          - そば
+        correct: 1
+        answer:
+          text: きせき
+          reading: きせき
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-11
+    trackNumber: 11
+    songTitle: 客星（ほし）の、光を、今、ああ！
+    questions:
+      - id: dyj-07-11-q1
+        prompt: 古い、
+        target: 秘術
+        display: 古い、『秘術』を、今、ああ！
+        choices:
+          - とも
+          - まほう
+          - ねがい
+          - うごき
+        correct: 1
+        answer:
+          text: まほう
+          reading: まほう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-12
+    trackNumber: 12
+    songTitle: 御阿礼幻想艶戯譚 -綴-
+    questions:
+      - id: dyj-07-12-q1
+        prompt: ''
+        target: かつて記したる感情
+        display: 『かつて記したる感情』をめぐり
+        choices:
+          - わからず
+          - こわ
+          - ひかり
+          - おもい
+        correct: 3
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-13
+    trackNumber: 13
+    songTitle: 一個（ひとり）の「登場人物（ひと）」としながら
+    questions:
+      - id: dyj-07-13-q1
+        prompt: ''
+        target: 綴られる艶戯
+        display: 『綴られる艶戯』は、「幻想」とさえ遊離して。
+        choices:
+          - ばけもの
+          - えんぎ
+          - ありかた
+          - げきせき
+        correct: 1
+        answer:
+          text: えんぎ
+          reading: えんぎ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-14
+    trackNumber: 14
+    songTitle: 嘘と慟哭
+    questions:
+      - id: dyj-07-14-q1
+        prompt: ''
+        target: 御伽の国の悲恋
+        display: 『御伽の国の悲恋』物語
+        choices:
+          - きずな
+          - はな
+          - こい
+          - いの
+        correct: 2
+        answer:
+          text: こい
+          reading: こい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-07-14-q2
+        prompt: ''
+        target: 夜盗かそれともはては妖怪
+        display: 『夜盗かそれともはては妖怪』の仕業か
+        choices:
+          - あやかし
+          - まほう
+          - なん
+          - うま
+        correct: 0
+        answer:
+          text: あやかし
+          reading: あやかし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-15
+    trackNumber: 15
+    songTitle: マッドパーティー
+    questions:
+      - id: dyj-07-15-q1
+        prompt: ''
+        target: 晩餐
+        display: 『晩餐』を始めるとしようか
+        choices:
+          - よご
+          - しょくじ
+          - おも
+          - うたかた
+        correct: 1
+        answer:
+          text: しょくじ
+          reading: しょくじ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-07-16
+    trackNumber: 16
+    songTitle: アイ・ウィッシュ・クロスフェード
+    questions:
+      - id: dyj-07-16-q1
+        prompt: いつかはそう、
+        target: あの星
+        display: いつかはそう、『あの星』の様に、
+        choices:
+          - あなた
+          - まじ
+          - おもさ
+          - こわ
+        correct: 0
+        answer:
+          text: あなた
+          reading: あなた
+        tags:
+          - ateji
+          - 4択

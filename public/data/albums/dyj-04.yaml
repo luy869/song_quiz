@@ -1,0 +1,231 @@
+id: dyj-04
+title: 廻
+series: 凋叶棕 ナンバリング作品
+number: 4
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-04-01
+    trackNumber: 1
+    songTitle: カレイドスコープ
+    questions:
+      - id: dyj-04-01-q1
+        prompt: ''
+        target: 絡み合う指と指の間
+        display: 『絡み合う指と指の間』から
+        choices:
+          - ながれぼし
+          - きせき
+          - めためた
+          - すきま
+        correct: 3
+        answer:
+          text: すきま
+          reading: すきま
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-04-02
+    trackNumber: 2
+    songTitle: 二色以上の彩（いろ）を魅せてよ
+    questions:
+      - id: dyj-04-02-q1
+        prompt: ''
+        target: 何も理解
+        display: 『何も理解』らない、言葉だけじゃ
+        choices:
+          - けみ
+          - わか
+          - ひろ
+          - いくどいくたび
+        correct: 1
+        answer:
+          text: わか
+          reading: わか
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-04-03
+    trackNumber: 3
+    songTitle: けして容（かたち）を為さない
+    questions:
+      - id: dyj-04-03-q1
+        prompt: ''
+        target: 何も認識
+        display: 『何も認識』えない、言葉だけじゃ
+        choices:
+          - なぞ
+          - ゆがんで
+          - よ
+          - しり
+        correct: 3
+        answer:
+          text: しり
+          reading: しり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-04-04
+    trackNumber: 4
+    songTitle: それでも館は廻っている
+    questions:
+      - id: dyj-04-04-q1
+        prompt: ''
+        target: それは優美
+        display: 『それは優美』
+        choices:
+          - こちらがわ
+          - elegance
+          - けが
+          - うご
+        correct: 1
+        answer:
+          text: elegance
+          reading: elegance
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-04-05
+    trackNumber: 5
+    songTitle: そして謙遜（modesty）
+    questions:
+      - id: dyj-04-05-q1
+        prompt: ''
+        target: あとは少しばかりの諧謔
+        display: 『あとは少しばかりの諧謔』
+        choices:
+          - wittiness
+          - まね
+          - つぶ
+          - いろ
+        correct: 0
+        answer:
+          text: wittiness
+          reading: wittiness
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-04-06
+    trackNumber: 6
+    songTitle: 絶対的一方通行
+    questions:
+      - id: dyj-04-06-q1
+        prompt: ''
+        target: 理解
+        display: 『理解』るな。探るな。
+        choices:
+          - な
+          - さだめ
+          - し
+          - わか
+        correct: 3
+        answer:
+          text: わか
+          reading: わか
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-04-06-q2
+        prompt: ''
+        target: 忘れられた世界が顕現
+        display: 『忘れられた世界が顕現』れる
+        choices:
+          - み
+          - かいなで
+          - やりなお
+          - あらわ
+        correct: 3
+        answer:
+          text: あらわ
+          reading: あらわ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-04-06-q3
+        prompt: ''
+        target: 行きはよくても帰りはもう幻想入り
+        display: 『行きはよくても帰りはもう幻想入り』。
+        choices:
+          - なぞ
+          - き
+          - こちらがわ
+          - あらわ
+        correct: 2
+        answer:
+          text: こちらがわ
+          reading: こちらがわ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-04-07
+    trackNumber: 7
+    songTitle: ヒメゴトクラブ
+    questions:
+      - id: dyj-04-07-q1
+        prompt: ''
+        target: 秘
+        display: 『秘』に封を
+        choices:
+          - うご
+          - あめつち
+          - しあわせ
+          - ひそか
+        correct: 3
+        answer:
+          text: ひそか
+          reading: ひそか
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-04-07-q2
+        prompt: ''
+        target: 現実
+        display: 『現実』と夢想
+        choices:
+          - かばね
+          - おしえて
+          - reality
+          - かげ
+        correct: 2
+        answer:
+          text: reality
+          reading: reality
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-04-07-q3
+        prompt: 現実（reality）
+        target: と夢想
+        display: 現実『と夢想』
+        choices:
+          - imaginary
+          - さんげつうららちてらす
+          - しり
+          - ひとのこころ
+        correct: 0
+        answer:
+          text: imaginary
+          reading: imaginary
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-04-08
+    trackNumber: 8
+    songTitle: 怪奇（uncanny）な幻想（fantasy）
+    questions:
+      - id: dyj-04-08-q1
+        prompt: ねぇ、
+        target: 聞かせてよ嬌声
+        display: ねぇ、『聞かせてよ嬌声』を
+        choices:
+          - こえ
+          - あそび
+          - みなも
+          - はだえ
+        correct: 0
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択

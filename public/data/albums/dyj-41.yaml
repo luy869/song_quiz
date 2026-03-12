@@ -1,0 +1,435 @@
+id: dyj-41
+title: 縺
+series: 凋叶棕 ナンバリング作品
+number: 41
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-41-01
+    trackNumber: 1
+    songTitle: ｜夢現｜
+    questions:
+      - id: dyj-41-01-q1
+        prompt: ｜夢｜の中へ
+        target: ｜現｜
+        display: ｜夢｜の中へ　『｜現｜』の中へ
+        choices:
+          - へや
+          - ゆめ
+          - まえ
+          - つくりもの
+        correct: 1
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-02
+    trackNumber: 2
+    songTitle: 踊れよ　踊れよ　神（われ）のまにまに
+    questions:
+      - id: dyj-41-02-q1
+        prompt: 忘れるな
+        target: 汝
+        display: 忘れるな　『汝』の立つ場所こそは何処
+        choices:
+          - じんせい
+          - おまえ
+          - ひと
+          - ばら
+        correct: 1
+        answer:
+          text: おまえ
+          reading: おまえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-03
+    trackNumber: 3
+    songTitle: 夜に朝に　変わらず実在（あ）るもの
+    questions:
+      - id: dyj-41-03-q1
+        prompt: ''
+        target: 戸
+        display: 『戸』に手を　触れるものたちよ
+        choices:
+          - はし
+          - あさあけ
+          - しろがね
+          - とびら
+        correct: 3
+        answer:
+          text: とびら
+          reading: とびら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-04
+    trackNumber: 4
+    songTitle: '|不思議⟩少女の見る夢は'
+    questions:
+      - id: dyj-41-04-q1
+        prompt: ''
+        target: ≪異端≫
+        display: 『≪異端≫』と呼ばれてかまわなかった
+        choices:
+          - ふりょう
+          - あれ
+          - みちばた
+          - まみ
+        correct: 0
+        answer:
+          text: ふりょう
+          reading: ふりょう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-05
+    trackNumber: 5
+    songTitle: 厳然たる客観性（オブジェクティビティ）こそが真実だから
+    questions:
+      - id: dyj-41-05-q1
+        prompt: ''
+        target: おまえの実在
+        display: 『おまえの実在』は其処に在れよ
+        choices:
+          - ときをつげ
+          - かぎろい
+          - うたげ
+          - ありかた
+        correct: 3
+        answer:
+          text: ありかた
+          reading: ありかた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-06
+    trackNumber: 6
+    songTitle: 月は其処に在りや？
+    questions:
+      - id: dyj-41-06-q1
+        prompt: 重なり果て
+        target: 苔むしたその先行研究
+        display: 重なり果て　『苔むしたその先行研究』
+        choices:
+          - レガシー
+          - ラストオカルトファンタジー
+          - ファイヤーパワー
+          - コヒーレント
+        correct: 0
+        answer:
+          text: レガシー
+          reading: レガシー
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-07
+    trackNumber: 7
+    songTitle: 破られぬ定理（セオリー）探しては
+    questions:
+      - id: dyj-41-07-q1
+        prompt: ''
+        target: それだから踊るのよ円舞曲
+        display: 『それだから踊るのよ円舞曲』
+        choices:
+          - ワルツ
+          - ハレ
+          - ファイヤーパワー
+          - ディフュージョン
+        correct: 0
+        answer:
+          text: ワルツ
+          reading: ワルツ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-08
+    trackNumber: 8
+    songTitle: 五感さえも　欺くようなその研究（スタディ）
+    questions:
+      - id: dyj-41-08-q1
+        prompt: ''
+        target: 在りもしない変数
+        display: 『在りもしない変数』に追いやられて
+        choices:
+          - かず
+          - ひ
+          - ほんとう
+          - わらべあそび
+        correct: 0
+        answer:
+          text: かず
+          reading: かず
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-09
+    trackNumber: 9
+    songTitle: 確かなる命題（テーゼ）拘って
+    questions:
+      - id: dyj-41-09-q1
+        prompt: ''
+        target: 汝
+        display: 『汝』が辿り着ける叙情歌？
+        choices:
+          - けが
+          - ひたむき
+          - しにげしょう
+          - おまえ
+        correct: 3
+        answer:
+          text: おまえ
+          reading: おまえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-41-09-q2
+        prompt: 汝（おまえ）
+        target: が辿り着ける叙情歌
+        display: 汝『が辿り着ける叙情歌』？
+        choices:
+          - アリア
+          - デマゴーグ
+          - スペリオリティ
+          - カプリチオ
+        correct: 0
+        answer:
+          text: アリア
+          reading: アリア
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-10
+    trackNumber: 10
+    songTitle: 後退（レトロ）を崇めて美徳とて
+    questions:
+      - id: dyj-41-10-q1
+        prompt: ''
+        target: 汝
+        display: 『汝』の道は真理、也や？
+        choices:
+          - あやかし
+          - おまえ
+          - たどりついた
+          - くも
+        correct: 1
+        answer:
+          text: おまえ
+          reading: おまえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-11
+    trackNumber: 11
+    songTitle: 少女実在性倶楽部
+    questions:
+      - id: dyj-41-11-q1
+        prompt: でも足りない
+        target: Ψ
+        display: でも足りない　『Ψ』は投げない
+        choices:
+          - さい
+          - ひとり
+          - おしえて
+          - ばけもの
+        correct: 0
+        answer:
+          text: さい
+          reading: さい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-12
+    trackNumber: 12
+    songTitle: 作用（ふれ）るとき
+    questions:
+      - id: dyj-41-12-q1
+        prompt: ''
+        target: 伝送禁止
+        display: 『伝送禁止』な感情の侭に
+        choices:
+          - ノンシグナル
+          - イリンクス
+          - アッパー
+          - ダッシュ
+        correct: 0
+        answer:
+          text: ノンシグナル
+          reading: ノンシグナル
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-13
+    trackNumber: 13
+    songTitle: 実在（あ）る
+    questions:
+      - id: dyj-41-13-q1
+        prompt: ''
+        target: 独善
+        display: 『独善』
+        choices:
+          - アリス
+          - サネカズラ
+          - ラディカル
+          - エゴ
+        correct: 3
+        answer:
+          text: エゴ
+          reading: エゴ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-41-13-q2
+        prompt: ''
+        target: 解
+        display: 『解』を持たない　貴女を探して
+        choices:
+          - かぜ
+          - からだ
+          - こたえ
+          - く
+        correct: 2
+        answer:
+          text: こたえ
+          reading: こたえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-41-13-q3
+        prompt: 解（こたえ）を持たない
+        target: 貴女
+        display: 解を持たない　『貴女』を探して
+        choices:
+          - こちらがわ
+          - これ
+          - だれか
+          - ふしぎ
+        correct: 3
+        answer:
+          text: ふしぎ
+          reading: ふしぎ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-14
+    trackNumber: 14
+    songTitle: 全てが計算（もと）められたら
+    questions:
+      - id: dyj-41-14-q1
+        prompt: ''
+        target: '[Δx]'
+        display: 『[Δx]』の
+        choices:
+          - とわ
+          - しょうぶ
+          - はなしとね
+          - 不確定な私たち
+        correct: 3
+        answer:
+          text: 不確定な私たち
+          reading: 不確定な私たち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-15
+    trackNumber: 15
+    songTitle: '[Δt]（不確定な私たち）の'
+    questions:
+      - id: dyj-41-15-q1
+        prompt: ''
+        target: 誰かがみる舞台
+        display: 『誰かがみる舞台』であっても？
+        choices:
+          - ゆめ
+          - かいじん
+          - すきま
+          - ともがら
+        correct: 0
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-16
+    trackNumber: 16
+    songTitle: 敗北主義的（イロジカル）な感情を
+    questions:
+      - id: dyj-41-16-q1
+        prompt: ''
+        target: '|Ψ⟩'
+        display: 『|Ψ⟩』にならない！
+        choices:
+          - こうい
+          - つくりもの
+          - まざ
+          - かい
+        correct: 3
+        answer:
+          text: かい
+          reading: かい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-17
+    trackNumber: 17
+    songTitle: '[単独系]（ひとり）では'
+    questions:
+      - id: dyj-41-17-q1
+        prompt: ''
+        target: 立式不能
+        display: 『立式不能』ない
+        choices:
+          - しきにでき
+          - なぞ
+          - げきせき
+          - かえ
+        correct: 0
+        answer:
+          text: しきにでき
+          reading: しきにでき
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-18
+    trackNumber: 18
+    songTitle: 少女期の終わりに
+    questions:
+      - id: dyj-41-18-q1
+        prompt: ''
+        target: 残月
+        display: 『残月』も照らせよ
+        choices:
+          - ひたむき
+          - このばしょ
+          - ごみくず
+          - つき
+        correct: 3
+        answer:
+          text: つき
+          reading: つき
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-41-19
+    trackNumber: 19
+    songTitle: 確かに実在（あ）るのにね
+    questions:
+      - id: dyj-41-19-q1
+        prompt: けれど　そうよ　いつか
+        target: どんな活動
+        display: けれど　そうよ　いつか　『どんな活動』もね
+        choices:
+          - イリンクス
+          - アソビ
+          - メトロポリス
+          - スプライツ
+        correct: 1
+        answer:
+          text: アソビ
+          reading: アソビ
+        tags:
+          - ateji
+          - 4択

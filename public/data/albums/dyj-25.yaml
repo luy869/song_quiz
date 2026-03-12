@@ -1,0 +1,159 @@
+id: dyj-25
+title: 祀
+series: 凋叶棕 ナンバリング作品
+number: 25
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-25-01
+    trackNumber: 1
+    songTitle: まつりまつられ
+    questions:
+      - id: dyj-25-01-q1
+        prompt: ''
+        target: それこそがあなたとわたしの回帰点
+        display: 『それこそがあなたとわたしの回帰点』なら。
+        choices:
+          - はじまり
+          - あばきつくすもの
+          - すきま
+          - まみ
+        correct: 0
+        answer:
+          text: はじまり
+          reading: はじまり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-25-02
+    trackNumber: 2
+    songTitle: めくるめく色彩（いろ）
+    questions:
+      - id: dyj-25-02-q1
+        prompt: ''
+        target: 何もなかった空白
+        display: 『何もなかった空白』を今や
+        choices:
+          - だれか
+          - せかい
+          - にえ
+          - がらくた
+        correct: 1
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-25-03
+    trackNumber: 3
+    songTitle: まだ不確実（わからな）い在り方がいつか
+    questions:
+      - id: dyj-25-03-q1
+        prompt: ''
+        target: 神なき現実
+        display: 『神なき現実』に一つの幻想を見る。
+        choices:
+          - わからず
+          - こえ
+          - けがれたばしょ
+          - せかい
+        correct: 3
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-25-03-q2
+        prompt: 神なき現実（せかい）
+        target: に一つの幻想
+        display: 神なき現実『に一つの幻想』を見る。
+        choices:
+          - ことば
+          - たかぶり
+          - これ
+          - せかい
+        correct: 3
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-25-04
+    trackNumber: 4
+    songTitle: 見る幻想は大幻想（おおきなもの）へ
+    questions:
+      - id: dyj-25-04-q1
+        prompt: ''
+        target: 幻想
+        display: 『幻想』だけがそこにある。さあ！
+        choices:
+          - たびびと
+          - わらべあそび
+          - ふるさと
+          - こたえ
+        correct: 3
+        answer:
+          text: こたえ
+          reading: こたえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-25-04-q2
+        prompt: ''
+        target: その先に何を幻視
+        display: 『その先に何を幻視』る。
+        choices:
+          - み
+          - とわ
+          - すく
+          - うま
+        correct: 0
+        answer:
+          text: み
+          reading: み
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-25-05
+    trackNumber: 5
+    songTitle: 幻想浪漫綺行(is the limit.)
+    questions:
+      - id: dyj-25-05-q1
+        prompt: そこは、
+        target: 幻想浪漫
+        display: そこは、『幻想浪漫』の未だ見ぬ世界
+        choices:
+          - たけなわ
+          - きずな
+          - まぼろし
+          - しりあい
+        correct: 2
+        answer:
+          text: まぼろし
+          reading: まぼろし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-25-06
+    trackNumber: 6
+    songTitle: 今の私を縛り付ける重力（ちから）も無く
+    questions:
+      - id: dyj-25-06-q1
+        prompt: …
+        target: 夜空翔けるBrazin’Star
+        display: …『夜空翔けるBrazin’Star』
+        choices:
+          - このばしょ
+          - きらわれもの
+          - りょうめ
+          - ながれぼし
+        correct: 3
+        answer:
+          text: ながれぼし
+          reading: ながれぼし
+        tags:
+          - ateji
+          - 4択

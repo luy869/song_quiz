@@ -1,0 +1,287 @@
+id: dyj-13
+title: 薦
+series: 凋叶棕 ナンバリング作品
+number: 13
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-13-01
+    trackNumber: 1
+    songTitle: 永啼鳥
+    questions:
+      - id: dyj-13-01-q1
+        prompt: それでも、何より、
+        target: 禍々
+        display: それでも、何より、『禍々』しい。
+        choices:
+          - うつく
+          - と
+          - ちから
+          - はな
+        correct: 0
+        answer:
+          text: うつく
+          reading: うつく
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-13-01-q2
+        prompt: ''
+        target: 響く鬨
+        display: 『響く鬨』の声。願望と許容とを綯い交ぜに
+        choices:
+          - そこ
+          - かなえ
+          - わら
+          - とき
+        correct: 3
+        answer:
+          text: とき
+          reading: とき
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-13-01-q3
+        prompt: 響く鬨（とき）の声。
+        target: 願望
+        display: 響く鬨の声。『願望』と許容とを綯い交ぜに
+        choices:
+          - あそび
+          - おおかみ
+          - ねがい
+          - だれか
+        correct: 2
+        answer:
+          text: ねがい
+          reading: ねがい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-13-01-q4
+        prompt: 響く鬨（とき）の声。願望（ねがい）
+        target: と許容
+        display: 響く鬨の声。願望『と許容』とを綯い交ぜに
+        choices:
+          - うすっぺらなそのおもい
+          - げんじつ
+          - ゆるし
+          - むいしき
+        correct: 2
+        answer:
+          text: ゆるし
+          reading: ゆるし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-02
+    trackNumber: 2
+    songTitle: 刻んだ。何より深く。その傷痕に、燻る魂（いのち）。
+    questions:
+      - id: dyj-13-02-q1
+        prompt: ''
+        target: 命の限りに殺して
+        display: 『命の限りに殺して』やる！
+        choices:
+          - おわ
+          - たま
+          - ありかた
+          - おしえて
+        correct: 3
+        answer:
+          text: おしえて
+          reading: おしえて
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-03
+    trackNumber: 3
+    songTitle: RAINMAKER
+    questions:
+      - id: dyj-13-03-q1
+        prompt: ねぇ
+        target: わたしの雨乞師
+        display: ねぇ 『わたしの雨乞師』
+        choices:
+          - ふしぎ
+          - まがうた
+          - あばきつくすもの
+          - rainmaker
+        correct: 3
+        answer:
+          text: rainmaker
+          reading: rainmaker
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-04
+    trackNumber: 4
+    songTitle: 捧げられたイメェジ
+    questions:
+      - id: dyj-13-04-q1
+        prompt: ねえ、
+        target: 貴女
+        display: ねえ、『貴女』。
+        choices:
+          - いみ
+          - こんぺいとう
+          - らくえん
+          - Merry
+        correct: 3
+        answer:
+          text: Merry
+          reading: Merry
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-05
+    trackNumber: 5
+    songTitle: ねえ、私（Merry）。
+    questions:
+      - id: dyj-13-05-q1
+        prompt: ''
+        target: 幻想
+        display: 『幻想』が、牙を剥く。
+        choices:
+          - ゆうしゃ
+          - サネカズラ
+          - げんじつ
+          - Gymnopédies
+        correct: 3
+        answer:
+          text: Gymnopédies
+          reading: Gymnopédies
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-06
+    trackNumber: 6
+    songTitle: かぜなきし
+    questions:
+      - id: dyj-13-06-q1
+        prompt: 人の生み出した、
+        target: 鉄
+        display: 人の生み出した、『鉄』を絆とす。
+        choices:
+          - かばね
+          - このせかい
+          - しにげしょう
+          - つち
+        correct: 3
+        answer:
+          text: つち
+          reading: つち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-07
+    trackNumber: 7
+    songTitle: 揺らぎ、猶予（たゆた）う、人の祈りに。
+    questions:
+      - id: dyj-13-07-q1
+        prompt: ''
+        target: 鈍色に聳
+        display: 『鈍色に聳』える、鉄の海に埋もれ。
+        choices:
+          - おやがみ
+          - さんげつうららちてらす
+          - そび
+          - き
+        correct: 2
+        answer:
+          text: そび
+          reading: そび
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-13-07-q2
+        prompt: 人の縋っていた、
+        target: 信仰
+        display: 人の縋っていた、『信仰』は消え行く。
+        choices:
+          - からだ
+          - かぎろい
+          - おもい
+          - ひとり
+        correct: 2
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-08
+    trackNumber: 8
+    songTitle: 落日ロマンス
+    questions:
+      - id: dyj-13-08-q1
+        prompt: ''
+        target: あとどれだけ愛
+        display: 『あとどれだけ愛』を重ねれば。
+        choices:
+          - うそ
+          - てき
+          - い
+          - ひらめ
+        correct: 0
+        answer:
+          text: うそ
+          reading: うそ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-09
+    trackNumber: 9
+    songTitle: R.I.P
+    questions:
+      - id: dyj-13-09-q1
+        prompt: ''
+        target: 閉ざされた扉
+        display: 『閉ざされた扉』
+        choices:
+          - door
+          - マロングラッセ
+          - かぐわ
+          - ショウジョ
+        correct: 0
+        answer:
+          text: door
+          reading: door
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-13-09-q2
+        prompt: 斯くも奇異なる「
+        target: 密室の少女たち
+        display: 斯くも奇異なる「『密室の少女たち』」
+        choices:
+          - locked girls
+          - あぎと
+          - サーガ
+          - ばけ
+        correct: 0
+        answer:
+          text: locked girls
+          reading: locked girls
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-13-10
+    trackNumber: 10
+    songTitle: 閉ざされた扉（door）の向こうに陽が差込むとき。
+    questions:
+      - id: dyj-13-10-q1
+        prompt: せめて、どうか、
+        target: 安らかに
+        display: せめて、どうか、『安らかに』。
+        choices:
+          - くちづけ
+          - Requiescant Patche in Pace
+          - かず
+          - と
+        correct: 1
+        answer:
+          text: Requiescant Patche in Pace
+          reading: Requiescant Patche in Pace
+        tags:
+          - ateji
+          - 4択

@@ -1,0 +1,339 @@
+id: dyj-44
+title: 牟
+series: 凋叶棕 ナンバリング作品
+number: 44
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-44-01
+    trackNumber: 1
+    songTitle: 秘封的ワンダーライフ
+    questions:
+      - id: dyj-44-01-q1
+        prompt: さあ　暴けよ
+        target: 数多蔓延る怪奇
+        display: さあ　暴けよ　『数多蔓延る怪奇』を　暗闇蠢くurban　銀の弾丸で　bang × 3
+        choices:
+          - は
+          - ばけ
+          - うたげ
+          - のこ
+        correct: 1
+        answer:
+          text: ばけ
+          reading: ばけ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-44-01-q2
+        prompt: ''
+        target: そんなこんなで自己特別性
+        display: 『そんなこんなで自己特別性』は危機的状況
+        choices:
+          - アイデンティティ
+          - ラディカル
+          - ラストオカルティズム
+          - コヒーレント
+        correct: 0
+        answer:
+          text: アイデンティティ
+          reading: アイデンティティ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-44-01-q3
+        prompt: そんなこんなで自己特別性（アイデンティティ）
+        target: は危機的状況
+        display: そんなこんなで自己特別性『は危機的状況』
+        choices:
+          - マロングラッセ
+          - クライシス
+          - アイデンティティ
+          - レアリティ
+        correct: 1
+        answer:
+          text: クライシス
+          reading: クライシス
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-02
+    trackNumber: 2
+    songTitle: 疑いもて“真実”よ強硬（つよ）く
+    questions:
+      - id: dyj-44-02-q1
+        prompt: 口にしてないか？
+        target: 禁断の果実
+        display: 口にしてないか？　『禁断の果実』
+        choices:
+          - オールドアダム
+          - イドラ
+          - メトロポリス
+          - クライシス
+        correct: 0
+        answer:
+          text: オールドアダム
+          reading: オールドアダム
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-03
+    trackNumber: 3
+    songTitle: 脳裏をめぐる夢幻の超力（エネルギー）
+    questions:
+      - id: dyj-44-03-q1
+        prompt: ''
+        target: こんなに現実
+        display: 『こんなに現実』が詰まらないなら
+        choices:
+          - せかい
+          - かぜ
+          - まざ
+          - おも
+        correct: 0
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-04
+    trackNumber: 4
+    songTitle: 第五種接近遭遇
+    questions:
+      - id: dyj-44-04-q1
+        prompt: ''
+        target: なんて素敵な第五種接近遭遇
+        display: 『なんて素敵な第五種接近遭遇』
+        choices:
+          - メトロポリス
+          - レガシー
+          - クラウンピース
+          - クロースエンカウンター
+        correct: 3
+        answer:
+          text: クロースエンカウンター
+          reading: クロースエンカウンター
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-05
+    trackNumber: 5
+    songTitle: グラッジーモンスター
+    questions:
+      - id: dyj-44-05-q1
+        prompt: ''
+        target: 血池
+        display: 『血池』を揺らす　血塗れの影は*5
+        choices:
+          - かんじょう
+          - ひとつ
+          - ひらめ
+          - みなも
+        correct: 3
+        answer:
+          text: みなも
+          reading: みなも
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-44-05-q2
+        prompt: 血池（みなも）を揺らす
+        target: 血塗れの影は
+        display: 血池を揺らす　『血塗れの影は』*5
+        choices:
+          - まみじゃないね？
+          - まどか
+          - せわたり
+          - けが
+        correct: 0
+        answer:
+          text: まみじゃないね？
+          reading: まみじゃないね？
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-06
+    trackNumber: 6
+    songTitle: まるで染硝子（ステンドグラス）か？
+    questions:
+      - id: dyj-44-06-q1
+        prompt: ''
+        target: 自分結局何妖怪
+        display: 『自分結局何妖怪』すか？
+        choices:
+          - なん
+          - しり
+          - あらゆるかたち
+          - あい
+        correct: 0
+        answer:
+          text: なん
+          reading: なん
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-44-06-q2
+        prompt: ''
+        target: 自分でもわからないが刺激的な妖生
+        display: 『自分でもわからないが刺激的な妖生』送れちゃっちゃあ！
+        choices:
+          - わたつみ
+          - じんせい
+          - わか
+          - とわ
+        correct: 1
+        answer:
+          text: じんせい
+          reading: じんせい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-07
+    trackNumber: 7
+    songTitle: 世界轉覆奇談
+    questions:
+      - id: dyj-44-07-q1
+        prompt: ''
+        target: 牟限に拡散
+        display: 『牟限に拡散』がり続けていく
+        choices:
+          - ほし
+          - ひろ
+          - うで
+          - けが
+        correct: 1
+        answer:
+          text: ひろ
+          reading: ひろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-08
+    trackNumber: 8
+    songTitle: 吹きすさぶ凶（まが）つ風
+    questions:
+      - id: dyj-44-08-q1
+        prompt: ''
+        target: 天
+        display: 『天』より星が降り注いで
+        choices:
+          - そら
+          - まざ
+          - かみ
+          - わらえる
+        correct: 0
+        answer:
+          text: そら
+          reading: そら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-09
+    trackNumber: 9
+    songTitle: やがて神になる
+    questions:
+      - id: dyj-44-09-q1
+        prompt: ''
+        target: 未来
+        display: 『未来』が為、眠り続ける
+        choices:
+          - ばしょ
+          - さけ
+          - あらそい
+          - あす
+        correct: 3
+        answer:
+          text: あす
+          reading: あす
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-10
+    trackNumber: 10
+    songTitle: 深き海（つち）の底
+    questions:
+      - id: dyj-44-10-q1
+        prompt: ''
+        target: 海神
+        display: 『海神』の顎　振り被りて　目指すは　海人数多　仰ぎ見る先へ
+        choices:
+          - こころ
+          - ひと
+          - ばしょ
+          - わたつみ
+        correct: 3
+        answer:
+          text: わたつみ
+          reading: わたつみ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-44-10-q2
+        prompt: 海神（わたつみ）
+        target: の顎
+        display: 海神『の顎』　振り被りて　目指すは　海人数多　仰ぎ見る先へ
+        choices:
+          - おもちゃ
+          - ことば
+          - かぜ
+          - あぎと
+        correct: 3
+        answer:
+          text: あぎと
+          reading: あぎと
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-44-10-q3
+        prompt: 海神（わたつみ）の顎（あぎと）　振り被りて　目指すは
+        target: 海人
+        display: 海神の顎　振り被りて　目指すは　『海人』数多　仰ぎ見る先へ
+        choices:
+          - や
+          - あまびと
+          - いのり
+          - はじまり
+        correct: 1
+        answer:
+          text: あまびと
+          reading: あまびと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-44-11
+    trackNumber: 11
+    songTitle: 轟く雷鳴　雨（あま）逆らい　目指すは　雲咬み千切り　昇りゆく先へ
+    questions:
+      - id: dyj-44-11-q1
+        prompt: ''
+        target: 虹を軌跡
+        display: 『虹を軌跡』し　天翔けるように　目指すは　遙か遠くの　空の彼方へ
+        choices:
+          - のこ
+          - みつからない
+          - かぎろい
+          - いのり
+        correct: 0
+        answer:
+          text: のこ
+          reading: のこ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-44-11-q2
+        prompt: 虹を軌跡（のこ）し
+        target: 天
+        display: 虹を軌跡し　『天』翔けるように　目指すは　遙か遠くの　空の彼方へ
+        choices:
+          - かざ
+          - まがうた
+          - あま
+          - いみ
+        correct: 2
+        answer:
+          text: あま
+          reading: あま
+        tags:
+          - ateji
+          - 4択

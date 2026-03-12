@@ -1,0 +1,395 @@
+id: dyj-34
+title: 𠷡
+series: 凋叶棕 ナンバリング作品
+number: 34
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-34-01
+    trackNumber: 1
+    songTitle: わんだーらんど・でさくらいぜーしょん
+    questions:
+      - id: dyj-34-01-q1
+        prompt: ''
+        target: そして誰もいない闃寂
+        display: 『そして誰もいない闃寂』に
+        choices:
+          - やりなお
+          - きみ
+          - げきせき
+          - とも
+        correct: 2
+        answer:
+          text: げきせき
+          reading: げきせき
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-02
+    trackNumber: 2
+    songTitle: ≪個人領域侵犯≫（わんだーらんど・さくらいぜーしょん）
+    questions:
+      - id: dyj-34-02-q1
+        prompt: ''
+        target: ≪聖域侵害≫
+        display: 『≪聖域侵害≫』
+        choices:
+          - みなも
+          - ほしをみるひと
+          - ぜったい
+          - わんだーらんど・さくらいぜーしょん
+        correct: 3
+        answer:
+          text: わんだーらんど・さくらいぜーしょん
+          reading: わんだーらんど・さくらいぜーしょん
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-03
+    trackNumber: 3
+    songTitle: 幻想郷（せかい）がきっと
+    questions:
+      - id: dyj-34-03-q1
+        prompt: ''
+        target: 幻想
+        display: 『幻想』として
+        choices:
+          - ものがたり
+          - さい
+          - のこ
+          - あま
+        correct: 0
+        answer:
+          text: ものがたり
+          reading: ものがたり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-04
+    trackNumber: 4
+    songTitle: 恋人形
+    questions:
+      - id: dyj-34-04-q1
+        prompt: ''
+        target: 赤くて赫赫
+        display: 『赤くて赫赫』くて赫赫赫くて赫赫赫赫赫くて
+        choices:
+          - あか
+          - よわいもの
+          - おびやかして
+          - うすっぺらなそのおもい
+        correct: 0
+        answer:
+          text: あか
+          reading: あか
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-34-04-q2
+        prompt: 赤くて赫赫（あか）
+        target: くて赫赫赫
+        display: 赤くて赫赫『くて赫赫赫』くて赫赫赫赫赫くて
+        choices:
+          - おんなのこ
+          - ふたり
+          - あか
+          - たどりつく
+        correct: 2
+        answer:
+          text: あか
+          reading: あか
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-34-04-q3
+        prompt: 赤くて赫赫（あか）くて赫赫赫（あか）
+        target: くて赫赫赫赫赫
+        display: 赤くて赫赫くて赫赫赫『くて赫赫赫赫赫』くて
+        choices:
+          - なん
+          - まどか
+          - あか
+          - おもちゃ
+        correct: 2
+        answer:
+          text: あか
+          reading: あか
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-05
+    trackNumber: 5
+    songTitle: 血濡れの恋人形（ラブドール）
+    questions:
+      - id: dyj-34-05-q1
+        prompt: ''
+        target: 処女
+        display: 『処女』にするみたいに
+        choices:
+          - おとめ
+          - まみ
+          - とも
+          - みちばた
+        correct: 0
+        answer:
+          text: おとめ
+          reading: おとめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-06
+    trackNumber: 6
+    songTitle: そうして“敵”（わたし）をもう一度
+    questions:
+      - id: dyj-34-06-q1
+        prompt: ''
+        target: いまも身心
+        display: 『いまも身心』まで震わせるあの眼
+        choices:
+          - しん
+          - わらべあそび
+          - みちのり
+          - じんせい
+        correct: 0
+        answer:
+          text: しん
+          reading: しん
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-34-06-q2
+        prompt: ''
+        target: 恐怖
+        display: 『恐怖』くて畏怖くて怖気くて怖怖くて
+        choices:
+          - こわ
+          - ほんとう
+          - かげ
+          - おやがみ
+        correct: 0
+        answer:
+          text: こわ
+          reading: こわ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-34-06-q3
+        prompt: 恐怖（こわ）
+        target: くて畏怖
+        display: 恐怖『くて畏怖』くて怖気くて怖怖くて
+        choices:
+          - わらべあそび
+          - こわ
+          - わたしたち
+          - けしてつづかぬもの
+        correct: 1
+        answer:
+          text: こわ
+          reading: こわ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-34-06-q4
+        prompt: 恐怖（こわ）くて畏怖（こわ）
+        target: くて怖気
+        display: 恐怖くて畏怖『くて怖気』くて怖怖くて
+        choices:
+          - ながれぼし
+          - よわいもの
+          - こわ
+          - きらわれもの
+        correct: 2
+        answer:
+          text: こわ
+          reading: こわ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-34-06-q5
+        prompt: 恐怖（こわ）くて畏怖（こわ）くて怖気（こわ）
+        target: くて怖怖
+        display: 恐怖くて畏怖くて怖気『くて怖怖』くて
+        choices:
+          - ながれぼし
+          - のぞむこと
+          - こわ
+          - まほう
+        correct: 2
+        answer:
+          text: こわ
+          reading: こわ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-07
+    trackNumber: 7
+    songTitle: あの眼で焼殺（もや）すまで
+    questions:
+      - id: dyj-34-07-q1
+        prompt: ''
+        target: 心臓
+        display: 『心臓』ごと握り潰して
+        choices:
+          - ぼうけん
+          - ほし
+          - こいごころ
+          - たま
+        correct: 2
+        answer:
+          text: こいごころ
+          reading: こいごころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-08
+    trackNumber: 8
+    songTitle: two of a kind
+    questions:
+      - id: dyj-34-08-q1
+        prompt: ''
+        target: その表情
+        display: 『その表情』一つして
+        choices:
+          - かお
+          - のぞむこと
+          - かんじょう
+          - だ
+        correct: 0
+        answer:
+          text: かお
+          reading: かお
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-34-08-q2
+        prompt: ''
+        target: 言葉なくも交わす伝言
+        display: 『言葉なくも交わす伝言』
+        choices:
+          - メッサージュ
+          - スプライツ
+          - ノンシグナル
+          - コヒーレント
+        correct: 0
+        answer:
+          text: メッサージュ
+          reading: メッサージュ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-09
+    trackNumber: 9
+    songTitle: Shoot the shrine maiden!
+    questions:
+      - id: dyj-34-09-q1
+        prompt: ''
+        target: その顔見れば筆
+        display: 『その顔見れば筆』が踊ります
+        choices:
+          - ペン
+          - サネカズラ
+          - オニキス
+          - セオリー
+        correct: 0
+        answer:
+          text: ペン
+          reading: ペン
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-10
+    trackNumber: 10
+    songTitle: 清く正しい観察者（オブザーバー）です
+    questions:
+      - id: dyj-34-10-q1
+        prompt: ''
+        target: あなたはそうかくも短き存在
+        display: 『あなたはそうかくも短き存在』
+        choices:
+          - せい
+          - ひとたるもの
+          - こうい
+          - もの
+        correct: 3
+        answer:
+          text: もの
+          reading: もの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-11
+    trackNumber: 11
+    songTitle: ククリククラレ
+    questions:
+      - id: dyj-34-11-q1
+        prompt: ''
+        target: 何もかも一つに混然
+        display: 『何もかも一つに混然』りゆく
+        choices:
+          - まざ
+          - おわ
+          - しん
+          - えんぎ
+        correct: 0
+        answer:
+          text: まざ
+          reading: まざ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-12
+    trackNumber: 12
+    songTitle: しかしなにもおこせない　～ Hero’s Challenge
+    questions:
+      - id: dyj-34-12-q1
+        prompt: ほんとに、呆れた、
+        target: 悪巫山戯
+        display: ほんとに、呆れた、『悪巫山戯』
+        choices:
+          - あそび
+          - わるふざけ
+          - のぞみ
+          - わたしのせかい
+        correct: 1
+        answer:
+          text: わるふざけ
+          reading: わるふざけ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-34-13
+    trackNumber: 13
+    songTitle: 魔王（おまえ）の居る場所まで、
+    questions:
+      - id: dyj-34-13-q1
+        prompt: ''
+        target: ｢主人公｣
+        display: 『｢主人公｣』になる幻想に手を伸ばすんだ！
+        choices:
+          - りそう
+          - きおく
+          - ありかた
+          - ゆうしゃ
+        correct: 3
+        answer:
+          text: ゆうしゃ
+          reading: ゆうしゃ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-34-13-q2
+        prompt: ｢主人公｣（ゆうしゃ）
+        target: になる幻想
+        display: ｢主人公｣『になる幻想』に手を伸ばすんだ！
+        choices:
+          - とも
+          - ひと
+          - ゆめ
+          - ばけ
+        correct: 2
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択

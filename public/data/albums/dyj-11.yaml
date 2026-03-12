@@ -1,0 +1,279 @@
+id: dyj-11
+title: 徒
+series: 凋叶棕 ナンバリング作品
+number: 11
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-11-01
+    trackNumber: 1
+    songTitle: ロストドリーム・ジェネレーションズ
+    questions:
+      - id: dyj-11-01-q1
+        prompt: ''
+        target: 偽りの幻
+        display: 『偽りの幻』でしか、無かったのか？
+        choices:
+          - きおく
+          - ゆめ
+          - うご
+          - つぎのゆめ
+        correct: 1
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-02
+    trackNumber: 2
+    songTitle: 幻想（ゆめ）*3
+    questions:
+      - id: dyj-11-02-q1
+        prompt: 「
+        target: Voyager
+        display: 「『Voyager』」として旅立つことを、
+        choices:
+          - あそび
+          - たびびと
+          - なげ
+          - はなしとね
+        correct: 1
+        answer:
+          text: たびびと
+          reading: たびびと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-03
+    trackNumber: 3
+    songTitle: be your shield
+    questions:
+      - id: dyj-11-03-q1
+        prompt: ''
+        target: 幽
+        display: 『幽』き、覚悟一つ
+        choices:
+          - うたげ
+          - ひろ
+          - せい
+          - かそけ
+        correct: 3
+        answer:
+          text: かそけ
+          reading: かそけ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-04
+    trackNumber: 4
+    songTitle: スターゲイザー
+    questions:
+      - id: dyj-11-04-q1
+        prompt: 「
+        target: 無限拡散
+        display: 「『無限拡散』」は「到達可能性」を反古にして、
+        choices:
+          - とびら
+          - まじ
+          - いよいよ
+          - はてしなさ
+        correct: 3
+        answer:
+          text: はてしなさ
+          reading: はてしなさ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-11-04-q2
+        prompt: 「無限拡散（はてしなさ）」は「
+        target: 到達可能性
+        display: 「無限拡散」は「『到達可能性』」を反古にして、
+        choices:
+          - このせかい
+          - たぬきやろう
+          - きせき
+          - ゆめ
+        correct: 3
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-11-04-q3
+        prompt: ならばと、睨みつけるのは、「
+        target: スターゲイザー
+        display: ならばと、睨みつけるのは、「『スターゲイザー』」たるわたし。
+        choices:
+          - な
+          - ひかり
+          - こえ
+          - ほしをみるひと
+        correct: 3
+        answer:
+          text: ほしをみるひと
+          reading: ほしをみるひと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-05
+    trackNumber: 5
+    songTitle: 二色蝶
+    questions:
+      - id: dyj-11-05-q1
+        prompt: 思えば、
+        target: 意味のない生涯
+        display: 思えば、『意味のない生涯』。
+        choices:
+          - しあわせ
+          - そいわずとわずかたらず
+          - からっぽ
+          - いのち
+        correct: 3
+        answer:
+          text: いのち
+          reading: いのち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-06
+    trackNumber: 6
+    songTitle: 視界に広がった光景（けしき）は、
+    questions:
+      - id: dyj-11-06-q1
+        prompt: ''
+        target: 我々
+        display: 『我々』にはけして揮わぬ力の所作。
+        choices:
+          - だいち
+          - うごき
+          - あばきつくすもの
+          - ひとたるもの
+        correct: 3
+        answer:
+          text: ひとたるもの
+          reading: ひとたるもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-07
+    trackNumber: 7
+    songTitle: 其方（おまえ）
+    questions:
+      - id: dyj-11-07-q1
+        prompt: ''
+        target: 重なる姿に幻想
+        display: 『重なる姿に幻想』を見たか。
+        choices:
+          - かぐわ
+          - ゆめ
+          - かず
+          - ゆくさき
+        correct: 1
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-08
+    trackNumber: 8
+    songTitle: 想いを吼える物怪（もの）を祓うように。
+    questions:
+      - id: dyj-11-08-q1
+        prompt: その全てを以って、
+        target: この身をただの幻想
+        display: その全てを以って、『この身をただの幻想』と帰せ。
+        choices:
+          - ゆめ
+          - せわたり
+          - いろ
+          - やりなおし
+        correct: 0
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-09
+    trackNumber: 9
+    songTitle: ＜正調＞佐渡の二ッ岩
+    questions:
+      - id: dyj-11-09-q1
+        prompt: ''
+        target: ハァ旧友
+        display: 『ハァ旧友』の頼みと 言うからにゃ
+        choices:
+          - きみ
+          - しょうぶ
+          - とも
+          - いよいよ
+        correct: 2
+        answer:
+          text: とも
+          reading: とも
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-10
+    trackNumber: 10
+    songTitle: 一夜之夢
+    questions:
+      - id: dyj-11-10-q1
+        prompt: ''
+        target: 吐息
+        display: 『吐息』混じりの戯れ。
+        choices:
+          - ありかた
+          - いき
+          - わからず
+          - こんぺいとう
+        correct: 1
+        answer:
+          text: いき
+          reading: いき
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-11
+    trackNumber: 11
+    songTitle: 等と嘯（うそぶ）けば、
+    questions:
+      - id: dyj-11-11-q1
+        prompt: ''
+        target: そんな権力
+        display: 『そんな権力』を手にしながら
+        choices:
+          - けみ
+          - ちから
+          - なの
+          - や
+        correct: 1
+        answer:
+          text: ちから
+          reading: ちから
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-11-12
+    trackNumber: 12
+    songTitle: この肢体（からだ）一つに
+    questions:
+      - id: dyj-11-12-q1
+        prompt: ''
+        target: 如何なる強者
+        display: 『如何なる強者』でさえ
+        choices:
+          - すべて
+          - わか
+          - かぜ
+          - ひと
+        correct: 3
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択

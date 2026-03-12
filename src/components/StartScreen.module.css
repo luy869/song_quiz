@@ -9,13 +9,14 @@
 .badge {
     font-size: 0.75rem;
     font-weight: 600;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.18em;
     text-transform: uppercase;
     color: var(--accent);
     background: var(--accent-glow);
-    border: 1px solid rgba(167, 139, 250, 0.4);
+    border: 1px solid rgba(184, 144, 74, 0.40);
     border-radius: 999px;
     padding: 4px 14px;
+    font-family: 'Noto Serif JP', serif;
 }
 
 .titleBlock {
@@ -26,18 +27,20 @@
     font-size: 0.9rem;
     color: var(--text-secondary);
     margin-bottom: 8px;
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Noto Serif JP', serif;
 }
 
 .title {
-    font-size: 3rem;
+    font-size: 3.6rem;
     font-weight: 700;
-    letter-spacing: 0.05em;
-    background: linear-gradient(135deg, #e0d7ff 0%, #a78bfa 50%, #818cf8 100%);
+    letter-spacing: 0.06em;
+    background: linear-gradient(160deg, #f5dfa0 0%, #c8a050 50%, #8a5c20 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     line-height: 1.2;
+    font-family: 'Noto Serif JP', serif;
+    text-shadow: none;
 }
 
 .subtitle {
@@ -59,20 +62,21 @@
     padding: 18px 22px;
     background: var(--bg-card);
     border: 1px solid var(--border);
+    border-left: 3px solid transparent;
     border-radius: var(--radius-md);
     cursor: pointer;
     text-align: left;
     display: flex;
     flex-direction: column;
     gap: 6px;
-    transition: background var(--transition), border-color var(--transition), transform var(--transition);
-    backdrop-filter: blur(12px);
+    transition: background var(--transition), border-color var(--transition);
 }
 
 .albumCard:hover {
     background: var(--bg-card-hover);
-    border-color: var(--accent);
-    transform: translateX(6px);
+    border-color: var(--border);
+    border-left-color: var(--accent);
+    border-left-width: 4px;
 }
 
 .albumCardHeader {
@@ -85,13 +89,14 @@
     font-size: 0.8rem;
     font-weight: 700;
     color: var(--accent);
-    font-family: 'Outfit', monospace;
+    font-family: 'Noto Serif JP', serif;
 }
 
 .albumTitle {
     font-size: 1.3rem;
     font-weight: 700;
     color: var(--text-primary);
+    font-family: 'Noto Serif JP', serif;
 }
 
 .albumSeries {
@@ -101,7 +106,7 @@
 
 @media (max-width: 480px) {
     .title {
-        font-size: 2.2rem;
+        font-size: 2.6rem;
     }
 
     .albumCard {
