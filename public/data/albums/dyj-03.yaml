@@ -1,0 +1,214 @@
+# 凋叶棕 - 謡（C78）
+id: dyj-03
+title: 謡
+series: 凋叶棕 ナンバリング作品
+number: 3
+url: https://www.rd-sounds.com/c78.html
+arranger: RD-Sounds
+
+tracks:
+  - id: dyj-03-01
+    trackNumber: 1
+    songTitle: 水底のメロディ
+    originalSong: 芥川龍之介の河童　～ Candid Friend
+    vocal: めらみぽっぷ
+    questions:
+      - id: dyj-03-01-q1
+        prompt: 誰もいない
+        target: 水底
+        display: 誰もいない『水底』で
+        choices: [みなそこ, すいてい, ばしょ, こてい]
+        correct: 2
+        answer:
+          text: ばしょ
+          reading: ばしょ
+        tags: [ateji, 4択]
+
+      - id: dyj-03-01-q2
+        prompt: 誰もいない水底で
+        target: 陸
+        display: 『陸』に上がれたとしても
+        choices: [りく, おか, じょうりく, だいち]
+        correct: 1
+        answer:
+          text: おか
+          reading: おか
+        tags: [ateji, 4択]
+
+  - id: dyj-03-03
+    trackNumber: 3
+    songTitle: ヤタガラスカイダイバー
+    originalSong: 霊知の太陽信仰／死体旅行
+    vocal: めらみぽっぷ
+    questions:
+      - id: dyj-03-03-q1
+        prompt: ヤタガラスカイダイバー
+        target: 融合
+        display: “『融合』”から“対比”へと
+        choices: [ゆうごう, フュージョン, メルト, まじわり]
+        correct: 1
+        answer:
+          text: フュージョン
+          reading: ふゅーじょん
+        tags: [ateji, 4択]
+
+      - id: dyj-03-03-q2
+        prompt: “融合”から“
+        target: 対比
+        display: “融合”から“『対比』”へと
+        choices: [たいひ, コントラスト, リバース, ひかく]
+        correct: 1
+        answer:
+          text: コントラスト
+          reading: こんとらすと
+        tags: [ateji, 4択]
+
+      - id: dyj-03-03-q3
+        prompt: “
+        target: 狭隘
+        display: “『狭隘』”から“無限”へと
+        choices: [きょうあい, サブタレイニアン, クローズ, せまい]
+        correct: 1
+        answer:
+          text: サブタレイニアン
+          reading: さぶたれいにあん
+        tags: [ateji, 4択]
+
+      - id: dyj-03-03-q4
+        prompt: “狭隘”から“
+        target: 無限
+        display: “狭隘”から“『無限』”へと
+        choices: [むげん, インフィニティ, エンドレス, かぎりない]
+        correct: 1
+        answer:
+          text: インフィニティ
+          reading: いんふぃにてぃ
+        tags: [ateji, 4択]
+
+      - id: dyj-03-03-q5
+        prompt: “
+        target: 限界
+        display: “『限界』”から“臨界”へと
+        choices: [げんかい, リミット, オーバードライブ, はて]
+        correct: 2
+        answer:
+          text: オーバードライブ
+          reading: おーばーどらいぶ
+        tags: [ateji, 4択]
+
+      - id: dyj-03-03-q6
+        prompt: “限界”から“
+        target: 臨界
+        display: “限界”から“『臨界』”へと
+        choices: [りんかい, クリティカル, エクスカーション, ぎりぎり]
+        correct: 2
+        answer:
+          text: エクスカーション
+          reading: えくすかーしょん
+        tags: [ateji, 4択]
+
+      - id: dyj-03-03-q7
+        prompt: “
+        target: 公転
+        display: “『公転』”から“自立”へと
+        choices: [こうてん, レヴォリューション, ターン, まわり]
+        correct: 1
+        answer:
+          text: レヴォリューション
+          reading: れゔぉりゅーしょん
+        tags: [ateji, 4択]
+
+      - id: dyj-03-03-q8
+        prompt: “公転”から“
+        target: 自立
+        display: “公転”から“『自立』”へと
+        choices: [じりつ, インディペンデンス, アイデンティティ, ひとりだち]
+        correct: 2
+        answer:
+          text: アイデンティティ
+          reading: あいでんてぃてぃ
+        tags: [ateji, 4択]
+
+  - id: dyj-03-05
+    trackNumber: 5
+    songTitle: Un-Demystified Fantasy
+    originalSong: Demystify Feast／二色蓮花蝶 ～ Red and White
+    vocal: めらみぽっぷ
+    questions:
+      - id: dyj-03-05-q1
+        prompt: 書斎の
+        target: 静寂
+        display: 書斎の『静寂』を掻き消して
+        choices: [せいじゃく, しじま, しずけさ, サイレンス]
+        correct: 1
+        answer:
+          text: しじま
+          reading: しじま
+        tags: [ateji, 4択]
+
+  - id: dyj-03-07
+    trackNumber: 7
+    songTitle: 胎児の夢
+    originalSong: 無間の鐘／ラストリモート／ハルトマンの妖怪少女
+    vocal: めらみぽっぷ
+    questions:
+      - id: dyj-03-07-q1
+        prompt: 胎児の夢
+        target: 分裂増大
+        display: 『分裂増大』ち
+        choices: [ぶんれつぞうだい, からだわか, ふえつづけ, さいぼうぶんれつ]
+        correct: 1
+        answer:
+          text: からだわか
+          reading: からだわか
+        tags: [ateji, 4択]
+
+      - id: dyj-03-07-q2
+        prompt: 分裂増大ち
+        target: 鱗
+        display: 『鱗』
+        choices: [うろこ, はだ, ひふ, スケール]
+        correct: 1
+        answer:
+          text: はだ
+          reading: はだ
+        tags: [ateji, 4択]
+
+      - id: dyj-03-07-q3
+        prompt: アー入れ込まれたその
+        target: 構造
+        display: アー入れ込まれたその『構造』に
+        choices: [こうぞう, システム, ストラクチャ, からくり]
+        correct: 1
+        answer:
+          text: システム
+          reading: しすてむ
+        tags: [ateji, 4択]
+
+      - id: dyj-03-07-q4
+        prompt: 入れ込まれたその構造に
+        target: 背信
+        display: 『背信』の
+        choices: [はいしん, うらぎり, とが, つみ]
+        correct: 1
+        answer:
+          text: うらぎり
+          reading: うらぎり
+        tags: [ateji, 4択]
+
+  - id: dyj-03-11
+    trackNumber: 11
+    songTitle: 忘れえぬ物語
+    originalSong: 阿礼の子供／テーマ・オブ・イースタンストーリー
+    vocal: めらみぽっぷ
+    questions:
+      - id: dyj-03-11-q1
+        prompt: ふるい
+        target: 幻想蓄音円盤
+        display: ふるい『幻想蓄音円盤』の音の向こう側から
+        choices: [レコード, ディスク, げんそうちくおんえんばん, レコーダー]
+        correct: 0
+        answer:
+          text: レコード
+          reading: れこーど
+        tags: [ateji, 4択]

@@ -1,0 +1,225 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    animation: fadeInUp 0.4s ease both;
+}
+
+/* Header */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.scoreDisplay {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+.scoreDisplay strong {
+    color: var(--accent);
+    font-weight: 700;
+}
+
+/* Progress */
+.progressBar {
+    width: 100%;
+    height: 6px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.progressFill {
+    height: 100%;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #7c3aed, #a78bfa);
+    transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Question Card */
+.card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 28px 24px;
+    backdrop-filter: blur(12px);
+    animation: popIn 0.35s ease both;
+}
+
+.songInfo {
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+}
+
+.songTitle {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 8px;
+    line-height: 1.3;
+}
+
+.songMeta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+.songMeta span,
+.songMeta a {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.songMeta a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: opacity var(--transition);
+}
+
+.songMeta a:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
+.questionNum {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin-bottom: 16px;
+}
+
+.questionText {
+    line-height: 1.6;
+    margin-bottom: 8px;
+}
+
+.prompt {
+    font-size: 1.35rem;
+    color: var(--text-primary);
+    font-weight: 600;
+}
+
+.display {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+/* Choices */
+.choices {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.choiceBtn {
+    width: 100%;
+    padding: 14px 18px;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: left;
+    color: var(--text-primary);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: background var(--transition), border-color var(--transition), transform var(--transition);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.choiceBtn:hover:not(:disabled) {
+    background: var(--bg-card-hover);
+    border-color: var(--accent);
+    transform: translateX(4px);
+}
+
+.choiceBtn:disabled {
+    cursor: default;
+}
+
+.disabledBtn {
+    opacity: 0.6;
+}
+
+.choiceIndex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.06);
+    font-size: 0.8rem;
+    font-weight: 700;
+    flex-shrink: 0;
+    transition: background var(--transition);
+}
+
+button.correct {
+    background: var(--correct-bg);
+    border-color: var(--correct);
+    color: var(--correct);
+}
+
+button.correct .choiceIndex {
+    background: var(--correct);
+    color: #000;
+}
+
+button.wrong {
+    background: var(--wrong-bg);
+    border-color: var(--wrong);
+    color: var(--wrong);
+}
+
+button.wrong .choiceIndex {
+    background: var(--wrong);
+    color: #000;
+}
+
+@media (max-width: 480px) {
+    .card {
+        padding: 20px 16px;
+    }
+
+    .songTitle {
+        font-size: 1.05rem;
+    }
+
+    .display {
+        font-size: 1.25rem;
+    }
+
+    .choiceBtn {
+        padding: 12px 14px;
+        font-size: 0.95rem;
+    }
+}
+
+/* feedback toast */
+.feedback {
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 700;
+    animation: fadeIn 0.2s ease;
+    padding: 8px 0;
+}
+
+.feedbackCorrect {
+    color: var(--correct);
+}
+
+.feedbackWrong {
+    color: var(--wrong);
+}

@@ -1,0 +1,13 @@
+# 凋叶棕 アルバム一覧
+albums:
+  - id: dyj-01
+    title: 宴
+    series: 凋叶棕 ナンバリング作品
+    number: 1
+    file: albums/dyj-01.yaml
+
+  - id: dyj-03
+    title: 謡
+    series: 凋叶棕 ナンバリング作品
+    number: 3
+    file: albums/dyj-03.yaml

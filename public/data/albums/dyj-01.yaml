@@ -1,0 +1,191 @@
+# 凋叶棕 - 宴（C79）
+id: dyj-01
+title: 宴
+series: 凋叶棕 ナンバリング作品
+number: 1
+url: https://www.rd-sounds.com/c77.html
+arranger: RD-Sounds
+
+tracks:
+  - id: dyj-01-01
+    trackNumber: 1
+    songTitle: 幻想浪漫綺行（Another Sky Remix）
+    originalSong: 天空の花の都、少女綺想曲 ～ Dream Battle
+    vocal: めらみぽっぷ
+    questions:
+      - id: dyj-01-01-q1
+        prompt: そこは
+        target: 幻想
+        display: 『幻想』の未だ見ぬ世界
+        choices: [まぼろし, げんそう, ゆめ, まぼろ]
+        correct: 0
+        answer:
+          text: まぼろし
+          reading: まぼろし
+        tags: [ateji, 4択]
+
+      - id: dyj-01-01-q2
+        prompt: いつか夢見た
+        target: 天空の花の都
+        display: 『天空の花の都』を目指し
+        choices: [げんそうきょう, アリス, あのばしょ, そらのみやこ]
+        correct: 2
+        answer:
+          text: あのばしょ
+          reading: あのばしょ
+        tags: [ateji, 4択]
+
+      - id: dyj-01-01-q3
+        prompt: 今の私を縛り付ける
+        target: 重力
+        display: 今の私を縛り付ける『重力』は無く
+        choices: [じゅうりょく, ちから, おもみ, いんりょく]
+        correct: 1
+        answer:
+          text: ちから
+          reading: ちから
+        tags: [ateji, 4択]
+
+      - id: dyj-01-01-q4
+        prompt: そこは
+        target: 浪漫
+        display: そこは『浪漫』の未だ見ぬ世界
+        choices: [ろまん, ゆめ, まぼろし, きぼう]
+        correct: 2
+        answer:
+          text: まぼろし
+          reading: まぼろし
+        tags: [ateji, 4択]
+
+      - id: dyj-01-01-q5
+        prompt: …夜空翔ける
+        target: Brazin'Star
+        display: …夜空翔ける『Brazin'Star』
+        choices: [ぶれいじんすたー, ほうきぼし, ながれぼし, りゅうせい]
+        correct: 2
+        answer:
+          text: ながれぼし
+          reading: ながれぼし
+        tags: [ateji, 4択]
+
+      - id: dyj-01-01-q6
+        prompt: いつか聞こえたあの
+        target: 音楽
+        display: いつか聞こえたあの『音楽』を目指し
+        choices: [おんがく, うた, メロディ, しらべ]
+        correct: 1
+        answer:
+          text: うた
+        tags: [ateji, 4択]
+
+  - id: dyj-01-04
+    trackNumber: 4
+    songTitle: 砂鉄の国のアリス
+    originalSong: 人形裁判　～ 人の形弄びし少女、the Grimoire of Alice
+    vocal: めらみぽっぷ
+    questions:
+      - id: dyj-01-04-q1
+        prompt: 二人だけの
+        target: 王国
+        display: 二人だけの『王国』の主
+        choices: [おうこく, くに, せかい, しろ]
+        correct: 1
+        answer:
+          text: くに
+          reading: くに
+        tags: [ateji, 4択]
+
+  - id: dyj-01-08
+    trackNumber: 8
+    songTitle: The Secret Murderer
+    originalSong: 月時計　～ ルナ・ダイアル
+    vocal: めらみぽっぷ
+    questions:
+      - id: dyj-01-08-q1
+        prompt: ねえ、過ごしましょう 蠱惑的で
+        target: 幻想的
+        display: ねえ、過ごしましょう 蠱惑的で『幻想的』な一夜を
+        choices: [げんそうてき, ふしぎ, ロマンティック, ドラマチック]
+        correct: 2
+        answer:
+          text: ロマンティック
+          reading: ろまんてぃっく
+        tags: [ateji, 4択]
+
+      - id: dyj-01-08-q2
+        prompt: どうかお気になさらずに
+        target: 淑女
+        display: “どうかお気になさらずに 『淑女』の秘密を暴くのは
+        choices: [しゅくじょ, わたし, レディ, おんな]
+        correct: 2
+        answer:
+          text: レディ
+          reading: れでぃ
+        tags: [ateji, 4択]
+
+      - id: dyj-01-08-q3
+        prompt: 淑女の秘密を暴くのは
+        target: 紳士
+        display: 『紳士』にあるまじき行いではなくて？”
+        choices: [しんし, おとこ, あなた, ナイト]
+        correct: 2
+        answer:
+          text: あなた
+          reading: あなた
+        tags: [ateji, 4択]
+
+      - id: dyj-01-08-q4
+        prompt: 気をつけなければならないさ 夜な夜な現れる
+        target: 殺人鬼
+        display: 夜な夜な現れる『殺人鬼』に』
+        choices: [さつじんき, アリス, あくま, シリアルキラー]
+        correct: 3
+        answer:
+          text: シリアルキラー
+          reading: しりあるきらー
+        tags: [ateji, 4択]
+
+      - id: dyj-01-08-q5
+        prompt: 『嗚呼、イケナイよ
+        target: 殺人鬼
+        display: 『嗚呼、イケナイよ 『殺人鬼』を悪戯に駆り立てる言葉』
+        choices: [さつじんき, おとこ, かれ, シリアルキラー]
+        correct: 2
+        answer:
+          text: かれ
+          reading: かれ
+        tags: [ateji, 4択]
+
+      - id: dyj-01-08-q6
+        prompt: “ねえ、怯え惑う者にこそ
+        target: 殺人鬼
+        display: “ねえ、怯え惑う者にこそ『殺人鬼』は現れるそうよ？”
+        choices: [さつじんき, わたし, かのじょ, シリアルキラー]
+        correct: 2
+        answer:
+          text: かのじょ
+          reading: かのじょ
+        tags: [ateji, 4択]
+
+      - id: dyj-01-08-q7
+        prompt: 霧満ちる
+        target: 都市
+        display: 霧満ちる『都市』の灯の中で
+        choices: [とし, まち, ロンドン, ろじうら]
+        correct: 1
+        answer:
+          text: まち
+          reading: まち
+        tags: [ateji, 4択]
+
+      - id: dyj-01-08-q8
+        prompt: 月を映すナイフを手に 佇む
+        target: 殺人鬼
+        display: 月を映すナイフを手に 佇む『殺人鬼』
+        choices: [さつじんき, めいど, さくや, シリアルキラー]
+        correct: 3
+        answer:
+          text: シリアルキラー
+          reading: しりあるきらー
+        tags: [ateji, 4択]
+
