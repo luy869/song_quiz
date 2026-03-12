@@ -1,0 +1,371 @@
+id: dyj-43
+title: 縁
+series: 凋叶棕 ナンバリング作品
+number: 43
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-43-01
+    trackNumber: 1
+    songTitle: 幻燈
+    questions:
+      - id: dyj-43-01-q1
+        prompt: ''
+        target: 幻燈
+        display: 『幻燈』
+        choices:
+          - マジカル
+          - ショウジョ
+          - クロースエンカウンター
+          - ファンタズマゴリア
+        correct: 3
+        answer:
+          text: ファンタズマゴリア
+          reading: ファンタズマゴリア
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-02
+    trackNumber: 2
+    songTitle: 「　」（けしてかえすすべなきことば）と
+    questions:
+      - id: dyj-43-02-q1
+        prompt: ''
+        target: 何を言伝
+        display: 『何を言伝』おうか。
+        choices:
+          - うご
+          - おもちゃ
+          - きらわれもの
+          - い
+        correct: 3
+        answer:
+          text: い
+          reading: い
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-03
+    trackNumber: 3
+    songTitle: 自由への賛歌
+    questions:
+      - id: dyj-43-03-q1
+        prompt: ''
+        target: “自由”
+        display: 『“自由”』になる。
+        choices:
+          - まどか
+          - おわらぬまつり
+          - つよ
+          - かぜ
+        correct: 3
+        answer:
+          text: かぜ
+          reading: かぜ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-04
+    trackNumber: 4
+    songTitle: “無心”（かぜ）になる。
+    questions:
+      - id: dyj-43-04-q1
+        prompt: ''
+        target: “最速”
+        display: 『“最速”』になる。
+        choices:
+          - かぜ
+          - こちらがわ
+          - あぎと
+          - おぼつか
+        correct: 0
+        answer:
+          text: かぜ
+          reading: かぜ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-43-04-q2
+        prompt: ''
+        target: 踏み入るような取材
+        display: 『踏み入るような取材』で、
+        choices:
+          - りそう
+          - りょうめ
+          - あばきつくすもの
+          - やりかた
+        correct: 3
+        answer:
+          text: やりかた
+          reading: やりかた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-05
+    trackNumber: 5
+    songTitle: 記事にもならぬ“所感”（おもうところ）をやたらめったらぶつけられては
+    questions:
+      - id: dyj-43-05-q1
+        prompt: ''
+        target: “空白”
+        display: 『“空白”』になる。
+        choices:
+          - かぜ
+          - わからず
+          - るり
+          - しり
+        correct: 0
+        answer:
+          text: かぜ
+          reading: かぜ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-06
+    trackNumber: 6
+    songTitle: “幻想”（かぜ）になる。
+    questions:
+      - id: dyj-43-06-q1
+        prompt: ''
+        target: “私”
+        display: 『“私”』になる。
+        choices:
+          - ひらめ
+          - かぜ
+          - すがた
+          - いの
+        correct: 1
+        answer:
+          text: かぜ
+          reading: かぜ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-07
+    trackNumber: 7
+    songTitle: everlasting ember
+    questions:
+      - id: dyj-43-07-q1
+        prompt: その身体
+        target: 奥底に抱えてる熾火
+        display: その身体　『奥底に抱えてる熾火』が為に
+        choices:
+          - しょうぶ
+          - まぼろし
+          - みんな
+          - ひ
+        correct: 3
+        answer:
+          text: ひ
+          reading: ひ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-08
+    trackNumber: 8
+    songTitle: in／疎夢／near
+    questions:
+      - id: dyj-43-08-q1
+        prompt: ''
+        target: 疎
+        display: 『疎』り疎り夢の侭
+        choices:
+          - のぞみ
+          - ごみくず
+          - ひと
+          - かお
+        correct: 2
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-43-08-q2
+        prompt: 疎（ひと）
+        target: り疎
+        display: 疎『り疎』り夢の侭
+        choices:
+          - みんな
+          - いろ
+          - ひとたるもの
+          - ひと
+        correct: 3
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-09
+    trackNumber: 9
+    songTitle: ＊＊＊（わたし）
+    questions:
+      - id: dyj-43-09-q1
+        prompt: ''
+        target: わたし／私／自分
+        display: 『わたし／私／自分』だけ
+        choices:
+          - しあわせ
+          - こえ
+          - わたし
+          - ことば
+        correct: 2
+        answer:
+          text: わたし
+          reading: わたし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-10
+    trackNumber: 10
+    songTitle: Unforgivable;Nefarious;Overlaid;Warped;Erratic;Noxious;Girl
+    questions:
+      - id: dyj-43-10-q1
+        prompt: ''
+        target: ≪禁忌≫
+        display: 『≪禁忌≫』に触れる。
+        choices:
+          - つぎのゆめ
+          - してはいけないこと
+          - ふりょう
+          - ひびき
+        correct: 1
+        answer:
+          text: してはいけないこと
+          reading: してはいけないこと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-11
+    trackNumber: 11
+    songTitle: 独りぼっちの“魔法少女”（フランドール）
+    questions:
+      - id: dyj-43-11-q1
+        prompt: その魔法は、
+        target: ≪破壊≫
+        display: その魔法は、『≪破壊≫』ばかりで、
+        choices:
+          - わざ
+          - こわす
+          - こちらがわ
+          - ちから
+        correct: 1
+        answer:
+          text: こわす
+          reading: こわす
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-12
+    trackNumber: 12
+    songTitle: 『有害』（のろわしい）
+    questions:
+      - id: dyj-43-12-q1
+        prompt: ''
+        target: そもそも≪禁忌≫
+        display: 『そもそも≪禁忌≫』という言葉の意味が、
+        choices:
+          - してはいけない
+          - ここ
+          - すがた
+          - とき
+        correct: 0
+        answer:
+          text: してはいけない
+          reading: してはいけない
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-43-12-q2
+        prompt: 「どうして。
+        target: “コンテニュー”
+        display: 「どうして。『“コンテニュー”』すの？　終わった物語を？
+        choices:
+          - やりなお
+          - ひたむき
+          - うたかた
+          - うたげ
+        correct: 0
+        answer:
+          text: やりなお
+          reading: やりなお
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-43-12-q3
+        prompt: 「どうして。“コンテニュー”（やりなお）すの？
+        target: 終わった物語
+        display: 「どうして。“コンテニュー”すの？　『終わった物語』を？
+        choices:
+          - おはなし
+          - て
+          - せめ
+          - すがた
+        correct: 0
+        answer:
+          text: おはなし
+          reading: おはなし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-13
+    trackNumber: 13
+    songTitle: 独りぼっちの“幻想少女”（フランドール）
+    questions:
+      - id: dyj-43-13-q1
+        prompt: どれほどの罪を重ね　変わらないの　“増え続けるの！？
+        target: ”
+        display: どれほどの罪を重ね　変わらないの　“増え続けるの！？『”』
+        choices:
+          - one of a kind
+          - カタルシス
+          - しごと
+          - み
+        correct: 0
+        answer:
+          text: one of a kind
+          reading: one of a kind
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-14
+    trackNumber: 14
+    songTitle: A Fantastic Story
+    questions:
+      - id: dyj-43-14-q1
+        prompt: ''
+        target: 偉大なる音と幻聴
+        display: 『偉大なる音と幻聴』く
+        choices:
+          - こわす
+          - かなえ
+          - あらわ
+          - き
+        correct: 3
+        answer:
+          text: き
+          reading: き
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-43-15
+    trackNumber: 15
+    songTitle: 漂（なが）れ着き　その縁もう
+    questions:
+      - id: dyj-43-15-q1
+        prompt: ''
+        target: 薄れたおもいの消えゆくその涯
+        display: 『薄れたおもいの消えゆくその涯』て
+        choices:
+          - たぬきやろう
+          - こがねいろ
+          - ひとがた
+          - は
+        correct: 3
+        answer:
+          text: は
+          reading: は
+        tags:
+          - ateji
+          - 4択

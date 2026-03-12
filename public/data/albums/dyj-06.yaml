@@ -1,0 +1,479 @@
+id: dyj-06
+title: 遙
+series: 凋叶棕 ナンバリング作品
+number: 6
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-06-01
+    trackNumber: 1
+    songTitle: ささぐうた -ヒガン・ルトゥール・シンフォニー-
+    questions:
+      - id: dyj-06-01-q1
+        prompt: ''
+        target: いつかは避け難き運命
+        display: 『いつかは避け難き運命』でも
+        choices:
+          - さだめ
+          - しょうたい
+          - あやまち
+          - きおく
+        correct: 0
+        answer:
+          text: さだめ
+          reading: さだめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-02
+    trackNumber: 2
+    songTitle: Cruel CRuEL
+    questions:
+      - id: dyj-06-02-q1
+        prompt: 見捨てた筈の、
+        target: 故郷
+        display: 見捨てた筈の、『故郷』の幻影
+        choices:
+          - ふるさと
+          - あらわ
+          - ものがたり
+          - かいじん
+        correct: 0
+        answer:
+          text: ふるさと
+          reading: ふるさと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-03
+    trackNumber: 3
+    songTitle: 脳裏を掻き乱す脅迫幻覚（obsessioner）
+    questions:
+      - id: dyj-06-03-q1
+        prompt: ''
+        target: 懶惰
+        display: 『懶惰』
+        choices:
+          - あさあけ
+          - laziness
+          - われ
+          - ほし
+        correct: 1
+        answer:
+          text: laziness
+          reading: laziness
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-04
+    trackNumber: 4
+    songTitle: つまりはいわゆる生神停止（mind stopper）
+    questions:
+      - id: dyj-06-04-q1
+        prompt: ''
+        target: 眼窩に暗い炎
+        display: 『眼窩に暗い炎』を灯して
+        choices:
+          - み
+          - わらえる
+          - つよ
+          - ひかり
+        correct: 3
+        answer:
+          text: ひかり
+          reading: ひかり
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-06-04-q2
+        prompt: “私は狂えるのか？” そんな
+        target: “残酷な運命
+        display: “私は狂えるのか？” そんな 『“残酷な運命』”。
+        choices:
+          - cruel fate
+          - かけだし
+          - ふたり
+          - あにあに
+        correct: 0
+        answer:
+          text: cruel fate
+          reading: cruel fate
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-05
+    trackNumber: 5
+    songTitle: NeGa/PoSi*ラブ/コール
+    questions:
+      - id: dyj-06-05-q1
+        prompt: ''
+        target: 恋物語
+        display: 『恋物語』のような。
+        choices:
+          - あす
+          - ごみくず
+          - わたしたち
+          - はり
+        correct: 1
+        answer:
+          text: ごみくず
+          reading: ごみくず
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-06
+    trackNumber: 6
+    songTitle: 最高（さいてい）の「ラブ・コール」を！
+    questions:
+      - id: dyj-06-06-q1
+        prompt: ''
+        target: 妄想
+        display: 『妄想』だけが先走る
+        choices:
+          - おもい
+          - あい
+          - あぎと
+          - あやややや
+        correct: 0
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-07
+    trackNumber: 7
+    songTitle: 精神倒錯者（きらわれもの）のフィロソフィア
+    questions:
+      - id: dyj-06-07-q1
+        prompt: ''
+        target: 恋物語
+        display: 『恋物語』のような恋がしたい
+        choices:
+          - ごみくず
+          - ふりょう
+          - さだめ
+          - ひかり
+        correct: 0
+        answer:
+          text: ごみくず
+          reading: ごみくず
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-08
+    trackNumber: 8
+    songTitle: 恋愛小説（ぼろくず）のような恋がしたい
+    questions:
+      - id: dyj-06-08-q1
+        prompt: ''
+        target: 多幸感
+        display: 『多幸感』まみれの恋がしたい
+        choices:
+          - がらくた
+          - て
+          - いろ
+          - にくら
+        correct: 0
+        answer:
+          text: がらくた
+          reading: がらくた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-09
+    trackNumber: 9
+    songTitle: 加速する勢い（きょうき）はもう
+    questions:
+      - id: dyj-06-09-q1
+        prompt: ''
+        target: 受け止めてこの幻想
+        display: 『受け止めてこの幻想』
+        choices:
+          - おもい
+          - さい
+          - こころ
+          - かお
+        correct: 0
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-10
+    trackNumber: 10
+    songTitle: 盲目の笑顔
+    questions:
+      - id: dyj-06-10-q1
+        prompt: ''
+        target: こんな声
+        display: 『こんな声』に縋るしかない、
+        choices:
+          - はな
+          - よわいもの
+          - かぐわ
+          - しじま
+        correct: 1
+        answer:
+          text: よわいもの
+          reading: よわいもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-11
+    trackNumber: 11
+    songTitle: 鳴り止まぬ絶叫（こえ）
+    questions:
+      - id: dyj-06-11-q1
+        prompt: ''
+        target: 愛の結論
+        display: 『愛の結論』たる破局
+        choices:
+          - こたえ
+          - たぬきやろう
+          - おわ
+          - このせかい
+        correct: 0
+        answer:
+          text: こたえ
+          reading: こたえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-06-11-q2
+        prompt: 愛の結論（こたえ）
+        target: たる破局
+        display: 愛の結論『たる破局』
+        choices:
+          - まつり
+          - すがた
+          - まじわ
+          - catastrophe
+        correct: 3
+        answer:
+          text: catastrophe
+          reading: catastrophe
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-12
+    trackNumber: 12
+    songTitle: 避け難き終幕（finale）を迎えただけ
+    questions:
+      - id: dyj-06-12-q1
+        prompt: ''
+        target: 忌まわしき瞳が映し出す愛
+        display: 『忌まわしき瞳が映し出す愛』の想起
+        choices:
+          - むいしき
+          - ともがら
+          - ひとり
+          - われ
+        correct: 0
+        answer:
+          text: むいしき
+          reading: むいしき
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-06-12-q2
+        prompt: 忌まわしき瞳が映し出す愛（むいしき）
+        target: の想起
+        display: 忌まわしき瞳が映し出す愛『の想起』
+        choices:
+          - のぞむこと
+          - すきま
+          - refrain
+          - かみ
+        correct: 2
+        answer:
+          text: refrain
+          reading: refrain
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-13
+    trackNumber: 13
+    songTitle: devastator
+    questions:
+      - id: dyj-06-13-q1
+        prompt: ''
+        target: 快楽の図式
+        display: 『快楽の図式』を描く
+        choices:
+          - ドメイン
+          - いのち
+          - vision
+          - つき
+        correct: 2
+        answer:
+          text: vision
+          reading: vision
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-14
+    trackNumber: 14
+    songTitle: 潰えない虚無（nihil）を感じては
+    questions:
+      - id: dyj-06-14-q1
+        prompt: ''
+        target: 澱んだ暗闇
+        display: 『澱んだ暗闇』を双眸に湛え
+        choices:
+          - ゆめ
+          - ふるさと
+          - ひたすら
+          - あんこく
+        correct: 3
+        answer:
+          text: あんこく
+          reading: あんこく
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-06-14-q2
+        prompt: 澱んだ暗闇（あんこく）
+        target: を双眸
+        display: 澱んだ暗闇『を双眸』に湛え
+        choices:
+          - がらくた
+          - うたかた
+          - ながれぼし
+          - りょうめ
+        correct: 3
+        answer:
+          text: りょうめ
+          reading: りょうめ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-06-14-q3
+        prompt: ''
+        target: そして見つけた愛しい同族
+        display: 『そして見つけた愛しい同族』
+        choices:
+          - あおぐろ
+          - はな
+          - なぞ
+          - おもちゃ
+        correct: 3
+        answer:
+          text: おもちゃ
+          reading: おもちゃ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-15
+    trackNumber: 15
+    songTitle: 初期化（reset）するべき
+    questions:
+      - id: dyj-06-15-q1
+        prompt: ''
+        target: ＊＊＊＊＊＊＊＊
+        display: 『＊＊＊＊＊＊＊＊』
+        choices:
+          - いよいよ
+          - devastator
+          - からだわか
+          - しりあい
+        correct: 1
+        answer:
+          text: devastator
+          reading: devastator
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-16
+    trackNumber: 16
+    songTitle: うつろわざるもの
+    questions:
+      - id: dyj-06-16-q1
+        prompt: かつて、
+        target: 純真
+        display: かつて、『純真』に碧かったのは
+        choices:
+          - すきま
+          - みちばた
+          - ひそか
+          - ほんとう
+        correct: 3
+        answer:
+          text: ほんとう
+          reading: ほんとう
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-06-16-q2
+        prompt: ''
+        target: 解答
+        display: 『解答』を返さない幻想郷の
+        choices:
+          - こたえ
+          - ほんとう
+          - かわ
+          - はな
+        correct: 0
+        answer:
+          text: こたえ
+          reading: こたえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-06-16-q3
+        prompt: 解答（こたえ）
+        target: を返さない幻想郷
+        display: 解答『を返さない幻想郷』の
+        choices:
+          - め
+          - たかぶり
+          - るり
+          - せかい
+        correct: 3
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-17
+    trackNumber: 17
+    songTitle: 彼方（あなた）の事がわかる気がした。
+    questions:
+      - id: dyj-06-17-q1
+        prompt: ''
+        target: 見上げる天空
+        display: 『見上げる天空』に
+        choices:
+          - あお
+          - そら
+          - わからず
+          - おしえ
+        correct: 1
+        answer:
+          text: そら
+          reading: そら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-06-18
+    trackNumber: 18
+    songTitle: この幻想郷（せかい）だけは。
+    questions:
+      - id: dyj-06-18-q1
+        prompt: ''
+        target: 彼方
+        display: 『彼方』とともにあるならそれでいい。
+        choices:
+          - ぼうけん
+          - あらごと
+          - げきせき
+          - あなた
+        correct: 3
+        answer:
+          text: あなた
+          reading: あなた
+        tags:
+          - ateji
+          - 4択

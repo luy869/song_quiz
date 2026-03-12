@@ -1,13 +1,226 @@
-# 凋叶棕 アルバム一覧
 albums:
   - id: dyj-01
     title: 宴
     series: 凋叶棕 ナンバリング作品
     number: 1
     file: albums/dyj-01.yaml
-
+  - id: dyj-02
+    title: 趣
+    series: 凋叶棕 ナンバリング作品
+    number: 2
+    file: albums/dyj-02.yaml
   - id: dyj-03
     title: 謡
     series: 凋叶棕 ナンバリング作品
     number: 3
     file: albums/dyj-03.yaml
+  - id: dyj-04
+    title: 廻
+    series: 凋叶棕 ナンバリング作品
+    number: 4
+    file: albums/dyj-04.yaml
+  - id: dyj-05
+    title: 憩
+    series: 凋叶棕 ナンバリング作品
+    number: 5
+    file: albums/dyj-05.yaml
+  - id: dyj-06
+    title: 遙
+    series: 凋叶棕 ナンバリング作品
+    number: 6
+    file: albums/dyj-06.yaml
+  - id: dyj-07
+    title: 綴
+    series: 凋叶棕 ナンバリング作品
+    number: 7
+    file: albums/dyj-07.yaml
+  - id: dyj-08
+    title: 彩
+    series: 凋叶棕 ナンバリング作品
+    number: 8
+    file: albums/dyj-08.yaml
+  - id: dyj-09
+    title: 騙
+    series: 凋叶棕 ナンバリング作品
+    number: 9
+    file: albums/dyj-09.yaml
+  - id: dyj-10
+    title: 辿／誘
+    series: 凋叶棕 ナンバリング作品
+    number: 10
+    file: albums/dyj-10.yaml
+  - id: dyj-11
+    title: 徒
+    series: 凋叶棕 ナンバリング作品
+    number: 11
+    file: albums/dyj-11.yaml
+  - id: dyj-12
+    title: 改
+    series: 凋叶棕 ナンバリング作品
+    number: 12
+    file: albums/dyj-12.yaml
+  - id: dyj-13
+    title: 薦
+    series: 凋叶棕 ナンバリング作品
+    number: 13
+    file: albums/dyj-13.yaml
+  - id: dyj-14
+    title: 望
+    series: 凋叶棕 ナンバリング作品
+    number: 14
+    file: albums/dyj-14.yaml
+  - id: dyj-15
+    title: 屠
+    series: 凋叶棕 ナンバリング作品
+    number: 15
+    file: albums/dyj-15.yaml
+  - id: dyj-16
+    title: 奉
+    series: 凋叶棕 ナンバリング作品
+    number: 16
+    file: albums/dyj-16.yaml
+  - id: dyj-17
+    title: 求
+    series: 凋叶棕 ナンバリング作品
+    number: 17
+    file: albums/dyj-17.yaml
+  - id: dyj-18
+    title: 喩
+    series: 凋叶棕 ナンバリング作品
+    number: 18
+    file: albums/dyj-18.yaml
+  - id: dyj-19
+    title: 密
+    series: 凋叶棕 ナンバリング作品
+    number: 19
+    file: albums/dyj-19.yaml
+  - id: dyj-20
+    title: 掲
+    series: 凋叶棕 ナンバリング作品
+    number: 20
+    file: albums/dyj-20.yaml
+  - id: dyj-21
+    title: 夢
+    series: 凋叶棕 ナンバリング作品
+    number: 21
+    file: albums/dyj-21.yaml
+  - id: dyj-22
+    title: 伝
+    series: 凋叶棕 ナンバリング作品
+    number: 22
+    file: albums/dyj-22.yaml
+  - id: dyj-23
+    title: 随
+    series: 凋叶棕 ナンバリング作品
+    number: 23
+    file: albums/dyj-23.yaml
+  - id: dyj-24
+    title: 音
+    series: 凋叶棕 ナンバリング作品
+    number: 24
+    file: albums/dyj-24.yaml
+  - id: dyj-25
+    title: 祀
+    series: 凋叶棕 ナンバリング作品
+    number: 25
+    file: albums/dyj-25.yaml
+  - id: dyj-26
+    title: 逆
+    series: 凋叶棕 ナンバリング作品
+    number: 26
+    file: albums/dyj-26.yaml
+  - id: dyj-27
+    title: 娶
+    series: 凋叶棕 ナンバリング作品
+    number: 27
+    file: albums/dyj-27.yaml
+  - id: dyj-28
+    title: 奏
+    series: 凋叶棕 ナンバリング作品
+    number: 28
+    file: albums/dyj-28.yaml
+  - id: dyj-29
+    title: 眇
+    series: 凋叶棕 ナンバリング作品
+    number: 29
+    file: albums/dyj-29.yaml
+  - id: dyj-30
+    title: 彁
+    series: 凋叶棕 ナンバリング作品
+    number: 30
+    file: albums/dyj-30.yaml
+  - id: dyj-31
+    title: 蒐
+    series: 凋叶棕 ナンバリング作品
+    number: 31
+    file: albums/dyj-31.yaml
+  - id: dyj-32
+    title: 報
+    series: 凋叶棕 ナンバリング作品
+    number: 32
+    file: albums/dyj-32.yaml
+  - id: dyj-33
+    title: △
+    series: 凋叶棕 ナンバリング作品
+    number: 33
+    file: albums/dyj-33.yaml
+  - id: dyj-34
+    title: 𠷡
+    series: 凋叶棕 ナンバリング作品
+    number: 34
+    file: albums/dyj-34.yaml
+  - id: dyj-35
+    title: 記
+    series: 凋叶棕 ナンバリング作品
+    number: 35
+    file: albums/dyj-35.yaml
+  - id: dyj-36
+    title: 軛
+    series: 凋叶棕 ナンバリング作品
+    number: 36
+    file: albums/dyj-36.yaml
+  - id: dyj-37
+    title: Ｑ
+    series: 凋叶棕 ナンバリング作品
+    number: 37
+    file: albums/dyj-37.yaml
+  - id: dyj-38
+    title: 慄
+    series: 凋叶棕 ナンバリング作品
+    number: 38
+    file: albums/dyj-38.yaml
+  - id: dyj-39
+    title: ■
+    series: 凋叶棕 ナンバリング作品
+    number: 39
+    file: albums/dyj-39.yaml
+  - id: dyj-40
+    title: 界
+    series: 凋叶棕 ナンバリング作品
+    number: 40
+    file: albums/dyj-40.yaml
+  - id: dyj-41
+    title: 縺
+    series: 凋叶棕 ナンバリング作品
+    number: 41
+    file: albums/dyj-41.yaml
+  - id: dyj-42
+    title: 眩
+    series: 凋叶棕 ナンバリング作品
+    number: 42
+    file: albums/dyj-42.yaml
+  - id: dyj-43
+    title: 縁
+    series: 凋叶棕 ナンバリング作品
+    number: 43
+    file: albums/dyj-43.yaml
+  - id: dyj-44
+    title: 牟
+    series: 凋叶棕 ナンバリング作品
+    number: 44
+    file: albums/dyj-44.yaml
+  - id: dyj-45
+    title: 瞠
+    series: 凋叶棕 ナンバリング作品
+    number: 45
+    file: albums/dyj-45.yaml

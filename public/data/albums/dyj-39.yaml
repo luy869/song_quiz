@@ -1,0 +1,391 @@
+id: dyj-39
+title: ■
+series: 凋叶棕 ナンバリング作品
+number: 39
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-39-01
+    trackNumber: 1
+    songTitle: only that screech ingrained
+    questions:
+      - id: dyj-39-01-q1
+        prompt: ''
+        target: ざわめきの音色
+        display: 『ざわめきの音色』
+        choices:
+          - うた
+          - くちぐちぐちぐちつぶさ
+          - かばね
+          - さんげつうららちてらす
+        correct: 0
+        answer:
+          text: うた
+          reading: うた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-02
+    trackNumber: 2
+    songTitle: 心の知れる侭　妄想（おも）うがいい
+    questions:
+      - id: dyj-39-02-q1
+        prompt: ''
+        target: 孤独のままに泣き叫ぶ鵺
+        display: 『孤独のままに泣き叫ぶ鵺』の聲を
+        choices:
+          - こいごころ
+          - とり
+          - しょうたい
+          - かんじょう
+        correct: 1
+        answer:
+          text: とり
+          reading: とり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-03
+    trackNumber: 3
+    songTitle: 「人狼」
+    questions:
+      - id: dyj-39-03-q1
+        prompt: 私なんて
+        target: 獣
+        display: 私なんて　　『獣』呼ばわりよ。
+        choices:
+          - そこ
+          - つき
+          - かず
+          - ひと
+        correct: 3
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-04
+    trackNumber: 4
+    songTitle: 『鮮血（あか）を浴びて』
+    questions:
+      - id: dyj-39-04-q1
+        prompt: 『
+        target: 人間
+        display: 『『人間』だけを狙った』のも
+        choices:
+          - ひと
+          - て
+          - てき
+          - たどりつく
+        correct: 0
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-39-04-q2
+        prompt: ''
+        target: 正体を明かせこの物怪
+        display: 『正体を明かせこの物怪』が
+        choices:
+          - かる
+          - ばけもの
+          - さんげつうららちてらす
+          - かい
+        correct: 1
+        answer:
+          text: ばけもの
+          reading: ばけもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-05
+    trackNumber: 5
+    songTitle: SPACE MIKO
+    questions:
+      - id: dyj-39-05-q1
+        prompt: ''
+        target: 敵前逃亡
+        display: 『敵前逃亡』は許されないな
+        choices:
+          - しりたいこと
+          - わたつみ
+          - あさあけ
+          - とんずら
+        correct: 3
+        answer:
+          text: とんずら
+          reading: とんずら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-06
+    trackNumber: 6
+    songTitle: 余罪を罪（つ）み上げる
+    questions:
+      - id: dyj-39-06-q1
+        prompt: ''
+        target: 宇宙から故郷
+        display: 『宇宙から故郷』を見降ろして
+        choices:
+          - 幻想郷
+          - あそび
+          - レヴァリエ
+          - すきま
+        correct: 0
+        answer:
+          text: 幻想郷
+          reading: 幻想郷
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-07
+    trackNumber: 7
+    songTitle: 38万㎞の死屍累々累々（るいるいるい）
+    questions:
+      - id: dyj-39-07-q1
+        prompt: ''
+        target: 結局誰が一番狂人
+        display: 『結局誰が一番狂人』なんだ？
+        choices:
+          - ここ
+          - いよいよ
+          - まとも
+          - これ
+        correct: 2
+        answer:
+          text: まとも
+          reading: まとも
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-08
+    trackNumber: 8
+    songTitle: 乱痴気･色欲･大喝采（ホーニー･ホーニー･ホーニー）
+    questions:
+      - id: dyj-39-08-q1
+        prompt: 輝く
+        target: 末期の妖精たち
+        display: 輝く　『末期の妖精たち』
+        choices:
+          - レガシー
+          - スプライツ
+          - コヒーレント
+          - セオリー
+        correct: 1
+        answer:
+          text: スプライツ
+          reading: スプライツ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-09
+    trackNumber: 9
+    songTitle: M8901（ハクレイ）星雲まで
+    questions:
+      - id: dyj-39-09-q1
+        prompt: ''
+        target: 帰還
+        display: 『帰還』れよ帰還れよ宇宙巫女
+        choices:
+          - かえ
+          - まじわ
+          - つくりもの
+          - おも
+        correct: 0
+        answer:
+          text: かえ
+          reading: かえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-39-09-q2
+        prompt: 帰還（かえ）
+        target: れよ帰還
+        display: 帰還『れよ帰還』れよ宇宙巫女
+        choices:
+          - かえ
+          - ひとみ
+          - わたしたち
+          - なれのはて
+        correct: 0
+        answer:
+          text: かえ
+          reading: かえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-10
+    trackNumber: 10
+    songTitle: ツキノオトシゴ
+    questions:
+      - id: dyj-39-10-q1
+        prompt: ''
+        target: 暗闇の静謐
+        display: 『暗闇の静謐』
+        choices:
+          - クラウンピース
+          - レアリティ
+          - ダッシュ
+          - スティルネス
+        correct: 3
+        answer:
+          text: スティルネス
+          reading: スティルネス
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-11
+    trackNumber: 11
+    songTitle: でも眠れない孤独（ロンリネス）
+    questions:
+      - id: dyj-39-11-q1
+        prompt: ''
+        target: 覚束
+        display: 『覚束』なく揺られ
+        choices:
+          - おぼつか
+          - こたえ
+          - い
+          - しにげしょう
+        correct: 0
+        answer:
+          text: おぼつか
+          reading: おぼつか
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-39-11-q2
+        prompt: さあ召しませ
+        target: 《砂糖漬け》
+        display: さあ召しませ　『《砂糖漬け》』
+        choices:
+          - コヒーレント
+          - ルナティックシグナルクラウド
+          - マロングラッセ
+          - ミーティア
+        correct: 2
+        answer:
+          text: マロングラッセ
+          reading: マロングラッセ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-12
+    trackNumber: 12
+    songTitle: unseen yet
+    questions:
+      - id: dyj-39-12-q1
+        prompt: ''
+        target: 精神
+        display: 『精神』はいまなお
+        choices:
+          - こころ
+          - あらそい
+          - わたつみ
+          - わからず
+        correct: 0
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-13
+    trackNumber: 13
+    songTitle: 夢≪＝≫現（げんそう）の相互作用
+    questions:
+      - id: dyj-39-13-q1
+        prompt: ''
+        target: 夢≫＝≪現
+        display: 『夢≫＝≪現』の相互作用
+        choices:
+          - ことば
+          - あさあけ
+          - げんそう
+          - ひろ
+        correct: 2
+        answer:
+          text: げんそう
+          reading: げんそう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-14
+    trackNumber: 14
+    songTitle: 夢＝現（げんそう）の相互作用
+    questions:
+      - id: dyj-39-14-q1
+        prompt: ''
+        target: 旧き詞
+        display: 『旧き詞』に詠わるるまま
+        choices:
+          - うた
+          - うたごえ
+          - なぶ
+          - ぼうけん
+        correct: 0
+        answer:
+          text: うた
+          reading: うた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-15
+    trackNumber: 15
+    songTitle: Pikinini Kumul
+    questions:
+      - id: dyj-39-15-q1
+        prompt: ''
+        target: 空想
+        display: 『空想』
+        choices:
+          - レヴァリエ
+          - ルナティックシグナルクラウド
+          - ファイヤーパワー
+          - ドメイン
+        correct: 0
+        answer:
+          text: レヴァリエ
+          reading: レヴァリエ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-39-15-q2
+        prompt: ''
+        target: ⋯⋯嘘だらけの≪物語≫
+        display: 『⋯⋯嘘だらけの≪物語≫』
+        choices:
+          - ストーリア
+          - クラウンピース
+          - レヴァリエ
+          - フィジカル
+        correct: 0
+        answer:
+          text: ストーリア
+          reading: ストーリア
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-39-16
+    trackNumber: 16
+    songTitle: 実在（あ）る筈だと信じている
+    questions:
+      - id: dyj-39-16-q1
+        prompt: ''
+        target: 幻想の郷
+        display: 『幻想の郷』を思い描く
+        choices:
+          - ふるさと
+          - なが
+          - とびら
+          - このばしょ
+        correct: 0
+        answer:
+          text: ふるさと
+          reading: ふるさと
+        tags:
+          - ateji
+          - 4択

@@ -1,0 +1,479 @@
+id: dyj-30
+title: 彁
+series: 凋叶棕 ナンバリング作品
+number: 30
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-30-01
+    trackNumber: 1
+    songTitle: ホーカス・ポーカス
+    questions:
+      - id: dyj-30-01-q1
+        prompt: 『
+        target: 方法
+        display: 『『方法』』はもう知ったから
+        choices:
+          - やりかた
+          - わたしたち
+          - わか
+          - たかぶり
+        correct: 0
+        answer:
+          text: やりかた
+          reading: やりかた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-02
+    trackNumber: 2
+    songTitle: 解答（こたえ）
+    questions:
+      - id: dyj-30-02-q1
+        prompt: ''
+        target: ひとすじの火種
+        display: 『ひとすじの火種』として
+        choices:
+          - おく
+          - めためた
+          - こい
+          - だいち
+        correct: 2
+        answer:
+          text: こい
+          reading: こい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-03
+    trackNumber: 3
+    songTitle: Marks of Sin
+    questions:
+      - id: dyj-30-03-q1
+        prompt: ''
+        target: 無色の妖精
+        display: 『無色の妖精』
+        choices:
+          - クラウンピース
+          - ラストオカルティズム
+          - オールドアダム
+          - ディフュージョン
+        correct: 0
+        answer:
+          text: クラウンピース
+          reading: クラウンピース
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-04
+    trackNumber: 4
+    songTitle: 一匹（ひとり）
+    questions:
+      - id: dyj-30-04-q1
+        prompt: ''
+        target: 記号
+        display: 『記号』
+        choices:
+          - つぎのゆめ
+          - たま
+          - signature
+          - うごき
+        correct: 2
+        answer:
+          text: signature
+          reading: signature
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-05
+    trackNumber: 5
+    songTitle: 故郷（ばしょ）に落ちて
+    questions:
+      - id: dyj-30-05-q1
+        prompt: ''
+        target: 我
+        display: 『我』
+        choices:
+          - あめつち
+          - あたい
+          - こちらがわ
+          - まみ
+        correct: 1
+        answer:
+          text: あたい
+          reading: あたい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-30-05-q2
+        prompt: ''
+        target: これこそいつか見た[Ira
+        display: 『これこそいつか見た[Ira』]というのだろう!
+        choices:
+          - すがた
+          - あい
+          - こがねいろ
+          - 憤怒
+        correct: 3
+        answer:
+          text: 憤怒
+          reading: 憤怒
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-06
+    trackNumber: 6
+    songTitle: 色彩（いろ）
+    questions:
+      - id: dyj-30-06-q1
+        prompt: ''
+        target: 無垢の妖精
+        display: 『無垢の妖精』
+        choices:
+          - ラディカル
+          - オニキス
+          - クラウンピース
+          - フィジカル
+        correct: 2
+        answer:
+          text: クラウンピース
+          reading: クラウンピース
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-30-06-q2
+        prompt: ''
+        target: これこそいつか見た[Invida
+        display: 『これこそいつか見た[Invida』]というのだろう!
+        choices:
+          - きみ
+          - しにげしょう
+          - メッサージュ
+          - 嫉妬
+        correct: 3
+        answer:
+          text: 嫉妬
+          reading: 嫉妬
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-07
+    trackNumber: 7
+    songTitle: 非無色（pierrot）
+    questions:
+      - id: dyj-30-07-q1
+        prompt: ''
+        target: 非無垢
+        display: 『非無垢』
+        choices:
+          - pierrot
+          - し
+          - くに
+          - のぞむこと
+        correct: 0
+        answer:
+          text: pierrot
+          reading: pierrot
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-08
+    trackNumber: 8
+    songTitle: 凶精（pierrot）
+    questions:
+      - id: dyj-30-08-q1
+        prompt: ''
+        target: 罪の成果
+        display: 『罪の成果』
+        choices:
+          - なれのはて
+          - まぼろし
+          - おはなし
+          - ひとつ
+        correct: 0
+        answer:
+          text: なれのはて
+          reading: なれのはて
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-09
+    trackNumber: 9
+    songTitle: この象形（かたち）の意味が
+    questions:
+      - id: dyj-30-09-q1
+        prompt: ''
+        target: これこそいつか見た[superbia
+        display: 『これこそいつか見た[superbia』]というのだろう!
+        choices:
+          - にえ
+          - わたし
+          - 傲慢
+          - すく
+        correct: 2
+        answer:
+          text: 傲慢
+          reading: 傲慢
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-10
+    trackNumber: 10
+    songTitle: 幻想少女物語
+    questions:
+      - id: dyj-30-10-q1
+        prompt: ''
+        target: 頁
+        display: 『頁』を
+        choices:
+          - わざわい
+          - りそう
+          - くに
+          - page
+        correct: 3
+        answer:
+          text: page
+          reading: page
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-11
+    trackNumber: 11
+    songTitle: Dolls into Pitiful Pretenders
+    questions:
+      - id: dyj-30-11-q1
+        prompt: 【
+        target: 神聖
+        display: 【『神聖』】という
+        choices:
+          - enigma
+          - アキュムレーション
+          - あおぐろ
+          - おぼ
+        correct: 0
+        answer:
+          text: enigma
+          reading: enigma
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-12
+    trackNumber: 12
+    songTitle: 【恐怖（enigma）】という
+    questions:
+      - id: dyj-30-12-q1
+        prompt: ''
+        target: '**'
+        display: 『**』
+        choices:
+          - reverie
+          - イリンクス
+          - こい
+          - しりあい
+        correct: 0
+        answer:
+          text: reverie
+          reading: reverie
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-13
+    trackNumber: 13
+    songTitle: 「真実（すくい）」を
+    questions:
+      - id: dyj-30-13-q1
+        prompt: 【
+        target: 呪い
+        display: 【『呪い』】という
+        choices:
+          - enigma
+          - げんそう
+          - あやややや
+          - と
+        correct: 0
+        answer:
+          text: enigma
+          reading: enigma
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-14
+    trackNumber: 14
+    songTitle: 幻想星神信仰
+    questions:
+      - id: dyj-30-14-q1
+        prompt: ''
+        target: 宿星
+        display: 『宿星』
+        choices:
+          - おしえ
+          - はな
+          - ふるさと
+          - ほし
+        correct: 3
+        answer:
+          text: ほし
+          reading: ほし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-15
+    trackNumber: 15
+    songTitle: 流竄（なが）れて
+    questions:
+      - id: dyj-30-15-q1
+        prompt: ''
+        target: 交懐
+        display: 『交懐』れば
+        choices:
+          - わらべあそび
+          - かばね
+          - き
+          - まじわ
+        correct: 3
+        answer:
+          text: まじわ
+          reading: まじわ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-16
+    trackNumber: 16
+    songTitle: 碍（かべ）の
+    questions:
+      - id: dyj-30-16-q1
+        prompt: ''
+        target: 交懐
+        display: 『交懐』わらす
+        choices:
+          - まじ
+          - ここ
+          - まがうた
+          - りかい
+        correct: 0
+        answer:
+          text: まじ
+          reading: まじ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-17
+    trackNumber: 17
+    songTitle: 礙（かべ）の
+    questions:
+      - id: dyj-30-17-q1
+        prompt: ''
+        target: 娑婆
+        display: 『娑婆』
+        choices:
+          - ここ
+          - ひと
+          - えんぎ
+          - よわいもの
+        correct: 0
+        answer:
+          text: ここ
+          reading: ここ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-18
+    trackNumber: 18
+    songTitle: くすぶるなにか
+    questions:
+      - id: dyj-30-18-q1
+        prompt: ''
+        target: “終幻想
+        display: 『“終幻想』”
+        choices:
+          - ネタ
+          - アリス
+          - スペリオリティ
+          - ラストオカルティズム
+        correct: 3
+        answer:
+          text: ラストオカルティズム
+          reading: ラストオカルティズム
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-19
+    trackNumber: 19
+    songTitle: “追幻想人（ラストオカルティスト）”
+    questions:
+      - id: dyj-30-19-q1
+        prompt: ''
+        target: “続幻想
+        display: 『“続幻想』”
+        choices:
+          - ラストオカルティズム
+          - エゴ
+          - ズル
+          - エクラン
+        correct: 0
+        answer:
+          text: ラストオカルティズム
+          reading: ラストオカルティズム
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-20
+    trackNumber: 20
+    songTitle: ／彁
+    questions:
+      - id: dyj-30-20-q1
+        prompt: ''
+        target: 無重力
+        display: 『無重力』さ
+        choices:
+          - おもちゃ
+          - かる
+          - かお
+          - とも
+        correct: 1
+        answer:
+          text: かる
+          reading: かる
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-21
+    trackNumber: 21
+    songTitle: 執着（おも）わず
+    questions:
+      - id: dyj-30-21-q1
+        prompt: ''
+        target: 彁
+        display: 『彁』をもたない
+        choices:
+          - おもさ
+          - あか
+          - まざ
+          - おやがみ
+        correct: 0
+        answer:
+          text: おもさ
+          reading: おもさ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-30-22
+    trackNumber: 22
+    songTitle: 彁（かたち）をなさない
+    questions:
+      - id: dyj-30-22-q1
+        prompt: ''
+        target: 夢現
+        display: 『夢現』さ
+        choices:
+          - げんそう
+          - つよ
+          - あそび
+          - みちのり
+        correct: 1
+        answer:
+          text: つよ
+          reading: つよ
+        tags:
+          - ateji
+          - 4択

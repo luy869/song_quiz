@@ -1,0 +1,355 @@
+id: dyj-12
+title: 改
+series: 凋叶棕 ナンバリング作品
+number: 12
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-12-01
+    trackNumber: 1
+    songTitle: スターシーカー　～ Where no man has gone before.
+    questions:
+      - id: dyj-12-01-q1
+        prompt: ''
+        target: 甘い星型弾
+        display: 『甘い星型弾』のように魅力的で
+        choices:
+          - こんぺいとう
+          - らくえん
+          - こんや
+          - からだわか
+        correct: 0
+        answer:
+          text: こんぺいとう
+          reading: こんぺいとう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-02
+    trackNumber: 2
+    songTitle: 胎児の夢　～ Soul Undertone
+    questions:
+      - id: dyj-12-02-q1
+        prompt: ''
+        target: 分裂増大
+        display: 『分裂増大』ち
+        choices:
+          - すきま
+          - おと
+          - ことば
+          - からだわか
+        correct: 3
+        answer:
+          text: からだわか
+          reading: からだわか
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-03
+    trackNumber: 3
+    songTitle: 鱗（はだ）
+    questions:
+      - id: dyj-12-03-q1
+        prompt: ''
+        target: アー入れ込まれたその構造
+        display: 『アー入れ込まれたその構造』に
+        choices:
+          - のぞみ
+          - ちぎ
+          - system
+          - すきま
+        correct: 2
+        answer:
+          text: system
+          reading: system
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-04
+    trackNumber: 4
+    songTitle: ヒカリ　～ Miscarried Princess
+    questions:
+      - id: dyj-12-04-q1
+        prompt: 一つの、
+        target: 自律存在
+        display: 一つの、『自律存在』としてここに。
+        choices:
+          - いのち
+          - き
+          - ながれぼし
+          - かけら
+        correct: 0
+        answer:
+          text: いのち
+          reading: いのち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-05
+    trackNumber: 5
+    songTitle: パラレルスカイ　～ Ambitious Explorer
+    questions:
+      - id: dyj-12-05-q1
+        prompt: そしてその手に輝く、
+        target: 客星
+        display: そしてその手に輝く、『客星』の、光を、今！
+        choices:
+          - ほし
+          - あそび
+          - おねえさん
+          - ふしぎ
+        correct: 0
+        answer:
+          text: ほし
+          reading: ほし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-06
+    trackNumber: 6
+    songTitle: SFでファンタジー まるで理想郷（utopia）
+    questions:
+      - id: dyj-12-06-q1
+        prompt: かつて朽ち果てたはずの、古い、
+        target: 秘術
+        display: かつて朽ち果てたはずの、古い、『秘術』を、今！
+        choices:
+          - かいじん
+          - ゆめ
+          - まどか
+          - まほう
+        correct: 3
+        answer:
+          text: まほう
+          reading: まほう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-07
+    trackNumber: 7
+    songTitle: 絶対的一方通行　～ Unreachable Message
+    questions:
+      - id: dyj-12-07-q1
+        prompt: ''
+        target: 理解
+        display: 『理解』るな。探るな。
+        choices:
+          - かえ
+          - しょくじ
+          - しん
+          - わか
+        correct: 3
+        answer:
+          text: わか
+          reading: わか
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-12-07-q2
+        prompt: ''
+        target: 忘れられた世界が顕現
+        display: 『忘れられた世界が顕現』れる
+        choices:
+          - あらわ
+          - くちぐちぐちぐちつぶさ
+          - こい
+          - ぜったい
+        correct: 0
+        answer:
+          text: あらわ
+          reading: あらわ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-12-07-q3
+        prompt: ''
+        target: 行きはよくても帰りはもう幻想入り
+        display: 『行きはよくても帰りはもう幻想入り』
+        choices:
+          - い
+          - あらそい
+          - こちらがわ
+          - そら
+        correct: 2
+        answer:
+          text: こちらがわ
+          reading: こちらがわ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-08
+    trackNumber: 8
+    songTitle: マッドパーティー　～ A Magusnificent Plan
+    questions:
+      - id: dyj-12-08-q1
+        prompt: そんな噂を気にもせずに、
+        target: やって来る様な者
+        display: そんな噂を気にもせずに、『やって来る様な者』が
+        choices:
+          - せわたり
+          - やつ
+          - ひとたるもの
+          - くに
+        correct: 1
+        answer:
+          text: やつ
+          reading: やつ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-09
+    trackNumber: 9
+    songTitle: 引き攣らせたその表情（かお）、さぞかし見物だろう。
+    questions:
+      - id: dyj-12-09-q1
+        prompt: ''
+        target: そうして“晩餐
+        display: 『そうして“晩餐』”が開かれる…
+        choices:
+          - ゆがんで
+          - わたしのせかい
+          - ひとがた
+          - うたげ
+        correct: 3
+        answer:
+          text: うたげ
+          reading: うたげ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-10
+    trackNumber: 10
+    songTitle: “食材（そいつ）”
+    questions:
+      - id: dyj-12-10-q1
+        prompt: 最期を飾る「
+        target: マスタースパーク
+        display: 最期を飾る「『マスタースパーク』」
+        choices:
+          - 空撃ち
+          - レヴァリエ
+          - ペン
+          - サーガ
+        correct: 0
+        answer:
+          text: 空撃ち
+          reading: 空撃ち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-11
+    trackNumber: 11
+    songTitle: そしていつかまた出逢って　～ Eternal Flower
+    questions:
+      - id: dyj-12-11-q1
+        prompt: ''
+        target: 泡沫
+        display: 『泡沫』のように
+        choices:
+          - うたかた
+          - ともがら
+          - ながれぼし
+          - こたえ
+        correct: 0
+        answer:
+          text: うたかた
+          reading: うたかた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-12
+    trackNumber: 12
+    songTitle: 命（いろ）
+    questions:
+      - id: dyj-12-12-q1
+        prompt: そしていつか出逢って
+        target: いつか別離
+        display: そしていつか出逢って 『いつか別離』れて 全てまた廻る
+        choices:
+          - しょうぶ
+          - とも
+          - わか
+          - ちから
+        correct: 2
+        answer:
+          text: わか
+          reading: わか
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-13
+    trackNumber: 13
+    songTitle: うつろわざるもの　～ True Conclusion
+    questions:
+      - id: dyj-12-13-q1
+        prompt: かつて、
+        target: 純真
+        display: かつて、『純真』に碧かったのは
+        choices:
+          - ほんとう
+          - しり
+          - なげい
+          - あそび
+        correct: 0
+        answer:
+          text: ほんとう
+          reading: ほんとう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-14
+    trackNumber: 14
+    songTitle: 彼方（あなた）
+    questions:
+      - id: dyj-12-14-q1
+        prompt: ''
+        target: 解答
+        display: 『解答』を返さない幻想郷の
+        choices:
+          - あま
+          - しごと
+          - おびやかして
+          - こたえ
+        correct: 3
+        answer:
+          text: こたえ
+          reading: こたえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-12-14-q2
+        prompt: 解答（こたえ）
+        target: を返さない幻想郷
+        display: 解答『を返さない幻想郷』の
+        choices:
+          - かげ
+          - て
+          - このせかい
+          - うご
+        correct: 2
+        answer:
+          text: このせかい
+          reading: このせかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-12-15
+    trackNumber: 15
+    songTitle: 見上げる天空（そら）に
+    questions:
+      - id: dyj-12-15-q1
+        prompt: ''
+        target: この幻想郷
+        display: 『この幻想郷』だけは
+        choices:
+          - せかい
+          - ひびき
+          - わるふざけ
+          - ともがら
+        correct: 0
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択

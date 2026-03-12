@@ -1,0 +1,123 @@
+id: dyj-38
+title: 慄
+series: 凋叶棕 ナンバリング作品
+number: 38
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-38-01
+    trackNumber: 1
+    songTitle: 『鏡と鐘』
+    questions:
+      - id: dyj-38-01-q1
+        prompt: ''
+        target: 浅ましき希
+        display: 『浅ましき希』が
+        choices:
+          - まえ
+          - ねがい
+          - ときをつげ
+          - かい
+        correct: 1
+        answer:
+          text: ねがい
+          reading: ねがい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-38-02
+    trackNumber: 2
+    songTitle: 『楽園に吹く風』
+    questions:
+      - id: dyj-38-02-q1
+        prompt: 伝説と夢想に
+        target: 現実
+        display: 伝説と夢想に　『現実』を重ねて
+        choices:
+          - いま
+          - おもい
+          - よろず
+          - つぶ
+        correct: 0
+        answer:
+          text: いま
+          reading: いま
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-38-03
+    trackNumber: 3
+    songTitle: 『また月夜に』
+    questions:
+      - id: dyj-38-03-q1
+        prompt: ''
+        target: 明日のよき良人
+        display: 『明日のよき良人』　契りを
+        choices:
+          - ひと
+          - しん
+          - おしえて
+          - つぎのゆめ
+        correct: 0
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-38-04
+    trackNumber: 4
+    songTitle: ≪無間夢幻無想夢想幻葬≫
+    questions:
+      - id: dyj-38-04-q1
+        prompt: ''
+        target: 填しく愛
+        display: 『填しく愛』しく
+        choices:
+          - まぼろし
+          - げんじつ
+          - とり
+          - かな
+        correct: 3
+        answer:
+          text: かな
+          reading: かな
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-38-05
+    trackNumber: 5
+    songTitle: 伝え伝わる怪話（あやし）の侭に
+    questions:
+      - id: dyj-38-05-q1
+        prompt: ''
+        target: 誰もお前を抱擁
+        display: 『誰もお前を抱擁』くことはないのだと知るのならば
+        choices:
+          - だ
+          - かけら
+          - こうい
+          - うごき
+        correct: 0
+        answer:
+          text: だ
+          reading: だ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-38-05-q2
+        prompt: ''
+        target: そのすべてなにもかもをして無間夢幻無想夢想幻葬
+        display: 『そのすべてなにもかもをして無間夢幻無想夢想幻葬』⋯⋯
+        choices:
+          - むげん　むそう　げんそう
+          - オールドアダム
+          - ゆめ
+          - なかま
+        correct: 0
+        answer:
+          text: むげん　むそう　げんそう
+          reading: むげん　むそう　げんそう
+        tags:
+          - ateji
+          - 4択

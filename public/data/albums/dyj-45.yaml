@@ -1,0 +1,367 @@
+id: dyj-45
+title: 瞠
+series: 凋叶棕 ナンバリング作品
+number: 45
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-45-01
+    trackNumber: 1
+    songTitle: 目覚めよ少女よ
+    questions:
+      - id: dyj-45-01-q1
+        prompt: 何もない
+        target: 未開の精神
+        display: 何もない　『未開の精神』から
+        choices:
+          - こころ
+          - おく
+          - すべてかくすもの
+          - かんじょう
+        correct: 0
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-02
+    trackNumber: 2
+    songTitle: それはきっと大きく瞠（ひら）かれていくだろう
+    questions:
+      - id: dyj-45-02-q1
+        prompt: ''
+        target: 漠然とした無形
+        display: 『漠然とした無形』さのただなか
+        choices:
+          - はじめ
+          - げきせき
+          - よろず
+          - かたちな
+        correct: 3
+        answer:
+          text: かたちな
+          reading: かたちな
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-03
+    trackNumber: 3
+    songTitle: か細くも確かなその自我（みちすじ）のはじまりを
+    questions:
+      - id: dyj-45-03-q1
+        prompt: そうだ
+        target: 今こそはっきりと瞳を瞠
+        display: そうだ　『今こそはっきりと瞳を瞠』け
+        choices:
+          - あぎと
+          - わたしたち
+          - あそび
+          - ひら
+        correct: 3
+        answer:
+          text: ひら
+          reading: ひら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-04
+    trackNumber: 4
+    songTitle: your zealot
+    questions:
+      - id: dyj-45-04-q1
+        prompt: 去来さるる思想
+        target: すわ奔
+        display: 去来さるる思想　『すわ奔』る雷撃
+        choices:
+          - うつく
+          - けしてつづかぬもの
+          - いろ
+          - はし
+        correct: 3
+        answer:
+          text: はし
+          reading: はし
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-45-04-q2
+        prompt: そうそれなるは
+        target: 物言わぬモノその全てをただ聖贄
+        display: そうそれなるは　『物言わぬモノその全てをただ聖贄』として
+        choices:
+          - お
+          - おしえ
+          - うそ
+          - にえ
+        correct: 3
+        answer:
+          text: にえ
+          reading: にえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-05
+    trackNumber: 5
+    songTitle: かくて我は旧神（かみ）を見た　それは世界の終わりであった
+    questions:
+      - id: dyj-45-05-q1
+        prompt: ''
+        target: この血の祖神
+        display: 『この血の祖神』　それが行方は悠か
+        choices:
+          - ひたむき
+          - おやがみ
+          - うご
+          - こんや
+        correct: 1
+        answer:
+          text: おやがみ
+          reading: おやがみ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-45-05-q2
+        prompt: 然れどもその行方は
+        target: 想うには遠過ぎた夢想
+        display: 然れどもその行方は　『想うには遠過ぎた夢想』であった
+        choices:
+          - ゆめ
+          - たびびと
+          - まぼろしのくに
+          - しんこう
+        correct: 0
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-06
+    trackNumber: 6
+    songTitle: ここに我は啓（ひら）きを得た　只　真理というものは一つだけ
+    questions:
+      - id: dyj-45-06-q1
+        prompt: そう覚えられた
+        target: 瞳が“瞠
+        display: そう覚えられた　　『瞳が“瞠』いた”
+        choices:
+          - つち
+          - ひら
+          - たどりついた
+          - はじまり
+        correct: 1
+        answer:
+          text: ひら
+          reading: ひら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-07
+    trackNumber: 7
+    songTitle: だから献（ささ）ぐのだ　疑念の渦に巻かれ争う御魂ごと
+    questions:
+      - id: dyj-45-07-q1
+        prompt: ''
+        target: 誰もかもただ身を措
+        display: 『誰もかもただ身を措』いても
+        choices:
+          - お
+          - まぼろしのくに
+          - のろい
+          - わたし
+        correct: 0
+        answer:
+          text: お
+          reading: お
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-45-07-q2
+        prompt: そう思された
+        target: 心が“共振
+        display: そう思された　　『心が“共振』いた”
+        choices:
+          - しょくじ
+          - してはいけない
+          - わからず
+          - ひび
+        correct: 3
+        answer:
+          text: ひび
+          reading: ひび
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-08
+    trackNumber: 8
+    songTitle: ゴミ溜めのヴィーナス
+    questions:
+      - id: dyj-45-08-q1
+        prompt: あつめあつまれ
+        target: 情報濃縮
+        display: あつめあつまれ　『情報濃縮』
+        choices:
+          - カプリチオ
+          - アキュムレーション
+          - オニキス
+          - クライシス
+        correct: 1
+        answer:
+          text: アキュムレーション
+          reading: アキュムレーション
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-09
+    trackNumber: 9
+    songTitle: どうしてよ旧秩序（オールドオーダー）
+    questions:
+      - id: dyj-45-09-q1
+        prompt: ''
+        target: あらたな新人類
+        display: 『あらたな新人類』の姿
+        choices:
+          - いよいよ
+          - まぼろしのくに
+          - め
+          - ようかい
+        correct: 3
+        answer:
+          text: ようかい
+          reading: ようかい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-45-09-q2
+        prompt: ああヴィーナス　ヴィーナス
+        target: 瞳瞠
+        display: ああヴィーナス　ヴィーナス　『瞳瞠』いたら
+        choices:
+          - ひと
+          - ゆがんで
+          - わか
+          - ひら
+        correct: 3
+        answer:
+          text: ひら
+          reading: ひら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-10
+    trackNumber: 10
+    songTitle: 心　数多　真珠（またま）抱え
+    questions:
+      - id: dyj-45-10-q1
+        prompt: ''
+        target: せまれる危機感
+        display: 『せまれる危機感』　のぞける解放感
+        choices:
+          - クライシス
+          - アリア
+          - ショウジョ
+          - マジカル
+        correct: 0
+        answer:
+          text: クライシス
+          reading: クライシス
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-45-10-q2
+        prompt: せまれる危機感（クライシス）
+        target: のぞける解放感
+        display: せまれる危機感　『のぞける解放感』
+        choices:
+          - カタルシス
+          - スペリオリティ
+          - クロースエンカウンター
+          - カプリチオ
+        correct: 0
+        answer:
+          text: カタルシス
+          reading: カタルシス
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-11
+    trackNumber: 11
+    songTitle: チョコより甘い　楽園（ゾルタクスゼイアン）
+    questions:
+      - id: dyj-45-11-q1
+        prompt: ああヴィーナス　ヴィーナス
+        target: 小さな貝殻
+        display: ああヴィーナス　ヴィーナス　『小さな貝殻』で
+        choices:
+          - おしえて
+          - せかい
+          - そばだ
+          - すべて
+        correct: 1
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-12
+    trackNumber: 12
+    songTitle: 思想（おもい）　強く　柱にして
+    questions:
+      - id: dyj-45-12-q1
+        prompt: ''
+        target: こんなにも確かな虚構の都市
+        display: 『こんなにも確かな虚構の都市』
+        choices:
+          - ゲーム
+          - アリス
+          - カプリチオ
+          - メトロポリス
+        correct: 3
+        answer:
+          text: メトロポリス
+          reading: メトロポリス
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-13
+    trackNumber: 13
+    songTitle: ああヴィーナス　ヴィーナス　その情報（ことば）は
+    questions:
+      - id: dyj-45-13-q1
+        prompt: ''
+        target: 風評
+        display: 『風評』に運ばれ流れ着いたなら
+        choices:
+          - あか
+          - みな
+          - せい
+          - かぜ
+        correct: 3
+        answer:
+          text: かぜ
+          reading: かぜ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-45-14
+    trackNumber: 14
+    songTitle: 自分（おのれ）　護る　武器のように
+    questions:
+      - id: dyj-45-14-q1
+        prompt: けれど　もはや
+        target: 目瞠
+        display: けれど　もはや　『目瞠』めたなら
+        choices:
+          - めざ
+          - はなしとね
+          - おも
+          - つち
+        correct: 0
+        answer:
+          text: めざ
+          reading: めざ
+        tags:
+          - ateji
+          - 4択

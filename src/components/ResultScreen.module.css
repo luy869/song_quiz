@@ -15,10 +15,11 @@
 .title {
     font-size: 1.8rem;
     font-weight: 700;
-    background: linear-gradient(135deg, #e0d7ff, #a78bfa);
+    background: linear-gradient(135deg, #f0d090, #b8904a);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    font-family: 'Noto Serif JP', serif;
 }
 
 .scoreCard {
@@ -27,7 +28,7 @@
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
     padding: 32px;
-    backdrop-filter: blur(12px);
+    backdrop-filter: blur(8px);
 }
 
 .scoreNum {
@@ -36,6 +37,7 @@
     letter-spacing: -0.02em;
     line-height: 1;
     color: var(--accent);
+    font-family: 'Noto Serif JP', serif;
 }
 
 .scoreDenom {
@@ -53,7 +55,7 @@
     width: 80%;
     margin: 20px auto 0;
     height: 10px;
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(180, 150, 90, 0.12);
     border-radius: 999px;
     overflow: hidden;
 }
@@ -61,7 +63,7 @@
 .bar {
     height: 100%;
     border-radius: 999px;
-    background: linear-gradient(90deg, #7c3aed, #a78bfa);
+    background: linear-gradient(90deg, #7a5018, #b8904a);
     transition: width 1s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -83,15 +85,15 @@
     padding: 16px;
     font-size: 1.05rem;
     font-weight: 700;
-    color: #fff;
-    background: linear-gradient(135deg, #7c3aed 0%, #6366f1 100%);
+    color: var(--text-on-accent);
+    background: linear-gradient(135deg, #8a6020 0%, #b8904a 100%);
     border-radius: var(--radius-md);
     transition: transform var(--transition), box-shadow var(--transition);
 }
 
 .retryBtn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(124, 58, 237, 0.4);
+    box-shadow: 0 8px 24px rgba(184, 144, 74, 0.30);
 }
 
 .homeBtn {

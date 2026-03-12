@@ -1,0 +1,279 @@
+id: dyj-26
+title: 逆
+series: 凋叶棕 ナンバリング作品
+number: 26
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-26-01
+    trackNumber: 1
+    songTitle: Uprising Ideology
+    questions:
+      - id: dyj-26-01-q1
+        prompt: ''
+        target: それがお前の正義
+        display: 『それがお前の正義』だろう？！
+        choices:
+          - Ideology
+          - み
+          - ひろ
+          - だいち
+        correct: 0
+        answer:
+          text: Ideology
+          reading: Ideology
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-02
+    trackNumber: 2
+    songTitle: それがお前の大義（Ideology）だろう！？
+    questions:
+      - id: dyj-26-02-q1
+        prompt: ''
+        target: それがお前の正義
+        display: 『それがお前の正義』だ！
+        choices:
+          - しりたいこと
+          - これ
+          - くび
+          - Ideology
+        correct: 3
+        answer:
+          text: Ideology
+          reading: Ideology
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-03
+    trackNumber: 3
+    songTitle: ノーモア、エニモア?モアーモア?!
+    questions:
+      - id: dyj-26-03-q1
+        prompt: ''
+        target: 弾幕決闘
+        display: 『弾幕決闘』という名の弱いもの虐め
+        choices:
+          - しょうぶ
+          - きみ
+          - そいわずとわずかたらず
+          - うで
+        correct: 0
+        answer:
+          text: しょうぶ
+          reading: しょうぶ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-04
+    trackNumber: 4
+    songTitle: 至天
+    questions:
+      - id: dyj-26-04-q1
+        prompt: ''
+        target: 神をも閲
+        display: 『神をも閲』せ
+        choices:
+          - こんぺいとう
+          - はだえ
+          - ともがら
+          - けみ
+        correct: 3
+        answer:
+          text: けみ
+          reading: けみ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-05
+    trackNumber: 5
+    songTitle: その魂（たま）の総て失くしても
+    questions:
+      - id: dyj-26-05-q1
+        prompt: ''
+        target: 志
+        display: 『志』高くおわしますれば
+        choices:
+          - こころ
+          - とも
+          - ひら
+          - ささげ
+        correct: 0
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-06
+    trackNumber: 6
+    songTitle: 異聞『正義の味方』
+    questions:
+      - id: dyj-26-06-q1
+        prompt: 嗚呼、何故！
+        target: と悲鳴
+        display: 嗚呼、何故！『と悲鳴』のありながら。
+        choices:
+          - あまびと
+          - こえ
+          - あが
+          - まとも
+        correct: 1
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-26-06-q2
+        prompt: ''
+        target: 誰が壇上
+        display: 『誰が壇上』で踊るのを　数奇な運命と呼ぶだろう？
+        choices:
+          - うで
+          - い
+          - は
+          - くも
+        correct: 0
+        answer:
+          text: うで
+          reading: うで
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-26-06-q3
+        prompt: 誰が壇上（うで）で踊るのを
+        target: 数奇な運命
+        display: 誰が壇上で踊るのを　『数奇な運命』と呼ぶだろう？
+        choices:
+          - うご
+          - なれのはて
+          - こたえ
+          - わらい
+        correct: 2
+        answer:
+          text: こたえ
+          reading: こたえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-07
+    trackNumber: 7
+    songTitle: 嗚呼、何故！と怒声（こえ）のありながら。
+    questions:
+      - id: dyj-26-07-q1
+        prompt: 「
+        target: 嫌われ者
+        display: 「『嫌われ者』」
+        choices:
+          - ひとひら
+          - してはいけないこと
+          - あばきつくすもの
+          - 正義の味方
+        correct: 3
+        answer:
+          text: 正義の味方
+          reading: 正義の味方
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-08
+    trackNumber: 8
+    songTitle: アノインシスター
+    questions:
+      - id: dyj-26-08-q1
+        prompt: ''
+        target: ほらほらわたし■
+        display: 『ほらほらわたし■』ってるんだよ？
+        choices:
+          - わら
+          - わか
+          - のろい
+          - かわ
+        correct: 0
+        answer:
+          text: わら
+          reading: わら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-09
+    trackNumber: 9
+    songTitle: この　（こころ）だけは見通せないのよね
+    questions:
+      - id: dyj-26-09-q1
+        prompt: ''
+        target: ほらほらわたしの■
+        display: 『ほらほらわたしの■』聞こえてる？
+        choices:
+          - こえ
+          - けみ
+          - あらわ
+          - だいち
+        correct: 0
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-10
+    trackNumber: 10
+    songTitle: 語九十九節
+    questions:
+      - id: dyj-26-10-q1
+        prompt: ''
+        target: 祇園生者の鐘の音
+        display: 『祇園生者の鐘の音』
+        choices:
+          - わからず
+          - こえ
+          - ごみくず
+          - せかい
+        correct: 1
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-11
+    trackNumber: 11
+    songTitle: 沙羅双樹の花の音（こえ）
+    questions:
+      - id: dyj-26-11-q1
+        prompt: ''
+        target: かくて天地
+        display: 『かくて天地』動かす唄
+        choices:
+          - い
+          - あめつち
+          - すきま
+          - うたかた
+        correct: 1
+        answer:
+          text: あめつち
+          reading: あめつち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-26-12
+    trackNumber: 12
+    songTitle: Downfalling Ideology
+    questions:
+      - id: dyj-26-12-q1
+        prompt: ''
+        target: さあ奮い起こせお前の大義
+        display: 『さあ奮い起こせお前の大義』！
+        choices:
+          - りそう
+          - まどか
+          - だいち
+          - Ideology
+        correct: 3
+        answer:
+          text: Ideology
+          reading: Ideology
+        tags:
+          - ateji
+          - 4択

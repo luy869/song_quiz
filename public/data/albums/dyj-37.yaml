@@ -1,0 +1,279 @@
+id: dyj-37
+title: Ｑ
+series: 凋叶棕 ナンバリング作品
+number: 37
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-37-01
+    trackNumber: 1
+    songTitle: 咲き損ないの花
+    questions:
+      - id: dyj-37-01-q1
+        prompt: ''
+        target: とても過酷な遊戯
+        display: 『とても過酷な遊戯』だって
+        choices:
+          - ケージ
+          - ゲーム
+          - クラウンピース
+          - ズル
+        correct: 1
+        answer:
+          text: ゲーム
+          reading: ゲーム
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-02
+    trackNumber: 2
+    songTitle: 盤上（うえ）に登りもしない
+    questions:
+      - id: dyj-37-02-q1
+        prompt: ''
+        target: 歌の一つも唱
+        display: 『歌の一つも唱』わずに
+        choices:
+          - わざ
+          - まざ
+          - こい
+          - うた
+        correct: 3
+        answer:
+          text: うた
+          reading: うた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-03
+    trackNumber: 3
+    songTitle: 星空に消ゆ
+    questions:
+      - id: dyj-37-03-q1
+        prompt: ''
+        target: 幻想
+        display: 『幻想』
+        choices:
+          - ラストオカルティズム
+          - クラウンピース
+          - レヴァリエ
+          - ラストオカルトファンタジー
+        correct: 2
+        answer:
+          text: レヴァリエ
+          reading: レヴァリエ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-04
+    trackNumber: 4
+    songTitle: 霧の中の怪異
+    questions:
+      - id: dyj-37-04-q1
+        prompt: ''
+        target: 幻聴
+        display: 『幻聴』いたなら
+        choices:
+          - き
+          - すきま
+          - かご
+          - きせき
+        correct: 0
+        answer:
+          text: き
+          reading: き
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-05
+    trackNumber: 5
+    songTitle: 幻視（み）えたなら
+    questions:
+      - id: dyj-37-05-q1
+        prompt: ''
+        target: 白闇
+        display: 『白闇』に気配だけを残して
+        choices:
+          - いのちなきもの
+          - やみ
+          - はじめ
+          - あおぐろ
+        correct: 1
+        answer:
+          text: やみ
+          reading: やみ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-06
+    trackNumber: 6
+    songTitle: 鏡面に罅（ひび）だけを残して
+    questions:
+      - id: dyj-37-06-q1
+        prompt: ''
+        target: 逝先
+        display: 『逝先』は　闇の中へ
+        choices:
+          - げんそう
+          - ひとのこころ
+          - のぞむこと
+          - ゆくさき
+        correct: 3
+        answer:
+          text: ゆくさき
+          reading: ゆくさき
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-07
+    trackNumber: 7
+    songTitle: weary monster
+    questions:
+      - id: dyj-37-07-q1
+        prompt: ''
+        target: その手はこれで幾度幾度
+        display: 『その手はこれで幾度幾度』も血に濡れたか
+        choices:
+          - いくどいくたび
+          - たどりついた
+          - とき
+          - ひとみ
+        correct: 0
+        answer:
+          text: いくどいくたび
+          reading: いくどいくたび
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-08
+    trackNumber: 8
+    songTitle: まぼろしの友達
+    questions:
+      - id: dyj-37-08-q1
+        prompt: ''
+        target: 陽
+        display: 『陽』が消えて赤く
+        choices:
+          - すきま
+          - そら
+          - まほう
+          - つもり
+        correct: 1
+        answer:
+          text: そら
+          reading: そら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-09
+    trackNumber: 9
+    songTitle: 翳（かげ）が消えて暗く
+    questions:
+      - id: dyj-37-09-q1
+        prompt: ''
+        target: 胸中
+        display: 『胸中』の思い固く
+        choices:
+          - わらべあそび
+          - むね
+          - くうき
+          - はや
+        correct: 1
+        answer:
+          text: むね
+          reading: むね
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-10
+    trackNumber: 10
+    songTitle: わたしの躯（からだ）は
+    questions:
+      - id: dyj-37-10-q1
+        prompt: ''
+        target: 目惚
+        display: 『目惚』ろしに
+        choices:
+          - しり
+          - かい
+          - つもり
+          - まぼ
+        correct: 3
+        answer:
+          text: まぼ
+          reading: まぼ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-37-10-q2
+        prompt: ''
+        target: 思い詰めて気が逸
+        display: 『思い詰めて気が逸』って
+        choices:
+          - ゆくさき
+          - なが
+          - うたごえ
+          - はや
+        correct: 3
+        answer:
+          text: はや
+          reading: はや
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-11
+    trackNumber: 11
+    songTitle: 私の愛したＱ
+    questions:
+      - id: dyj-37-11-q1
+        prompt: ''
+        target: Ｑう
+        display: 『Ｑう』
+        choices:
+          - とう
+          - いくどいくたび
+          - たどりついた
+          - うごき
+        correct: 0
+        answer:
+          text: とう
+          reading: とう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-37-12
+    trackNumber: 12
+    songTitle: SeleＱtion
+    questions:
+      - id: dyj-37-12-q1
+        prompt: ''
+        target: Ｑぶ
+        display: 『Ｑぶ』
+        choices:
+          - すきま
+          - まがうた
+          - えらぶ
+          - あが
+        correct: 2
+        answer:
+          text: えらぶ
+          reading: えらぶ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-37-12-q2
+        prompt: ''
+        target: 貴女が刻む≪記録≫
+        display: 『貴女が刻む≪記録≫』
+        choices:
+          - オールドアダム
+          - スペリオリティ
+          - メトロポリス
+          - サーガ
+        correct: 3
+        answer:
+          text: サーガ
+          reading: サーガ
+        tags:
+          - ateji
+          - 4択

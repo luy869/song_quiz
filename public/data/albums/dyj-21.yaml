@@ -1,0 +1,407 @@
+id: dyj-21
+title: 夢
+series: 凋叶棕 ナンバリング作品
+number: 21
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-21-01
+    trackNumber: 1
+    songTitle: 紅き伝説
+    questions:
+      - id: dyj-21-01-q1
+        prompt: 愛を力に変えて
+        target: その掌
+        display: 愛を力に変えて　『その掌』で
+        choices:
+          - さい
+          - て
+          - さんげつうららちてらす
+          - つもり
+        correct: 1
+        answer:
+          text: て
+          reading: て
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-02
+    trackNumber: 2
+    songTitle: '301'
+    questions:
+      - id: dyj-21-02-q1
+        prompt: ''
+        target: また一閃
+        display: 『また一閃』く　意志はただ強靭く
+        choices:
+          - かばね
+          - いのちなきもの
+          - ひらめ
+          - うご
+        correct: 2
+        answer:
+          text: ひらめ
+          reading: ひらめ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-21-02-q2
+        prompt: また一閃（ひらめ）く
+        target: 意志はただ強靭
+        display: また一閃く　『意志はただ強靭』く
+        choices:
+          - つよ
+          - しじま
+          - しろがね
+          - りかい
+        correct: 0
+        answer:
+          text: つよ
+          reading: つよ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-03
+    trackNumber: 3
+    songTitle: 輝夜
+    questions:
+      - id: dyj-21-03-q1
+        prompt: ''
+        target: 私
+        display: 『私』は何を感じていた？
+        choices:
+          - あなた
+          - おしえ
+          - からだ
+          - やりかた
+        correct: 0
+        answer:
+          text: あなた
+          reading: あなた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-04
+    trackNumber: 4
+    songTitle: 私（あなた）は何を思っていた？
+    questions:
+      - id: dyj-21-04-q1
+        prompt: 何もない、
+        target: 穢土
+        display: 何もない、『穢土』へと落とされて
+        choices:
+          - けがれたばしょ
+          - げんそう
+          - からっぽ
+          - おもちゃ
+        correct: 0
+        answer:
+          text: けがれたばしょ
+          reading: けがれたばしょ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-05
+    trackNumber: 5
+    songTitle: 無終祭
+    questions:
+      - id: dyj-21-05-q1
+        prompt: ''
+        target: 無終祭
+        display: 『無終祭』
+        choices:
+          - ひそか
+          - わらい
+          - おわらぬまつり
+          - かず
+        correct: 2
+        answer:
+          text: おわらぬまつり
+          reading: おわらぬまつり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-06
+    trackNumber: 6
+    songTitle: 空に近い場所
+    questions:
+      - id: dyj-21-06-q1
+        prompt: ''
+        target: 内なる願望
+        display: 『内なる願望』
+        choices:
+          - こうい
+          - こんぺいとう
+          - にくら
+          - のぞみ
+        correct: 3
+        answer:
+          text: のぞみ
+          reading: のぞみ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-07
+    trackNumber: 7
+    songTitle: 少女人形
+    questions:
+      - id: dyj-21-07-q1
+        prompt: ''
+        target: その目に飛び込む光景
+        display: 『その目に飛び込む光景』
+        choices:
+          - みんな
+          - ひかり
+          - ひとのこころ
+          - とびら
+        correct: 1
+        answer:
+          text: ひかり
+          reading: ひかり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-08
+    trackNumber: 8
+    songTitle: 『主』（わたし）の声が届かないのは　どうして
+    questions:
+      - id: dyj-21-08-q1
+        prompt: ''
+        target: 自由に動くその素体
+        display: 『自由に動くその素体』が
+        choices:
+          - きおく
+          - やつ
+          - からだ
+          - はてしなさ
+        correct: 2
+        answer:
+          text: からだ
+          reading: からだ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-09
+    trackNumber: 9
+    songTitle: あなたが生きてきたその世界（げんじつ）が
+    questions:
+      - id: dyj-21-09-q1
+        prompt: ''
+        target: あなたのただの幻想
+        display: 『あなたのただの幻想』ではないと
+        choices:
+          - あやかし
+          - かぜ
+          - ねがい
+          - ゆめ
+        correct: 3
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-10
+    trackNumber: 10
+    songTitle: この罪人形（つみびと）は
+    questions:
+      - id: dyj-21-10-q1
+        prompt: ''
+        target: アリスを偽証罪
+        display: 『アリスを偽証罪』り
+        choices:
+          - のぞみ
+          - なの
+          - ひとひら
+          - おびやかして
+        correct: 1
+        answer:
+          text: なの
+          reading: なの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-11
+    trackNumber: 11
+    songTitle: アリスを詐欺罪（かた）り
+    questions:
+      - id: dyj-21-11-q1
+        prompt: ''
+        target: アリスを剽窃罪
+        display: 『アリスを剽窃罪』し
+        choices:
+          - かず
+          - あす
+          - あそび
+          - まね
+        correct: 3
+        answer:
+          text: まね
+          reading: まね
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-12
+    trackNumber: 12
+    songTitle: enemy of the society
+    questions:
+      - id: dyj-21-12-q1
+        prompt: ''
+        target: 私の一挙手一投足
+        display: 『私の一挙手一投足』全て
+        choices:
+          - おとめ
+          - なすこと
+          - うま
+          - かばね
+        correct: 1
+        answer:
+          text: なすこと
+          reading: なすこと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-13
+    trackNumber: 13
+    songTitle: どこかから監視（み）ている
+    questions:
+      - id: dyj-21-13-q1
+        prompt: ''
+        target: 黒く濁った同胞
+        display: 『黒く濁った同胞』の目が注がれる
+        choices:
+          - うたかた
+          - ねがい
+          - なかま
+          - わらべあそび
+        correct: 2
+        answer:
+          text: なかま
+          reading: なかま
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-14
+    trackNumber: 14
+    songTitle: 悪夢の果てに見るユメ
+    questions:
+      - id: dyj-21-14-q1
+        prompt: ''
+        target: 一つの魂
+        display: 『一つの魂』を介して
+        choices:
+          - まざ
+          - こころ
+          - かなえ
+          - かばね
+        correct: 1
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-21-14-q2
+        prompt: ''
+        target: けして終わることのない幻想
+        display: 『けして終わることのない幻想』などいらない！
+        choices:
+          - すがた
+          - なかま
+          - かそけ
+          - ゆめ
+        correct: 3
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-15
+    trackNumber: 15
+    songTitle: 自問（と）い続ける。
+    questions:
+      - id: dyj-21-15-q1
+        prompt: ''
+        target: 現実
+        display: 『現実』と夢が狂わぬように。
+        choices:
+          - なげい
+          - ゆめ
+          - あらそい
+          - きらわれもの
+        correct: 1
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-21-15-q2
+        prompt: 現実（ゆめ）
+        target: と夢
+        display: 現実『と夢』が狂わぬように。
+        choices:
+          - きらわれもの
+          - くうき
+          - げんじつ
+          - よわいもの
+        correct: 2
+        answer:
+          text: げんじつ
+          reading: げんじつ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-21-15-q3
+        prompt: 今度こそ。
+        target: 本当の現実
+        display: 今度こそ。『本当の現実』を見るために　　。
+        choices:
+          - ゆめ
+          - こいごころ
+          - しり
+          - かぜ
+        correct: 0
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-21-16
+    trackNumber: 16
+    songTitle: 夢（うつつ）には、ユメなどない、だから。
+    questions:
+      - id: dyj-21-16-q1
+        prompt: ''
+        target: 現実
+        display: 『現実』という名のユメを、抱きしめ続ける！
+        choices:
+          - まぼろし
+          - みちばた
+          - いだ
+          - ゆめ
+        correct: 3
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-21-16-q2
+        prompt: どうか。嗚呼。
+        target: この夢
+        display: どうか。嗚呼。『この夢』が続くのならば。
+        choices:
+          - よわいもの
+          - げんじつ
+          - おとめ
+          - おもちゃ
+        correct: 1
+        answer:
+          text: げんじつ
+          reading: げんじつ
+        tags:
+          - ateji
+          - 4択

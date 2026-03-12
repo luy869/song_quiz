@@ -1,5 +1,34 @@
 /* App level styles - minimal since we use CSS modules per component */
 .app {
   width: 100%;
-  max-width: 560px;
+  max-width: 680px;
+}
+
+.app--center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding-top: 40px;
+  text-align: center;
+}
+
+.app__error {
+  color: var(--wrong);
+}
+
+.app__reload-btn {
+  padding: 10px 24px;
+  border-radius: var(--radius-md);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition);
+}
+
+.app__reload-btn:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--accent);
 }

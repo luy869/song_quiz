@@ -1,0 +1,427 @@
+id: dyj-35
+title: 記
+series: 凋叶棕 ナンバリング作品
+number: 35
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-35-01
+    trackNumber: 1
+    songTitle: 解き明かされるべき謎
+    questions:
+      - id: dyj-35-01-q1
+        prompt: ''
+        target: そこに隠された“規則
+        display: 『そこに隠された“規則』”を
+        choices:
+          - レガシー
+          - ゲーム
+          - ルール
+          - セオリー
+        correct: 2
+        answer:
+          text: ルール
+          reading: ルール
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-02
+    trackNumber: 2
+    songTitle: これは『ただの虚仮威し（こけおどし）』
+    questions:
+      - id: dyj-35-02-q1
+        prompt: ''
+        target: 理解
+        display: 『理解』ってみせるわ
+        choices:
+          - うたごえ
+          - けが
+          - きらわれもの
+          - し
+        correct: 3
+        answer:
+          text: し
+          reading: し
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-35-02-q2
+        prompt: ''
+        target: そこに込められた“思想
+        display: 『そこに込められた“思想』”を
+        choices:
+          - あれ
+          - こちらがわ
+          - あか
+          - おもい
+        correct: 3
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-03
+    trackNumber: 3
+    songTitle: 解き明かされるべきその弾幕（なぞ）よ
+    questions:
+      - id: dyj-35-03-q1
+        prompt: ''
+        target: そこに秘められた“幻想
+        display: 『そこに秘められた“幻想』”を
+        choices:
+          - あが
+          - おわらぬまつり
+          - いのり
+          - わたしたち
+        correct: 2
+        answer:
+          text: いのり
+          reading: いのり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-04
+    trackNumber: 4
+    songTitle: Slightly Responsive
+    questions:
+      - id: dyj-35-04-q1
+        prompt: ''
+        target: 原初
+        display: 『原初』の衝動
+        choices:
+          - はじまり
+          - わらべあそび
+          - いろ
+          - ありかた
+        correct: 0
+        answer:
+          text: はじまり
+          reading: はじまり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-05
+    trackNumber: 5
+    songTitle: イニシャルイニシャルエコーエゴー
+    questions:
+      - id: dyj-35-05-q1
+        prompt: ''
+        target: 他人
+        display: 『他人』に言われたことだけ　ただただ繰り返すだけの私みたいになってないかなー？！
+        choices:
+          - ことば
+          - ひと
+          - かんじょう
+          - うた
+        correct: 1
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-35-05-q2
+        prompt: 他人（ひと）に言われたことだけ
+        target: ただただ繰り返すだけの私
+        display: 他人に言われたことだけ　『ただただ繰り返すだけの私』みたいになってないかなー？！
+        choices:
+          - だれ
+          - ひそか
+          - やりかた
+          - やまびこ
+        correct: 3
+        answer:
+          text: やまびこ
+          reading: やまびこ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-06
+    trackNumber: 6
+    songTitle: Dive into nothingness
+    questions:
+      - id: dyj-35-06-q1
+        prompt: ''
+        target: 全部蒼穹
+        display: 『全部蒼穹』の何処かへ溢して
+        choices:
+          - まほう
+          - くうき
+          - そら
+          - やりなおし
+        correct: 2
+        answer:
+          text: そら
+          reading: そら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-07
+    trackNumber: 7
+    songTitle: 汚染（よご）れていく心を
+    questions:
+      - id: dyj-35-07-q1
+        prompt: ''
+        target: 復帰
+        display: 『復帰』れなくなるその間際へ
+        choices:
+          - かえ
+          - ふるさと
+          - やまびこ
+          - いのち
+        correct: 0
+        answer:
+          text: かえ
+          reading: かえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-35-07-q2
+        prompt: “おちていく　なにもないところに　じぶんから
+        target: めをそむけながら
+        display: “おちていく　なにもないところに　じぶんから　『めをそむけながら』”
+        choices:
+          - Dive into nothingness close eyes wide shut’n fallin’ down
+          - ゆるし
+          - ノンシグナル
+          - あめつち
+        correct: 0
+        answer:
+          text: Dive into nothingness close eyes wide shut’n fallin’ down
+          reading: Dive into nothingness close eyes wide shut’n fallin’ down
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-08
+    trackNumber: 8
+    songTitle: “かんぺきなこどくに　けれど　きっといっせんはこえられない（In utter loneliness with entice of demise won’t be let）”
+    questions:
+      - id: dyj-35-08-q1
+        prompt: “そうだ　ふたたび
+        target: のぼりつめるそのときのために
+        display: “そうだ　ふたたび　『のぼりつめるそのときのために』”
+        choices:
+          - まね
+          - Drive into nothingness thus would save my self fallin’ up
+          - くうき
+          - ラストオカルトファンタジー
+        correct: 1
+        answer:
+          text: Drive into nothingness thus would save my self fallin’ up
+          reading: Drive into nothingness thus would save my self fallin’ up
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-09
+    trackNumber: 9
+    songTitle: “こんなところで　おじけづいてなど　いられない！（beside my flawly story don’t give it up so you rise again.）”
+    questions:
+      - id: dyj-35-09-q1
+        prompt: ''
+        target: 堕落した現実
+        display: 『堕落した現実』を　振り払え
+        choices:
+          - つぶ
+          - いま
+          - むね
+          - まがうた
+        correct: 1
+        answer:
+          text: いま
+          reading: いま
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-10
+    trackNumber: 10
+    songTitle: 重力（ひかれるちから）を感じたら
+    questions:
+      - id: dyj-35-10-q1
+        prompt: ''
+        target: 推進力
+        display: 『推進力』に変えて　上空へ
+        choices:
+          - ちから
+          - あが
+          - たお
+          - つもり
+        correct: 0
+        answer:
+          text: ちから
+          reading: ちから
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-35-10-q2
+        prompt: 推進力（ちから）に変えて
+        target: 上空
+        display: 推進力に変えて　『上空』へ
+        choices:
+          - あんこく
+          - まえ
+          - とんずら
+          - わたしのせかい
+        correct: 1
+        answer:
+          text: まえ
+          reading: まえ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-35-10-q3
+        prompt: ''
+        target: それがいつか到り達く
+        display: 『それがいつか到り達く』まで？
+        choices:
+          - おやがみ
+          - たどりつく
+          - こい
+          - ながれぼし
+        correct: 1
+        answer:
+          text: たどりつく
+          reading: たどりつく
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-11
+    trackNumber: 11
+    songTitle: Jeux interdits
+    questions:
+      - id: dyj-35-11-q1
+        prompt: ''
+        target: それいけ高速
+        display: 『それいけ高速』で
+        choices:
+          - ショウジョ
+          - ダッシュ
+          - レヴァリエ
+          - クラウンピース
+        correct: 1
+        answer:
+          text: ダッシュ
+          reading: ダッシュ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-12
+    trackNumber: 12
+    songTitle: 撃墜数（スコア）だってあがり放題
+    questions:
+      - id: dyj-35-12-q1
+        prompt: ''
+        target: ときには太陽
+        display: 『ときには太陽』の光の下で　ほら　また
+        choices:
+          - かけだし
+          - ふりょう
+          - さだめ
+          - ひ
+        correct: 3
+        answer:
+          text: ひ
+          reading: ひ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-13
+    trackNumber: 13
+    songTitle: ≪禁断の遊び（les jeux interdits）≫
+    questions:
+      - id: dyj-35-13-q1
+        prompt: さあ　そこゆく
+        target: 紅白の人間
+        display: さあ　そこゆく　『紅白の人間』
+        choices:
+          - おねえさん
+          - ここ
+          - しり
+          - からっぽ
+        correct: 0
+        answer:
+          text: おねえさん
+          reading: おねえさん
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-14
+    trackNumber: 14
+    songTitle: さあ　そこゆく　白黒の人間（あなた）
+    questions:
+      - id: dyj-35-14-q1
+        prompt: 一回休んで
+        target: くるくる目眩
+        display: 一回休んで　『くるくる目眩』
+        choices:
+          - シャングリラ
+          - イリンクス
+          - メトロポリス
+          - ルール
+        correct: 1
+        answer:
+          text: イリンクス
+          reading: イリンクス
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-15
+    trackNumber: 15
+    songTitle: プレイヤーズ・スコア
+    questions:
+      - id: dyj-35-15-q1
+        prompt: ''
+        target: “あなたの道
+        display: 『“あなたの道』”
+        choices:
+          - プレイヤーズ・スコア
+          - サネカズラ
+          - ファイヤーパワー
+          - ペン
+        correct: 0
+        answer:
+          text: プレイヤーズ・スコア
+          reading: プレイヤーズ・スコア
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-16
+    trackNumber: 16
+    songTitle: それは矜恃（プライド）という在り方
+    questions:
+      - id: dyj-35-16-q1
+        prompt: ''
+        target: “あなたの戦績
+        display: 『“あなたの戦績』”
+        choices:
+          - プレイヤーズ・スコア
+          - アソビ
+          - サーガ
+          - クライシス
+        correct: 0
+        answer:
+          text: プレイヤーズ・スコア
+          reading: プレイヤーズ・スコア
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-35-17
+    trackNumber: 17
+    songTitle: “あなたの祈り（プレイヤーズ・スコア）”
+    questions:
+      - id: dyj-35-17-q1
+        prompt: ''
+        target: “あなたの未来
+        display: 『“あなたの未来』”
+        choices:
+          - プレイヤーズ・スコア
+          - コヒーレント
+          - ノンシグナル
+          - フィジカル
+        correct: 0
+        answer:
+          text: プレイヤーズ・スコア
+          reading: プレイヤーズ・スコア
+        tags:
+          - ateji
+          - 4択

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import s from './ResultScreen.module.css';
 
-function getRank(pct) {
+function getResultMessage(pct) {
     if (pct === 100) return { emoji: '🏆', msg: '全問正解！完璧です！' };
     if (pct >= 80) return { emoji: '🌟', msg: '素晴らしい！ほぼ完璧です！' };
     if (pct >= 60) return { emoji: '👏', msg: 'よくできました！' };
@@ -11,7 +11,7 @@ function getRank(pct) {
 
 export default function ResultScreen({ score, total, onRetry, onHome }) {
     const pct = total > 0 ? Math.round((score / total) * 100) : 0;
-    const { emoji, msg } = getRank(pct);
+    const { emoji, msg } = getResultMessage(pct);
     const [barWidth, setBarWidth] = useState(0);
 
     // Animated bar on mount
@@ -41,7 +41,7 @@ export default function ResultScreen({ score, total, onRetry, onHome }) {
 
             <div className={s.actions}>
                 <button className={s.retryBtn} onClick={onRetry}>
-                    🔄　もう一度挑戦する
+                    🔄 もう一度挑戦する
                 </button>
                 <button className={s.homeBtn} onClick={onHome}>
                     ← タイトルに戻る

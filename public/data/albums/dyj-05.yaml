@@ -1,0 +1,63 @@
+id: dyj-05
+title: 憩
+series: 凋叶棕 ナンバリング作品
+number: 5
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-05-01
+    trackNumber: 1
+    songTitle: スターシーカー
+    questions:
+      - id: dyj-05-01-q1
+        prompt: ''
+        target: 甘い星型弾
+        display: 『甘い星型弾』のように魅力的で
+        choices:
+          - こんぺいとう
+          - すきま
+          - すく
+          - そら
+        correct: 0
+        answer:
+          text: こんぺいとう
+          reading: こんぺいとう
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-05-01-q2
+        prompt: はては“Where no man has gone
+        target: before.
+        display: はては“Where no man has gone 『before.』”
+        choices:
+          - さいごのfrontier
+          - な
+          - ひ
+          - さけ
+        correct: 0
+        answer:
+          text: さいごのfrontier
+          reading: さいごのfrontier
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-05-02
+    trackNumber: 2
+    songTitle: Peaceful Distance
+    questions:
+      - id: dyj-05-02-q1
+        prompt: 遠く続く、
+        target: 空間の残響
+        display: 遠く続く、『空間の残響』。
+        choices:
+          - ひびき
+          - まえ
+          - りそう
+          - かけだし
+        correct: 0
+        answer:
+          text: ひびき
+          reading: ひびき
+        tags:
+          - ateji
+          - 4択

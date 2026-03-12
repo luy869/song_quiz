@@ -1,0 +1,367 @@
+id: dyj-15
+title: 屠
+series: 凋叶棕 ナンバリング作品
+number: 15
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-15-01
+    trackNumber: 1
+    songTitle: 墓標
+    questions:
+      - id: dyj-15-01-q1
+        prompt: ''
+        target: 何もかもが嘘つきのこんな幻想郷
+        display: 『何もかもが嘘つきのこんな幻想郷』があることも
+        choices:
+          - せかい
+          - ふたり
+          - おわ
+          - すきま
+        correct: 0
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-02
+    trackNumber: 2
+    songTitle: もっとも安全な方法（いきかた）とは。
+    questions:
+      - id: dyj-15-02-q1
+        prompt: ''
+        target: なんて悪趣味な人形戯曲
+        display: 『なんて悪趣味な人形戯曲』。
+        choices:
+          - あんこく
+          - あそび
+          - おたけび
+          - あらゆるかたち
+        correct: 1
+        answer:
+          text: あそび
+          reading: あそび
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-03
+    trackNumber: 3
+    songTitle: 誰も人間（まとも）ではいられなかったか
+    questions:
+      - id: dyj-15-03-q1
+        prompt: などと馬鹿めが！ 世迷いごとに沈め！
+        target: 正直者が馬鹿を見るそんな世界の理
+        display: などと馬鹿めが！ 世迷いごとに沈め！ 『正直者が馬鹿を見るそんな世界の理』なら
+        choices:
+          - rule
+          - しきにでき
+          - わたつみ
+          - トラウマメライ
+        correct: 0
+        answer:
+          text: rule
+          reading: rule
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-04
+    trackNumber: 4
+    songTitle: 幽明境を分かつこと
+    questions:
+      - id: dyj-15-04-q1
+        prompt: ''
+        target: 詞
+        display: 『詞』を 胸に抱いて
+        choices:
+          - あい
+          - かばね
+          - ことば
+          - きせき
+        correct: 2
+        answer:
+          text: ことば
+          reading: ことば
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-05
+    trackNumber: 5
+    songTitle: 桜（はな）の下で 死ねること
+    questions:
+      - id: dyj-15-05-q1
+        prompt: ''
+        target: その死顔
+        display: 『その死顔』 ただうつくしく
+        choices:
+          - かお
+          - かそけ
+          - けみ
+          - おまえ
+        correct: 0
+        answer:
+          text: かお
+          reading: かお
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-06
+    trackNumber: 6
+    songTitle: その花（さくら）の うつくしければ
+    questions:
+      - id: dyj-15-06-q1
+        prompt: せめて最期は
+        target: 桜
+        display: せめて最期は 『桜』の下
+        choices:
+          - はな
+          - いのち
+          - つち
+          - そうぎょく
+        correct: 0
+        answer:
+          text: はな
+          reading: はな
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-07
+    trackNumber: 7
+    songTitle: ブラック・ロータス
+    questions:
+      - id: dyj-15-07-q1
+        prompt: あるいはそれが
+        target: かなしむ胸中
+        display: あるいはそれが 『かなしむ胸中』
+        choices:
+          - だれ
+          - むね
+          - あまびと
+          - ゆがんで
+        correct: 1
+        answer:
+          text: むね
+          reading: むね
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-08
+    trackNumber: 8
+    songTitle: 嘆きの哭（こえ） 呼びさますことも
+    questions:
+      - id: dyj-15-08-q1
+        prompt: できずに
+        target: 届かぬ距離を錯覚
+        display: できずに 『届かぬ距離を錯覚』う
+        choices:
+          - あやし
+          - おも
+          - けみ
+          - みな
+        correct: 1
+        answer:
+          text: おも
+          reading: おも
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-09
+    trackNumber: 9
+    songTitle: それが恐ろしいのかと。自問（と）えば。
+    questions:
+      - id: dyj-15-09-q1
+        prompt: 寄辺とした
+        target: 教示
+        display: 寄辺とした 『教示』さえ今
+        choices:
+          - ひとのこころ
+          - たかぶり
+          - とも
+          - おしえ
+        correct: 3
+        answer:
+          text: おしえ
+          reading: おしえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-10
+    trackNumber: 10
+    songTitle: from the corpse to the journey
+    questions:
+      - id: dyj-15-10-q1
+        prompt: さては迷子で、
+        target: 野垂れ死んじゃったね
+        display: さては迷子で、『野垂れ死んじゃったね』
+        choices:
+          - て
+          - め
+          - 途方に暮れちゃったね
+          - ねがい
+        correct: 2
+        answer:
+          text: 途方に暮れちゃったね
+          reading: 途方に暮れちゃったね
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-11
+    trackNumber: 11
+    songTitle: 旅は道連れあの世（このよ）も情けなら
+    questions:
+      - id: dyj-15-11-q1
+        prompt: ''
+        target: それは死体旅行
+        display: 『それは死体旅行』の果てに！
+        choices:
+          - やりなおし
+          - まほう
+          - 楽しい旅路
+          - たどりついた
+        correct: 2
+        answer:
+          text: 楽しい旅路
+          reading: 楽しい旅路
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-12
+    trackNumber: 12
+    songTitle: 前向きに生きて（死んで）いこう！
+    questions:
+      - id: dyj-15-12-q1
+        prompt: ''
+        target: それは楽しい旅路
+        display: 『それは楽しい旅路』の果てにね！
+        choices:
+          - 死体旅行
+          - つぶ
+          - みつからない
+          - たどりついた
+        correct: 0
+        answer:
+          text: 死体旅行
+          reading: 死体旅行
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-13
+    trackNumber: 13
+    songTitle: 心強きもの
+    questions:
+      - id: dyj-15-13-q1
+        prompt: ''
+        target: けして見つめることさえも適わない化妖
+        display: 『けして見つめることさえも適わない化妖』
+        choices:
+          - あやかし
+          - むじな
+          - うすっぺらなそのおもい
+          - こえ
+        correct: 0
+        answer:
+          text: あやかし
+          reading: あやかし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-14
+    trackNumber: 14
+    songTitle: 空ろに影を揺らして佇む入道（あやかし）のあれば
+    questions:
+      - id: dyj-15-14-q1
+        prompt: ''
+        target: そしてそれに付き従うが時代親父の本懐
+        display: 『そしてそれに付き従うが時代親父の本懐』
+        choices:
+          - ねがい
+          - わらい
+          - い
+          - つもり
+        correct: 0
+        answer:
+          text: ねがい
+          reading: ねがい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-15
+    trackNumber: 15
+    songTitle: げんきになったときのうた
+    questions:
+      - id: dyj-15-15-q1
+        prompt: そうして　わたしは
+        target: ひめいをあげる
+        display: そうして　わたしは　『ひめいをあげる』
+        choices:
+          - セオリー
+          - あああああ(ry
+          - いのちなきもの
+          - つぶ
+        correct: 1
+        answer:
+          text: あああああ(ry
+          reading: あああああ(ry
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-16
+    trackNumber: 16
+    songTitle: 葬迎
+    questions:
+      - id: dyj-15-16-q1
+        prompt: そして永きに渡る日々の果て
+        target: 消しきれない記憶の深層
+        display: そして永きに渡る日々の果て 『消しきれない記憶の深層』の底から
+        choices:
+          - ひとつ
+          - id
+          - だれ
+          - まほう
+        correct: 1
+        answer:
+          text: id
+          reading: id
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-17
+    trackNumber: 17
+    songTitle: 暗闇の向こうから 屠ったはずの幻想（かたまり）が
+    questions:
+      - id: dyj-15-17-q1
+        prompt: 正直者の名残が
+        target: 強い妄執
+        display: 正直者の名残が 『強い妄執』に裏打たれて 仲良しの幻想にずっと縋っては
+        choices:
+          - きずな
+          - ながれぼし
+          - みちのり
+          - だれか
+        correct: 0
+        answer:
+          text: きずな
+          reading: きずな
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-15-18
+    trackNumber: 18
+    songTitle: 今度こそ、終わらない、人形戯曲（あそび）を、始めよう！
+    questions:
+      - id: dyj-15-18-q1
+        prompt: ''
+        target: こうして最後には大団円
+        display: 『こうして最後には大団円』へ
+        choices:
+          - だいち
+          - わたしたち
+          - メッサージュ
+          - happy end
+        correct: 3
+        answer:
+          text: happy end
+          reading: happy end
+        tags:
+          - ateji
+          - 4択

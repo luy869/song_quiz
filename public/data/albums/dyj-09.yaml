@@ -1,0 +1,307 @@
+id: dyj-09
+title: 騙
+series: 凋叶棕 ナンバリング作品
+number: 9
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-09-01
+    trackNumber: 1
+    songTitle: 真実の詩
+    questions:
+      - id: dyj-09-01-q1
+        prompt: ''
+        target: その深い瞳
+        display: 『その深い瞳』はぼくをまっすぐ射抜いていた。
+        choices:
+          - いのち
+          - よわいもの
+          - ひとひら
+          - め
+        correct: 3
+        answer:
+          text: め
+          reading: め
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-02
+    trackNumber: 2
+    songTitle: もっともおそろしいものについて
+    questions:
+      - id: dyj-09-02-q1
+        prompt: ''
+        target: 歪む有象無象
+        display: 『歪む有象無象』に心せよ。
+        choices:
+          - みなも
+          - し
+          - ひと
+          - すべて
+        correct: 3
+        answer:
+          text: すべて
+          reading: すべて
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-03
+    trackNumber: 3
+    songTitle: “（小さな）嘘”が“（大きな）偽”を作り出してゆく。*2
+    questions:
+      - id: dyj-09-03-q1
+        prompt: ''
+        target: 認識
+        display: 『認識』のままに、
+        choices:
+          - しょうぶ
+          - りかい
+          - のぞむこと
+          - たのしさ
+        correct: 1
+        answer:
+          text: りかい
+          reading: りかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-04
+    trackNumber: 4
+    songTitle: 「真実の姿（わたし）」から
+    questions:
+      - id: dyj-09-04-q1
+        prompt: ''
+        target: 躯は狸
+        display: 『躯は狸』
+        choices:
+          - ひとみ
+          - まみ
+          - もの
+          - そら
+        correct: 1
+        answer:
+          text: まみ
+          reading: まみ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-05
+    trackNumber: 5
+    songTitle: 尾は蛇（くちなわ）
+    questions:
+      - id: dyj-09-05-q1
+        prompt: ''
+        target: 尾は狸
+        display: 『尾は狸』
+        choices:
+          - たどりつく
+          - たけなわ
+          - いの
+          - むじな
+        correct: 3
+        answer:
+          text: むじな
+          reading: むじな
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-06
+    trackNumber: 6
+    songTitle: 手足は蛇（くちなわ）の如くにて
+    questions:
+      - id: dyj-09-06-q1
+        prompt: ''
+        target: 喚
+        display: 『喚』く声は鵺にぞ似たりける。
+        choices:
+          - ひたすら
+          - からっぽ
+          - な
+          - おもさ
+        correct: 2
+        answer:
+          text: な
+          reading: な
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-09-06-q2
+        prompt: 幻想は我が
+        target: 朋
+        display: 幻想は我が 『朋』なりて
+        choices:
+          - かご
+          - とも
+          - とびら
+          - はや
+        correct: 1
+        answer:
+          text: とも
+          reading: とも
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-07
+    trackNumber: 7
+    songTitle: その意思（かんじょう）こそが
+    questions:
+      - id: dyj-09-07-q1
+        prompt: ''
+        target: “不明
+        display: 『“不明』”の聖域を
+        choices:
+          - わからず
+          - つき
+          - うま
+          - たどりついた
+        correct: 0
+        answer:
+          text: わからず
+          reading: わからず
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-09-07-q2
+        prompt: このわたしさえ「
+        target: 恐れさせて
+        display: このわたしさえ「『恐れさせて』」しまうほど。
+        choices:
+          - からだわか
+          - いみ
+          - ゆめ
+          - おびやかして
+        correct: 3
+        answer:
+          text: おびやかして
+          reading: おびやかして
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-09-07-q3
+        prompt: ''
+        target: 伝染していくこの恐怖
+        display: 『伝染していくこの恐怖』こそが我が本質
+        choices:
+          - ひと
+          - けが
+          - ほし
+          - かんじょう
+        correct: 3
+        answer:
+          text: かんじょう
+          reading: かんじょう
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-09-07-q4
+        prompt: 伝染していくこの恐怖（かんじょう）
+        target: こそが我が本質
+        display: 伝染していくこの恐怖『こそが我が本質』
+        choices:
+          - あそ
+          - うたごえ
+          - おまえ
+          - いのち
+        correct: 3
+        answer:
+          text: いのち
+          reading: いのち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-08
+    trackNumber: 8
+    songTitle: 及びもつかぬものへ今も尚、姿を変貌（か）えていく
+    questions:
+      - id: dyj-09-08-q1
+        prompt: その意思のままに、
+        target: 認識
+        display: その意思のままに、『認識』のままに、
+        choices:
+          - りかい
+          - ことば
+          - お
+          - あそ
+        correct: 0
+        answer:
+          text: りかい
+          reading: りかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-09
+    trackNumber: 9
+    songTitle: rebellion -たいせつなもののために-
+    questions:
+      - id: dyj-09-09-q1
+        prompt: 一層空っぽの目をした、
+        target: 漂流者
+        display: 一層空っぽの目をした、『漂流者』。
+        choices:
+          - まがうた
+          - つち
+          - drifter
+          - やりかた
+        correct: 2
+        answer:
+          text: drifter
+          reading: drifter
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-10
+    trackNumber: 10
+    songTitle: Fragile Idol-Worship
+    questions:
+      - id: dyj-09-10-q1
+        prompt: ''
+        target: その直向
+        display: 『その直向』に捧げる偶像崇拝が
+        choices:
+          - とう
+          - ひたむき
+          - て
+          - あさあけ
+        correct: 1
+        answer:
+          text: ひたむき
+          reading: ひたむき
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-09-10-q2
+        prompt: その直向（ひたむき）
+        target: に捧げる偶像崇拝
+        display: その直向『に捧げる偶像崇拝』が
+        choices:
+          - しりたいこと
+          - しんこう
+          - あまね
+          - あきんど
+        correct: 1
+        answer:
+          text: しんこう
+          reading: しんこう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-09-11
+    trackNumber: 11
+    songTitle: 嘘のすゝめ
+    questions:
+      - id: dyj-09-11-q1
+        prompt: 偽りを作り上げ、
+        target: 騙ること
+        display: 偽りを作り上げ、『騙ること』。
+        choices:
+          - まどか
+          - あそ
+          - スペリオリティ
+          - 事実を歪めて、騙ったとして
+        correct: 3
+        answer:
+          text: 事実を歪めて、騙ったとして
+          reading: 事実を歪めて、騙ったとして
+        tags:
+          - ateji
+          - 4択

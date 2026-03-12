@@ -1,0 +1,343 @@
+id: dyj-22
+title: 伝
+series: 凋叶棕 ナンバリング作品
+number: 22
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-22-01
+    trackNumber: 1
+    songTitle: 初番目物「龍人秘抄」
+    questions:
+      - id: dyj-22-01-q1
+        prompt: ''
+        target: その力の源
+        display: 『その力の源』辿るらん
+        choices:
+          - ものがたり
+          - みな
+          - もと
+          - あれ
+        correct: 2
+        answer:
+          text: もと
+          reading: もと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-02
+    trackNumber: 2
+    songTitle: 二番目物「祟神」
+    questions:
+      - id: dyj-22-02-q1
+        prompt: ''
+        target: そら乾
+        display: 『そら乾』のどこまでも
+        choices:
+          - よわいもの
+          - そら
+          - しょうぶ
+          - わざ
+        correct: 1
+        answer:
+          text: そら
+          reading: そら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-03
+    trackNumber: 3
+    songTitle: ちも坤（ち）もどこまでも
+    questions:
+      - id: dyj-22-03-q1
+        prompt: ''
+        target: 覇
+        display: 『覇』ち道を歩けよ
+        choices:
+          - み
+          - もと
+          - いき
+          - こちらがわ
+        correct: 0
+        answer:
+          text: み
+          reading: み
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-22-03-q2
+        prompt: ''
+        target: その簒奪者
+        display: 『その簒奪者』の名
+        choices:
+          - かみ
+          - ときをつげ
+          - わらべあそび
+          - かんじょう
+        correct: 0
+        answer:
+          text: かみ
+          reading: かみ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-04
+    trackNumber: 4
+    songTitle: 倒々（とうとう）誰も知らぬまま
+    questions:
+      - id: dyj-22-04-q1
+        prompt: ''
+        target: われが束ねた数多の信仰
+        display: 『われが束ねた数多の信仰』
+        choices:
+          - おもい
+          - てき
+          - かる
+          - ささげ
+        correct: 0
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-05
+    trackNumber: 5
+    songTitle: 四番目物「奈落唱」
+    questions:
+      - id: dyj-22-05-q1
+        prompt: ''
+        target: 腕手
+        display: 『腕手』の温もりを
+        choices:
+          - ひとたるもの
+          - ゆうしゃ
+          - かいなで
+          - むじな
+        correct: 2
+        answer:
+          text: かいなで
+          reading: かいなで
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-06
+    trackNumber: 6
+    songTitle: ただある慈（いつくしみ）の果ての思い
+    questions:
+      - id: dyj-22-06-q1
+        prompt: ''
+        target: 我が愛
+        display: 『我が愛』しきもの
+        choices:
+          - にくら
+          - うたかた
+          - こたえ
+          - おもちゃ
+        correct: 0
+        answer:
+          text: にくら
+          reading: にくら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-07
+    trackNumber: 7
+    songTitle: 狂言「跳ね玉兎」
+    questions:
+      - id: dyj-22-07-q1
+        prompt: ''
+        target: 跳ね玉兎
+        display: 『跳ね玉兎』
+        choices:
+          - りそう
+          - あたい
+          - MoonJumper
+          - ひたむき
+        correct: 2
+        answer:
+          text: MoonJumper
+          reading: MoonJumper
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-08
+    trackNumber: 8
+    songTitle: 五番目物「鬼顧」
+    questions:
+      - id: dyj-22-08-q1
+        prompt: ''
+        target: 人情
+        display: 『人情』
+        choices:
+          - げんそう
+          - こいごころ
+          - みな
+          - ひとのこころ
+        correct: 3
+        answer:
+          text: ひとのこころ
+          reading: ひとのこころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-09
+    trackNumber: 9
+    songTitle: 人の魂（たま）の色にも似て
+    questions:
+      - id: dyj-22-09-q1
+        prompt: ''
+        target: 力
+        display: 『力』け
+        choices:
+          - ひとみ
+          - してはいけない
+          - うつく
+          - うご
+        correct: 3
+        answer:
+          text: うご
+          reading: うご
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-10
+    trackNumber: 10
+    songTitle: 風（ひび）け
+    questions:
+      - id: dyj-22-10-q1
+        prompt: ''
+        target: 斃
+        display: 『斃』せ
+        choices:
+          - たお
+          - ひかり
+          - よわいもの
+          - め
+        correct: 0
+        answer:
+          text: たお
+          reading: たお
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-11
+    trackNumber: 11
+    songTitle: 「心綺楼」
+    questions:
+      - id: dyj-22-11-q1
+        prompt: ''
+        target: 幾重幾多その感情
+        display: 『幾重幾多その感情』
+        choices:
+          - ひとひら
+          - もの
+          - ともがら
+          - おもい
+        correct: 3
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-12
+    trackNumber: 12
+    songTitle: 数多の感情（こえ）よ　花となれ　　。
+    questions:
+      - id: dyj-22-12-q1
+        prompt: ''
+        target: 遍く歓声
+        display: 『遍く歓声』よ　　舞台の花となれ。
+        choices:
+          - だれか
+          - なが
+          - こえ
+          - ふしぎ
+        correct: 2
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-13
+    trackNumber: 13
+    songTitle: 新たな面（おもて）
+    questions:
+      - id: dyj-22-13-q1
+        prompt: ''
+        target: 飛び交う怒声
+        display: 『飛び交う怒声』よ　　舞台の花となれ。
+        choices:
+          - こころ
+          - けみ
+          - こえ
+          - おもい
+        correct: 2
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-14
+    trackNumber: 14
+    songTitle: 全ての感情（おもい）を見渡せど
+    questions:
+      - id: dyj-22-14-q1
+        prompt: ''
+        target: 宴も酣
+        display: 『宴も酣』か
+        choices:
+          - まどか
+          - まがうた
+          - かえ
+          - たけなわ
+        correct: 3
+        answer:
+          text: たけなわ
+          reading: たけなわ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-15
+    trackNumber: 15
+    songTitle: 三位一体　調（と）き伏せて
+    questions:
+      - id: dyj-22-15-q1
+        prompt: ''
+        target: さあ“この名
+        display: 『さあ“この名』”の命ずるまま！
+        choices:
+          - からだわか
+          - かなえ
+          - こころ
+          - こちらがわ
+        correct: 2
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-22-16
+    trackNumber: 16
+    songTitle: 符（spell）乱れ飛ぶ！
+    questions:
+      - id: dyj-22-16-q1
+        prompt: ''
+        target: 希望の希求
+        display: 『希望の希求』よ　　舞台の花となれ。
+        choices:
+          - まほう
+          - みんな
+          - きせき
+          - こえ
+        correct: 3
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択

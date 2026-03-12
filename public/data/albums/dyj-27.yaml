@@ -1,0 +1,363 @@
+id: dyj-27
+title: 娶
+series: 凋叶棕 ナンバリング作品
+number: 27
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-27-01
+    trackNumber: 1
+    songTitle: あの日のサネカズラ
+    questions:
+      - id: dyj-27-01-q1
+        prompt: 咲かせ、
+        target: “再会の約束
+        display: 咲かせ、『“再会の約束』”
+        choices:
+          - アリス
+          - サネカズラ
+          - ショウジョ
+          - フィジカル
+        correct: 1
+        answer:
+          text: サネカズラ
+          reading: サネカズラ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-02
+    trackNumber: 2
+    songTitle: この今（とき）もふるき昔（とき）もここにこうして
+    questions:
+      - id: dyj-27-02-q1
+        prompt: ''
+        target: この幻想郷
+        display: 『この幻想郷』の果てまでも
+        choices:
+          - かぜ
+          - りそう
+          - ねがい
+          - だいち
+        correct: 3
+        answer:
+          text: だいち
+          reading: だいち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-03
+    trackNumber: 3
+    songTitle: 伴に歩くその心
+    questions:
+      - id: dyj-27-03-q1
+        prompt: ''
+        target: 怪
+        display: 『怪』を確かめて
+        choices:
+          - あやし
+          - ひびき
+          - こいごころ
+          - しり
+        correct: 0
+        answer:
+          text: あやし
+          reading: あやし
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-27-03-q2
+        prompt: ''
+        target: おまえのその膂力
+        display: 『おまえのその膂力』
+        choices:
+          - たかぶり
+          - こんや
+          - あれ
+          - ちから
+        correct: 3
+        answer:
+          text: ちから
+          reading: ちから
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-04
+    trackNumber: 4
+    songTitle: おまえの全ては虚言（うろごと）か
+    questions:
+      - id: dyj-27-04-q1
+        prompt: ''
+        target: 告げろよその意志
+        display: 『告げろよその意志』を
+        choices:
+          - こたえ
+          - さい
+          - こころ
+          - きずな
+        correct: 2
+        answer:
+          text: こころ
+          reading: こころ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-05
+    trackNumber: 5
+    songTitle: meaning of life
+    questions:
+      - id: dyj-27-05-q1
+        prompt: 『
+        target: その生誕まれ
+        display: 『『その生誕まれ』』から
+        choices:
+          - なぞ
+          - しりあい
+          - るり
+          - はじめ
+        correct: 3
+        answer:
+          text: はじめ
+          reading: はじめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-06
+    trackNumber: 6
+    songTitle: 自ら捧げて“私（ひとつ）”になる
+    questions:
+      - id: dyj-27-06-q1
+        prompt: ''
+        target: 生誕
+        display: 『生誕』れた意味
+        choices:
+          - うま
+          - かお
+          - よろず
+          - からっぽ
+        correct: 0
+        answer:
+          text: うま
+          reading: うま
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-07
+    trackNumber: 7
+    songTitle: '[SiO2]の瞳'
+    questions:
+      - id: dyj-27-07-q1
+        prompt: ''
+        target: '[8:42PM_JST]'
+        display: 『[8:42PM_JST]』輝く
+        choices:
+          - ときをつげ
+          - ものがたり
+          - せめ
+          - げんじつ
+        correct: 0
+        answer:
+          text: ときをつげ
+          reading: ときをつげ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-08
+    trackNumber: 8
+    songTitle: 虚空（そら）
+    questions:
+      - id: dyj-27-08-q1
+        prompt: ''
+        target: この宇宙
+        display: 『この宇宙』の何処を探してさえ
+        choices:
+          - からっぽ
+          - つくりもの
+          - うた
+          - そら
+        correct: 3
+        answer:
+          text: そら
+          reading: そら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-09
+    trackNumber: 9
+    songTitle: 閾（liminal）の彼方
+    questions:
+      - id: dyj-27-09-q1
+        prompt: 1001101 1100001 1110010 1101001 1100010 1100101 1101100 0100000 1001000 1100101 1100001 1110010
+        target: '1101110'
+        display: 1001101 1100001 1110010 1101001 1100010 1100101 1101100 0100000 1001000 1100101 1100001 1110010 『1101110』だけをそのまま
+        choices:
+          - もと
+          - あやまち
+          - あなた*4
+          - あさあけ
+        correct: 2
+        answer:
+          text: あなた*4
+          reading: あなた*4
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-10
+    trackNumber: 10
+    songTitle: T/A/B/O/O
+    questions:
+      - id: dyj-27-10-q1
+        prompt: 「
+        target: 聖域
+        display: 「『聖域』」
+        choices:
+          - おぼつか
+          - かけら
+          - ばしょ
+          - しょくじ
+        correct: 2
+        answer:
+          text: ばしょ
+          reading: ばしょ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-11
+    trackNumber: 11
+    songTitle: 蛙姫
+    questions:
+      - id: dyj-27-11-q1
+        prompt: ''
+        target: 燦月麗池照
+        display: 『燦月麗池照』
+        choices:
+          - のろい
+          - あめつち
+          - とも
+          - さんげつうららちてらす
+        correct: 3
+        answer:
+          text: さんげつうららちてらす
+          reading: さんげつうららちてらす
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-12
+    trackNumber: 12
+    songTitle: 玲瓏（れいろう）に
+    questions:
+      - id: dyj-27-12-q1
+        prompt: ''
+        target: 其不言不問不語
+        display: 『其不言不問不語』
+        choices:
+          - まじ
+          - そうぎょく
+          - そいわずとわずかたらず
+          - のろい
+        correct: 2
+        answer:
+          text: そいわずとわずかたらず
+          reading: そいわずとわずかたらず
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-13
+    trackNumber: 13
+    songTitle: 蛙姫（わたし）が乞うて泣き出す前に
+    questions:
+      - id: dyj-27-13-q1
+        prompt: ''
+        target: いざわれらが立つは蛙
+        display: 『いざわれらが立つは蛙』の国
+        choices:
+          - かみ
+          - うごき
+          - げきせき
+          - ほんとう
+        correct: 0
+        answer:
+          text: かみ
+          reading: かみ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-14
+    trackNumber: 14
+    songTitle: 鳥よ
+    questions:
+      - id: dyj-27-14-q1
+        prompt: ''
+        target: 何所か余所余所しいほどに虚
+        display: 『何所か余所余所しいほどに虚』く
+        choices:
+          - ひろ
+          - まつり
+          - がらくた
+          - なぞ
+        correct: 0
+        answer:
+          text: ひろ
+          reading: ひろ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-15
+    trackNumber: 15
+    songTitle: この期（とき）におよんで
+    questions:
+      - id: dyj-27-15-q1
+        prompt: ''
+        target: 空より舞い降りた幻想
+        display: 『空より舞い降りた幻想』
+        choices:
+          - まぼろし
+          - いのり
+          - ごみくず
+          - たのしさ
+        correct: 0
+        answer:
+          text: まぼろし
+          reading: まぼろし
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-16
+    trackNumber: 16
+    songTitle: 東方人妖小町
+    questions:
+      - id: dyj-27-16-q1
+        prompt: 【
+        target: 妖
+        display: 【『妖』】達が
+        choices:
+          - けしてつづかぬもの
+          - おびやかして
+          - うすっぺらなそのおもい
+          - おもさ
+        correct: 0
+        answer:
+          text: けしてつづかぬもの
+          reading: けしてつづかぬもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-27-17
+    trackNumber: 17
+    songTitle: 【人（けしてわからぬもの）】達が
+    questions:
+      - id: dyj-27-17-q1
+        prompt: ''
+        target: 戸
+        display: 『戸』一つ隔てたなら
+        choices:
+          - とびら
+          - は
+          - いま
+          - きみ
+        correct: 0
+        answer:
+          text: とびら
+          reading: とびら
+        tags:
+          - ateji
+          - 4択

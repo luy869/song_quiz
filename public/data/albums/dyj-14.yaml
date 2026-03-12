@@ -1,0 +1,343 @@
+id: dyj-14
+title: 望
+series: 凋叶棕 ナンバリング作品
+number: 14
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-14-01
+    trackNumber: 1
+    songTitle: encourager
+    questions:
+      - id: dyj-14-01-q1
+        prompt: わたしに、勇気を、くれた「
+        target: 神様
+        display: わたしに、勇気を、くれた「『神様』」。
+        choices:
+          - わたしたち
+          - なげ
+          - ひと
+          - おと
+        correct: 2
+        answer:
+          text: ひと
+          reading: ひと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-02
+    trackNumber: 2
+    songTitle: 呪いのエメラルド
+    questions:
+      - id: dyj-14-02-q1
+        prompt: どんなにそうやって
+        target: 上辺を演出
+        display: どんなにそうやって 『上辺を演出』っても
+        choices:
+          - かざ
+          - あらゆるかたち
+          - めためた
+          - まぼろしのくに
+        correct: 0
+        answer:
+          text: かざ
+          reading: かざ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-03
+    trackNumber: 3
+    songTitle: Unprivileged Access
+    questions:
+      - id: dyj-14-03-q1
+        prompt: ''
+        target: 人の所有物
+        display: 『人の所有物』を奪おうと思ったことも、おありですね。 それも、良くある欲望でしょう。
+        choices:
+          - もの
+          - わからず
+          - いだ
+          - だいち
+        correct: 0
+        answer:
+          text: もの
+          reading: もの
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-14-03-q2
+        prompt: 人の所有物（もの）を奪おうと思ったことも、おありですね。 それも、
+        target: 良くある欲望
+        display: 人の所有物を奪おうと思ったことも、おありですね。 それも、『良くある欲望』でしょう。
+        choices:
+          - にえ
+          - おもい
+          - わたしのせかい
+          - とき
+        correct: 1
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-04
+    trackNumber: 4
+    songTitle: か弱き婦女子（もの）を犯そうと思ったことが、おありですか。 別に、不思議ではありませんね。
+    questions:
+      - id: dyj-14-04-q1
+        prompt: ''
+        target: 抗い様のない“原感情
+        display: 『抗い様のない“原感情』”に跪け。
+        choices:
+          - にくら
+          - qualia
+          - こうい
+          - りょうめ
+        correct: 1
+        answer:
+          text: qualia
+          reading: qualia
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-14-04-q2
+        prompt: 私だけが知り得る、その秘めたる全てが、
+        target: 新たなる痕
+        display: 私だけが知り得る、その秘めたる全てが、『新たなる痕』を生み出す苗床となれ。
+        choices:
+          - たぬきやろう
+          - ばけもの
+          - だれひとり
+          - trauma
+        correct: 3
+        answer:
+          text: trauma
+          reading: trauma
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-05
+    trackNumber: 5
+    songTitle: ほら、貴方のことは、全部、理解（わか）って差し上げますから。 如何に、醜い思いでも。
+    questions:
+      - id: dyj-14-05-q1
+        prompt: ほら、貴方のことを、誰も、
+        target: 共感
+        display: ほら、貴方のことを、誰も、『共感』ってくれはしないのですから。 如何に、それを求めても。
+        choices:
+          - すく
+          - ふるさと
+          - おぼ
+          - なぞ
+        correct: 0
+        answer:
+          text: すく
+          reading: すく
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-06
+    trackNumber: 6
+    songTitle: ほら、私の前では、誰も、判明（わか）ってしまうのですから。 如何に、隠し遂せても。
+    questions:
+      - id: dyj-14-06-q1
+        prompt: ほら、私が全て、それを、
+        target: 赦免
+        display: ほら、私が全て、それを、『赦免』って差し上げますから。 如何に、醜い思いでも。
+        choices:
+          - つくりもの
+          - あめつち
+          - すく
+          - のぞむこと
+        correct: 2
+        answer:
+          text: すく
+          reading: すく
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-14-06-q2
+        prompt: ''
+        target: かくも醜き生物
+        display: 『かくも醜き生物』が。抱く幻想の果て。砕いてはその深遠に、末期の輝きを見る。
+        choices:
+          - もの
+          - わからず
+          - あらごと
+          - あさあけ
+        correct: 0
+        answer:
+          text: もの
+          reading: もの
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-14-06-q3
+        prompt: かくも醜き生物（もの）が。抱く幻想の果て。
+        target: 砕いてはその深遠
+        display: かくも醜き生物が。抱く幻想の果て。『砕いてはその深遠』に、末期の輝きを見る。
+        choices:
+          - おく
+          - わたしたち
+          - あそび
+          - のこ
+        correct: 0
+        answer:
+          text: おく
+          reading: おく
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-07
+    trackNumber: 7
+    songTitle: 人恋し、秋恋し
+    questions:
+      - id: dyj-14-07-q1
+        prompt: ''
+        target: 収穫祭
+        display: 『収穫祭』の喧騒から逃げ出した
+        choices:
+          - まつり
+          - ひとみ
+          - ひそか
+          - してはいけないこと
+        correct: 0
+        answer:
+          text: まつり
+          reading: まつり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-08
+    trackNumber: 8
+    songTitle: どこか、虚空（そら）を見つめ
+    questions:
+      - id: dyj-14-08-q1
+        prompt: ''
+        target: 終焉
+        display: 『終焉』ってしまう季節の名残に
+        choices:
+          - て
+          - あか
+          - おわ
+          - お
+        correct: 2
+        answer:
+          text: おわ
+          reading: おわ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-09
+    trackNumber: 9
+    songTitle: スターブレイカー
+    questions:
+      - id: dyj-14-09-q1
+        prompt: 星空を見上げて、
+        target: 用途
+        display: 星空を見上げて、『用途』も無き星たちを。
+        choices:
+          - たぬきやろう
+          - な
+          - せわたり
+          - あそび
+        correct: 1
+        answer:
+          text: な
+          reading: な
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-10
+    trackNumber: 10
+    songTitle: 一筋の閃光（ひかり）を視る。
+    questions:
+      - id: dyj-14-10-q1
+        prompt: ''
+        target: 用途
+        display: 『用途』も無き
+        choices:
+          - わらい
+          - あたい
+          - な
+          - ちぎ
+        correct: 2
+        answer:
+          text: な
+          reading: な
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-14-10-q2
+        prompt: ''
+        target: 星の銘
+        display: 『星の銘』は魔理沙。
+        choices:
+          - のぞみ
+          - くうき
+          - このばしょ
+          - な
+        correct: 3
+        answer:
+          text: な
+          reading: な
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-14-10-q3
+        prompt: 星の銘（な）
+        target: は魔理沙
+        display: 星の銘『は魔理沙』。
+        choices:
+          - star breaker
+          - こころ
+          - あらわ
+          - ひそか
+        correct: 0
+        answer:
+          text: star breaker
+          reading: star breaker
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-11
+    trackNumber: 11
+    songTitle: 童遊
+    questions:
+      - id: dyj-14-11-q1
+        prompt: ''
+        target: 幻想郷
+        display: 『幻想郷』に遊ぶがいい。
+        choices:
+          - まぼろしのくに
+          - はな
+          - われ
+          - かお
+        correct: 0
+        answer:
+          text: まぼろしのくに
+          reading: まぼろしのくに
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-14-12
+    trackNumber: 12
+    songTitle: 口伝伝承（むかしばなし）を祀れば。
+    questions:
+      - id: dyj-14-12-q1
+        prompt: ''
+        target: 命名決闘
+        display: 『命名決闘』を
+        choices:
+          - わらべあそび
+          - ゆくさき
+          - あさあけ
+          - つくりもの
+        correct: 0
+        answer:
+          text: わらべあそび
+          reading: わらべあそび
+        tags:
+          - ateji
+          - 4択

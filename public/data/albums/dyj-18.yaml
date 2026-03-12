@@ -1,0 +1,351 @@
+id: dyj-18
+title: 喩
+series: 凋叶棕 ナンバリング作品
+number: 18
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-18-01
+    trackNumber: 1
+    songTitle: 少女飛翔曲　～ Everlasting Longing
+    questions:
+      - id: dyj-18-01-q1
+        prompt: ''
+        target: 与えられた“妖怪退治
+        display: 『与えられた“妖怪退治』”を
+        choices:
+          - ゆめ
+          - りかい
+          - だれ
+          - しごと
+        correct: 3
+        answer:
+          text: しごと
+          reading: しごと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-02
+    trackNumber: 2
+    songTitle: 飛翔（と）んで
+    questions:
+      - id: dyj-18-02-q1
+        prompt: 楽しそうに
+        target: 弾幕
+        display: 楽しそうに 『弾幕』ぶのか
+        choices:
+          - ながれぼし
+          - つくりもの
+          - と
+          - ゆがんで
+        correct: 2
+        answer:
+          text: と
+          reading: と
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-18-02-q2
+        prompt: 「
+        target: 零
+        display: 「『零』」で「無」で
+        choices:
+          - むいしき
+          - まっさら
+          - けがれたばしょ
+          - ひかり
+        correct: 1
+        answer:
+          text: まっさら
+          reading: まっさら
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-18-02-q3
+        prompt: 「零（まっさら）」で「
+        target: 無
+        display: 「零」で「『無』」で
+        choices:
+          - からっぽ
+          - ことば
+          - わたしたち
+          - ともがら
+        correct: 0
+        answer:
+          text: からっぽ
+          reading: からっぽ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-03
+    trackNumber: 3
+    songTitle: それでも あの時みたいに飛翔（と）んでいられるのか？
+    questions:
+      - id: dyj-18-03-q1
+        prompt: ''
+        target: 弾幕
+        display: 『弾幕』んだ
+        choices:
+          - むじな
+          - き
+          - すく
+          - と
+        correct: 3
+        answer:
+          text: と
+          reading: と
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-18-03-q2
+        prompt: ''
+        target: 全てを忘れ飛翔
+        display: 『全てを忘れ飛翔』んでいた。
+        choices:
+          - かみ
+          - なぞ
+          - と
+          - おびやかして
+        correct: 2
+        answer:
+          text: と
+          reading: と
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-04
+    trackNumber: 4
+    songTitle: true outsiders
+    questions:
+      - id: dyj-18-04-q1
+        prompt: 「
+        target: 好奇心
+        display: 「『好奇心』」　　幻想の種を芽吹かせて。
+        choices:
+          - curiosity
+          - とわ
+          - つぶ
+          - つち
+        correct: 0
+        answer:
+          text: curiosity
+          reading: curiosity
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-05
+    trackNumber: 5
+    songTitle: 「探求心（inquiry）」　　幻想の種を芽吹かせて。
+    questions:
+      - id: dyj-18-05-q1
+        prompt: ''
+        target: 見知った天地
+        display: 『見知った天地』を振り捨てて
+        choices:
+          - ながれぼし
+          - せい
+          - かわ
+          - すべて
+        correct: 3
+        answer:
+          text: すべて
+          reading: すべて
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-06
+    trackNumber: 6
+    songTitle: カ-210号の嘆き
+    questions:
+      - id: dyj-18-06-q1
+        prompt: ''
+        target: そうして同輩
+        display: 『そうして同輩』に失望して
+        choices:
+          - ゆうしゃ
+          - わらい
+          - こいごころ
+          - ともがら
+        correct: 3
+        answer:
+          text: ともがら
+          reading: ともがら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-07
+    trackNumber: 7
+    songTitle: Qua, Qua（そうなのです、そうなのです）
+    questions:
+      - id: dyj-18-07-q1
+        prompt: 「
+        target: 哀れな河童
+        display: 「『哀れな河童』」の怒声が木魂する
+        choices:
+          - 210ごう
+          - いのちなきもの
+          - わからず
+          - あい
+        correct: 0
+        answer:
+          text: 210ごう
+          reading: 210ごう
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-18-07-q2
+        prompt: 「哀れな河童（210ごう）」
+        target: の怒声
+        display: 「哀れな河童」『の怒声』が木魂する
+        choices:
+          - まがうた
+          - おはなし
+          - ひたむき
+          - こえ
+        correct: 3
+        answer:
+          text: こえ
+          reading: こえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-08
+    trackNumber: 8
+    songTitle: はじまりのワイゲルト
+    questions:
+      - id: dyj-18-08-q1
+        prompt: 「
+        target: 黒き瞳子
+        display: 「　　『黒き瞳子』をや 持ちたらん君には。」
+        choices:
+          - ひとみ
+          - ことば
+          - つよ
+          - よわいもの
+        correct: 0
+        answer:
+          text: ひとみ
+          reading: ひとみ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-09
+    trackNumber: 9
+    songTitle: 黒き瞳子（ひとみ）の子
+    questions:
+      - id: dyj-18-09-q1
+        prompt: ''
+        target: 幻想
+        display: 『幻想』を
+        choices:
+          - おぼつか
+          - うたごえ
+          - まじわ
+          - ゆめ
+        correct: 3
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-10
+    trackNumber: 10
+    songTitle: プリズムリバー練習曲第一番
+    questions:
+      - id: dyj-18-10-q1
+        prompt: 私の魔法
+        target: 皆の音楽
+        display: 私の魔法 『皆の音楽』
+        choices:
+          - まほう
+          - けみ
+          - うたごえ
+          - まどか
+        correct: 2
+        answer:
+          text: うたごえ
+          reading: うたごえ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-11
+    trackNumber: 11
+    songTitle: 【con amore】（優しく愛を込めるように奏でて）
+    questions:
+      - id: dyj-18-11-q1
+        prompt: ''
+        target: はじめての練習曲
+        display: 『はじめての練習曲』を
+        choices:
+          - あらゆるかたち
+          - いよいよ
+          - etude
+          - めしい
+        correct: 2
+        answer:
+          text: etude
+          reading: etude
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-12
+    trackNumber: 12
+    songTitle: A transient faith
+    questions:
+      - id: dyj-18-12-q1
+        prompt: 「
+        target: 儚き信仰
+        display: 「『儚き信仰』」に縋りながら
+        choices:
+          - うすっぺらなそのおもい
+          - わたしたち
+          - あまね
+          - そいわずとわずかたらず
+        correct: 0
+        answer:
+          text: うすっぺらなそのおもい
+          reading: うすっぺらなそのおもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-13
+    trackNumber: 13
+    songTitle: ハロー、マイフレンド。
+    questions:
+      - id: dyj-18-13-q1
+        prompt: ''
+        target: たとえあなたが瑣末な虚構
+        display: 『たとえあなたが瑣末な虚構』でも
+        choices:
+          - つくりもの
+          - はじまり
+          - やまびこ
+          - うつく
+        correct: 0
+        answer:
+          text: つくりもの
+          reading: つくりもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-18-14
+    trackNumber: 14
+    songTitle: 「私の明日（せかい）」はここにしかないから
+    questions:
+      - id: dyj-18-14-q1
+        prompt: 「
+        target: あなたの全て
+        display: 「『あなたの全て』」はここにあるから
+        choices:
+          - ゆがんで
+          - い
+          - わたしのせかい
+          - なげ
+        correct: 2
+        answer:
+          text: わたしのせかい
+          reading: わたしのせかい
+        tags:
+          - ateji
+          - 4択

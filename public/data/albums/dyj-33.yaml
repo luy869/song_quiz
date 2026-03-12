@@ -1,0 +1,611 @@
+id: dyj-33
+title: △
+series: 凋叶棕 ナンバリング作品
+number: 33
+url: null
+arranger: RD-Sounds
+tracks:
+  - id: dyj-33-01
+    trackNumber: 1
+    songTitle: 秘封倶楽部！秘封倶楽部！秘封倶楽部！秘封倶楽部！（メサイア！メサイア！メサイア！メサイア！）
+    questions:
+      - id: dyj-33-01-q1
+        prompt: ''
+        target: 宇宙
+        display: 『宇宙』を越えて　もっと遠くへ
+        choices:
+          - おびやかして
+          - まぼ
+          - つち
+          - そら
+        correct: 3
+        answer:
+          text: そら
+          reading: そら
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-02
+    trackNumber: 2
+    songTitle: 秘封倶楽部！秘封倶楽部！秘封倶楽部！秘封倶楽部！（ハレルヤ！ハレルヤ！ハレルヤ！ハレルヤ！）
+    questions:
+      - id: dyj-33-02-q1
+        prompt: ''
+        target: 嘲笑
+        display: 『嘲笑』うだけ　嘆くだけ
+        choices:
+          - わら
+          - だいち
+          - てき
+          - むね
+        correct: 0
+        answer:
+          text: わら
+          reading: わら
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-02-q2
+        prompt: ''
+        target: 世界を巻き込む“世界秘封倶楽部化計画”
+        display: 『世界を巻き込む“世界秘封倶楽部化計画”』
+        choices:
+          - 総カルト
+          - むいしき
+          - よご
+          - なげい
+        correct: 0
+        answer:
+          text: 総カルト
+          reading: 総カルト
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-03
+    trackNumber: 3
+    songTitle: 『μετέωρο』
+    questions:
+      - id: dyj-33-03-q1
+        prompt: ''
+        target: μετέωρο
+        display: 『μετέωρο』
+        choices:
+          - ドメイン
+          - ミーティア
+          - レアリティ
+          - アリス
+        correct: 1
+        answer:
+          text: ミーティア
+          reading: ミーティア
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-04
+    trackNumber: 4
+    songTitle: 形相（かたち）を持たぬ理想郷（ユートピア）
+    questions:
+      - id: dyj-33-04-q1
+        prompt: ''
+        target: かくも強く希求
+        display: 『かくも強く希求』めよう　人の続く限りこれからも
+        choices:
+          - もと
+          - ながれぼし
+          - ひと
+          - かぜ
+        correct: 0
+        answer:
+          text: もと
+          reading: もと
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-05
+    trackNumber: 5
+    songTitle: いつか幻視（み）た風景を思わせよ
+    questions:
+      - id: dyj-33-05-q1
+        prompt: ''
+        target: いざや幻想
+        display: 『いざや幻想』の息の根を止めろよ
+        choices:
+          - みなも
+          - はだえ
+          - あらわ
+          - ものがたり
+        correct: 3
+        answer:
+          text: ものがたり
+          reading: ものがたり
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-06
+    trackNumber: 6
+    songTitle: 形相（かたち）を持たぬことの意味
+    questions:
+      - id: dyj-33-06-q1
+        prompt: 扉を叩く権利は
+        target: 全ての幻想
+        display: 扉を叩く権利は　『全ての幻想』見る者達のものなら
+        choices:
+          - みむくろ
+          - おはなし
+          - ゆめ
+          - おわらぬまつり
+        correct: 2
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-07
+    trackNumber: 7
+    songTitle: 幻想（ゆめ）を　現に　世界を　楽園に
+    questions:
+      - id: dyj-33-07-q1
+        prompt: 空、
+        target: 愈々
+        display: 空、『愈々』近く
+        choices:
+          - いよいよ
+          - もの
+          - のこ
+          - ひとのこころ
+        correct: 0
+        answer:
+          text: いよいよ
+          reading: いよいよ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-07-q2
+        prompt: ''
+        target: 斯くて≪楽園≫は≪現実≫
+        display: 『斯くて≪楽園≫は≪現実≫』となろう
+        choices:
+          - しり
+          - かみ
+          - らくえん
+          - まえ
+        correct: 2
+        answer:
+          text: らくえん
+          reading: らくえん
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-08
+    trackNumber: 8
+    songTitle: 『シン・汎用合成クラスメイト：宇佐見227号』
+    questions:
+      - id: dyj-33-08-q1
+        prompt: ''
+        target: 君というその存在だけが異質な合成品
+        display: 『君というその存在だけが異質な合成品』で
+        choices:
+          - つくりもの
+          - しょうぶ
+          - ひとみ
+          - ことば
+        correct: 0
+        answer:
+          text: つくりもの
+          reading: つくりもの
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-09
+    trackNumber: 9
+    songTitle: 天然（ナチュラルボーン）
+    questions:
+      - id: dyj-33-09-q1
+        prompt: ''
+        target: “合成”
+        display: 『“合成”』は想フ
+        choices:
+          - ちから
+          - ほし
+          - ひとみ
+          - きみ
+        correct: 3
+        answer:
+          text: きみ
+          reading: きみ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-10
+    trackNumber: 10
+    songTitle: 『夏の終わり／世界の終わり』
+    questions:
+      - id: dyj-33-10-q1
+        prompt: ''
+        target: ありったけの＊＊＊
+        display: 『ありったけの＊＊＊』を乗せて
+        choices:
+          - おもい
+          - しんこう
+          - わざ
+          - そら
+        correct: 0
+        answer:
+          text: おもい
+          reading: おもい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-11
+    trackNumber: 11
+    songTitle: 『Then Dead Laughs』
+    questions:
+      - id: dyj-33-11-q1
+        prompt: ''
+        target: 死
+        display: 『死』を謳歌？！
+        choices:
+          - せい
+          - いのちなきもの
+          - そこ
+          - うご
+        correct: 0
+        answer:
+          text: せい
+          reading: せい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-11-q2
+        prompt: 新しい世界
+        target: 新しい死生
+        display: 新しい世界　『新しい死生』
+        choices:
+          - わざ
+          - わからず
+          - く
+          - いのち
+        correct: 3
+        answer:
+          text: いのち
+          reading: いのち
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-12
+    trackNumber: 12
+    songTitle: 甘き甘き天国（ゲヘナ）の誘い
+    questions:
+      - id: dyj-33-12-q1
+        prompt: ''
+        target: 何を讒言
+        display: 『何を讒言』おうが
+        choices:
+          - おく
+          - よわいもの
+          - わたつみ
+          - い
+        correct: 3
+        answer:
+          text: い
+          reading: い
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-13
+    trackNumber: 13
+    songTitle: ＜旧き人類＞（ふるきものたち）よ指を咥え見ていろ
+    questions:
+      - id: dyj-33-13-q1
+        prompt: ''
+        target: 屍化粧
+        display: 『屍化粧』
+        choices:
+          - しにげしょう
+          - とき
+          - にくら
+          - ふるさと
+        correct: 0
+        answer:
+          text: しにげしょう
+          reading: しにげしょう
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-14
+    trackNumber: 14
+    songTitle: 『預言者メリー』
+    questions:
+      - id: dyj-33-14-q1
+        prompt: ''
+        target: 檻
+        display: 『檻』の中で確かな明示
+        choices:
+          - ショウジョ
+          - サネカズラ
+          - ケージ
+          - クライシス
+        correct: 2
+        answer:
+          text: ケージ
+          reading: ケージ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-14-q2
+        prompt: かなたの不思議
+        target: 奇しき幻想
+        display: かなたの不思議　『奇しき幻想』
+        choices:
+          - ケージ
+          - エゴ
+          - デマゴーグ
+          - レヴァリエ
+        correct: 3
+        answer:
+          text: レヴァリエ
+          reading: レヴァリエ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-15
+    trackNumber: 15
+    songTitle: 拝する嚮（きょう）する望みは止まらない
+    questions:
+      - id: dyj-33-15-q1
+        prompt: ''
+        target: 顔を歪めて預言者
+        display: 『顔を歪めて預言者』は笑う
+        choices:
+          - て
+          - りそう
+          - あそび
+          - あなた
+        correct: 3
+        answer:
+          text: あなた
+          reading: あなた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-16
+    trackNumber: 16
+    songTitle: その命令（コード）は
+    questions:
+      - id: dyj-33-16-q1
+        prompt: ''
+        target: それでもたった一基
+        display: 『それでもたった一基』は救えない
+        choices:
+          - みな
+          - ひとり
+          - おおかみ
+          - かばね
+        correct: 1
+        answer:
+          text: ひとり
+          reading: ひとり
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-16-q2
+        prompt: ''
+        target: その基板
+        display: 『その基板』に　刻まれた　われらが　最期の願は
+        choices:
+          - おまえ
+          - かな
+          - むね
+          - かげ
+        correct: 2
+        answer:
+          text: むね
+          reading: むね
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-16-q3
+        prompt: その基板（むね）に　刻まれた　われらが
+        target: 最期の願
+        display: その基板に　刻まれた　われらが　『最期の願』は
+        choices:
+          - のろい
+          - かんじょう
+          - げんそう
+          - くも
+        correct: 0
+        answer:
+          text: のろい
+          reading: のろい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-17
+    trackNumber: 17
+    songTitle: 『まざりあうせかい』
+    questions:
+      - id: dyj-33-17-q1
+        prompt: ''
+        target: それは脆くしかし強固
+        display: 『それは脆くしかし強固』く
+        choices:
+          - つよ
+          - つき
+          - いの
+          - あばきつくすもの
+        correct: 0
+        answer:
+          text: つよ
+          reading: つよ
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-17-q2
+        prompt: ''
+        target: Z対
+        display: 『Z対』領域の拡散
+        choices:
+          - こい
+          - うごき
+          - さだめ
+          - ぜったい
+        correct: 3
+        answer:
+          text: ぜったい
+          reading: ぜったい
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-17-q3
+        prompt: Z対（ぜったい）
+        target: 領域
+        display: Z対『領域』の拡散
+        choices:
+          - ドメイン
+          - サネカズラ
+          - ルナティックシグナルクラウド
+          - セオリー
+        correct: 0
+        answer:
+          text: ドメイン
+          reading: ドメイン
+        tags:
+          - ateji
+          - 4択
+      - id: dyj-33-17-q4
+        prompt: Z対（ぜったい）領域（ドメイン）
+        target: の拡散
+        display: Z対領域『の拡散』
+        choices:
+          - ハレ
+          - エゴ
+          - ゲーム
+          - ディフュージョン
+        correct: 3
+        answer:
+          text: ディフュージョン
+          reading: ディフュージョン
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-18
+    trackNumber: 18
+    songTitle: 最奥（おく）に
+    questions:
+      - id: dyj-33-18-q1
+        prompt: ''
+        target: まざりあう≪常識／非常識≫
+        display: 『まざりあう≪常識／非常識≫』は
+        choices:
+          - すべてかくすもの
+          - けがれたばしょ
+          - せかい
+          - だれか
+        correct: 2
+        answer:
+          text: せかい
+          reading: せかい
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-19
+    trackNumber: 19
+    songTitle: こんな薄っぺらい防壁（イメージ）で隔てられていたのに
+    questions:
+      - id: dyj-33-19-q1
+        prompt: ''
+        target: 秒で変わる∃
+        display: 『秒で変わる∃』
+        choices:
+          - さんげつうららちてらす
+          - ケージ
+          - ひとたるもの
+          - 不可思議な定数
+        correct: 3
+        answer:
+          text: 不可思議な定数
+          reading: 不可思議な定数
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-20
+    trackNumber: 20
+    songTitle: 無限の心音（おと）に小さな自分（エゴ）がわらうこえ
+    questions:
+      - id: dyj-33-20-q1
+        prompt: ''
+        target: 他者
+        display: 『他者』こそがいつだって最大の非常識
+        choices:
+          - うで
+          - と
+          - あなた
+          - こいごころ
+        correct: 2
+        answer:
+          text: あなた
+          reading: あなた
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-21
+    trackNumber: 21
+    songTitle: けれどその境界（かべ）さえももう
+    questions:
+      - id: dyj-33-21-q1
+        prompt: ''
+        target: 幻想
+        display: 『幻想』でいましょう
+        choices:
+          - わらえる
+          - かえ
+          - ゆめ
+          - とびら
+        correct: 2
+        answer:
+          text: ゆめ
+          reading: ゆめ
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-22
+    trackNumber: 22
+    songTitle: 『ゴーストリー・プラネット』
+    questions:
+      - id: dyj-33-22-q1
+        prompt: ''
+        target: いまだ未完成の＜理論＞
+        display: 『いまだ未完成の＜理論＞』
+        choices:
+          - セオリー
+          - クラウンピース
+          - エゴ
+          - ペン
+        correct: 0
+        answer:
+          text: セオリー
+          reading: セオリー
+        tags:
+          - ateji
+          - 4択
+  - id: dyj-33-23
+    trackNumber: 23
+    songTitle: こんな広い惑星（ほし）に
+    questions:
+      - id: dyj-33-23-q1
+        prompt: ''
+        target: にじむにじむ揺らぐ干渉
+        display: 『にじむにじむ揺らぐ干渉』の果てに
+        choices:
+          - コヒーレント
+          - イリンクス
+          - アソビ
+          - マロングラッセ
+        correct: 0
+        answer:
+          text: コヒーレント
+          reading: コヒーレント
+        tags:
+          - ateji
+          - 4択
