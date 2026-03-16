@@ -10,7 +10,6 @@ tracks:
     songTitle: 紅魔 「Un-demystified Fantasy」
     questions:
       - id: dyj-16-01-q1
-        prompt: ''
         target: 書斎の静寂
         display: 『書斎の静寂』を掻き消して
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 妖々 「全て桜の下に」
     questions:
       - id: dyj-16-02-q1
-        prompt: ''
         target: ただ只管
         display: 『ただ只管』に、主の下へ。何が出来るでもないのに。
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: 翅（はね）を広げた二匹の蝶となる。
     questions:
       - id: dyj-16-03-q1
-        prompt: ''
         target: 二匹
         display: 『二匹』、舞い戻る。桜の下へ。
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: 永夜 「Imperishable Challengers」
     questions:
       - id: dyj-16-04-q1
-        prompt: そして昇りゆく日の光に、「
         target: 一回休み
         display: そして昇りゆく日の光に、「『一回休み』」を知っては。
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: 蛍（むし）を追え、夜雀（とり）を追え！
     questions:
       - id: dyj-16-05-q1
-        prompt: ''
         target: けれど今朝
         display: 『けれど今朝』は床を並べて共に眠れればと…
         choices:
@@ -110,7 +105,6 @@ tracks:
     songTitle: 本物の満月（つき）の光の中。
     questions:
       - id: dyj-16-06-q1
-        prompt: ''
         target: けして解かれぬ難題
         display: 『けして解かれぬ難題』を解き明かせ！
         choices:
@@ -130,7 +124,6 @@ tracks:
     songTitle: 花映「タマシイノハナ」
     questions:
       - id: dyj-16-07-q1
-        prompt: ''
         target: その仮命
         display: 『その仮命』のある限り
         choices:
@@ -146,7 +139,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-16-07-q2
-        prompt: 我らが 生きる
         target: その生涯
         display: 我らが 生きる 『その生涯』に
         choices:
@@ -166,7 +158,6 @@ tracks:
     songTitle: 叶うならこの生涯（みち）を共にと
     questions:
       - id: dyj-16-08-q1
-        prompt: ''
         target: そんな告白
         display: 『そんな告白』を 飲み込んで
         choices:
@@ -186,7 +177,6 @@ tracks:
     songTitle: 蘇生（よみが）える幻想に捧ぐ
     questions:
       - id: dyj-16-09-q1
-        prompt: ''
         target: 見知らぬ少女
         display: 『見知らぬ少女』の姿
         choices:
@@ -206,7 +196,6 @@ tracks:
     songTitle: 風神 「ブレイブ・ガール」
     questions:
       - id: dyj-16-10-q1
-        prompt: ''
         target: 神々が恋をしたこの幻想郷
         display: 『神々が恋をしたこの幻想郷』を愛したい
         choices:
@@ -226,7 +215,6 @@ tracks:
     songTitle: 地霊 「幻想郷縁起　封ジラレシ妖怪達之頁」
     questions:
       - id: dyj-16-11-q1
-        prompt: ''
         target: 彼女
         display: 『彼女』らは何をも恐れずに
         choices:
@@ -246,7 +234,6 @@ tracks:
     songTitle: 星蓮 「ウルワシのベントラー」
     questions:
       - id: dyj-16-12-q1
-        prompt: さあ
         target: 次の妖怪
         display: さあ　　『次の妖怪』は何処にいる！
         choices:
@@ -266,7 +253,6 @@ tracks:
     songTitle: 神霊 「死せる哲学の袂」
     questions:
       - id: dyj-16-13-q1
-        prompt: ''
         target: 人の欲望
         display: 『人の欲望』 果てしなく
         choices:
@@ -286,7 +272,6 @@ tracks:
     songTitle: その魂（みこころ）は不滅だと
     questions:
       - id: dyj-16-14-q1
-        prompt: ''
         target: おおいなるものと一体
         display: 『おおいなるものと一体』なら
         choices:
@@ -306,7 +291,6 @@ tracks:
     songTitle: だがそれでも その欲望（おもい）故
     questions:
       - id: dyj-16-15-q1
-        prompt: ''
         target: 人の欲望
         display: 『人の欲望』を礎に
         choices:
@@ -326,7 +310,6 @@ tracks:
     songTitle: 輝針 「セイギノミカタ」
     questions:
       - id: dyj-16-16-q1
-        prompt: ''
         target: 喩え何者
         display: 『喩え何者』と相撃とうとも
         choices:
@@ -342,7 +325,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-16-16-q2
-        prompt: 共に目指す「
         target: 下克上
         display: 共に目指す「『下克上』」を、分かち合えばと願いはすれども
         choices:
@@ -362,7 +344,6 @@ tracks:
     songTitle: 全てを倒す針（けん）となる
     questions:
       - id: dyj-16-17-q1
-        prompt: 与するもの、
         target: 一人としていない天邪鬼
         display: 与するもの、『一人としていない天邪鬼』
         choices:
@@ -382,7 +363,6 @@ tracks:
     songTitle: 掲ぐ理想に、捧ぐ覚悟（おもい）を。
     questions:
       - id: dyj-16-18-q1
-        prompt: 与すること、
         target: 一時の異変
         display: 与すること、『一時の異変』で終わっても
         choices:
@@ -402,7 +382,6 @@ tracks:
     songTitle: 「テーマ・オブ・カーテンファイアーシューターズ」 -History 2/3-
     questions:
       - id: dyj-16-19-q1
-        prompt: ''
         target: 何度被弾
         display: 『何度被弾』れ
         choices:
@@ -422,7 +401,6 @@ tracks:
     songTitle: 満身創痍（つかれはて）ても
     questions:
       - id: dyj-16-20-q1
-        prompt: ''
         target: 心に幻想
         display: 『心に幻想』ある限り
         choices:
@@ -438,7 +416,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-16-20-q2
-        prompt: ''
         target: その幻想
         display: 『その幻想』を残機にして
         choices:
@@ -454,9 +431,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-16-20-q3
-        prompt: その幻想（ゆめ）
         target: を残機
-        display: その幻想『を残機』にして
+        display: その幻想（ゆめ）その幻想『を残機』にして
         choices:
           - きおく
           - ひたむき
@@ -474,7 +450,6 @@ tracks:
     songTitle: 次こそはと云う精神（おもい）は
     questions:
       - id: dyj-16-21-q1
-        prompt: ''
         target: 明日へと向かう祈祷
         display: 『明日へと向かう祈祷』なるか？
         choices:
@@ -494,7 +469,6 @@ tracks:
     songTitle: 無駄に散らした残機（いのち）達の
     questions:
       - id: dyj-16-22-q1
-        prompt: 或いは、心の奥底では、“Extra
         target: Stage
         display: 或いは、心の奥底では、“Extra 『Stage』”を見ている　　？
         choices:
@@ -514,7 +488,6 @@ tracks:
     songTitle: 満身創痍（ひざをおって）も
     questions:
       - id: dyj-16-23-q1
-        prompt: 果して、心の奥底では、“High
         target: Score
         display: 果して、心の奥底では、“High 『Score』”をみている　　？
         choices:
@@ -534,7 +507,6 @@ tracks:
     songTitle: 掲げられた「下克上（たかきこころざし）」を砕けよ！
     questions:
       - id: dyj-16-24-q1
-        prompt: ''
         target: 僕らはきっと幻視
         display: 『僕らはきっと幻視』るはず。
         choices:
@@ -554,7 +526,6 @@ tracks:
     songTitle: 幻想（せかい）の続きを願うはず。
     questions:
       - id: dyj-16-25-q1
-        prompt: “Next
         target: Dream
         display: “Next 『Dream』”を見ている　　？
         choices:
@@ -574,7 +545,6 @@ tracks:
     songTitle: （「テーマ・オブ・カーテンファイアーシューターズ」 -History 2/3- と同様のものは省略）
     questions:
       - id: dyj-16-26-q1
-        prompt: ''
         target: 記事
         display: 『記事』を求め東奔西走。妖怪の山で神遊び。
         choices:
@@ -590,9 +560,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-16-26-q2
-        prompt: 記事（ネタ）
         target: を求め東奔西走
-        display: 記事『を求め東奔西走』。妖怪の山で神遊び。
+        display: 記事（ネタ）記事『を求め東奔西走』。妖怪の山で神遊び。
         choices:
           - あやややや
           - あらゆるかたち
@@ -606,9 +575,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-16-26-q3
-        prompt: 記事（ネタ）を求め東奔西走（あやややや）。
         target: 妖怪
-        display: 記事を求め東奔西走。『妖怪』の山で神遊び。
+        display: 記事（ネタ）を求め東奔西走（あやややや）。記事を求め東奔西走。『妖怪』の山で神遊び。
         choices:
           - あやかし
           - だれ

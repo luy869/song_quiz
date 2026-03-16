@@ -10,7 +10,6 @@ tracks:
     songTitle: ロストドリーム・ジェネレーションズ
     questions:
       - id: dyj-11-01-q1
-        prompt: ''
         target: 偽りの幻
         display: 『偽りの幻』でしか、無かったのか？
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 幻想（ゆめ）*3
     questions:
       - id: dyj-11-02-q1
-        prompt: 「
         target: Voyager
         display: 「『Voyager』」として旅立つことを、
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: be your shield
     questions:
       - id: dyj-11-03-q1
-        prompt: ''
         target: 幽
         display: 『幽』き、覚悟一つ
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: スターゲイザー
     questions:
       - id: dyj-11-04-q1
-        prompt: 「
         target: 無限拡散
         display: 「『無限拡散』」は「到達可能性」を反古にして、
         choices:
@@ -86,9 +82,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-11-04-q2
-        prompt: 「無限拡散（はてしなさ）」は「
         target: 到達可能性
-        display: 「無限拡散」は「『到達可能性』」を反古にして、
+        display: 「無限拡散（はてしなさ）」は「「無限拡散」は「『到達可能性』」を反古にして、
         choices:
           - このせかい
           - たぬきやろう
@@ -102,7 +97,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-11-04-q3
-        prompt: ならばと、睨みつけるのは、「
         target: スターゲイザー
         display: ならばと、睨みつけるのは、「『スターゲイザー』」たるわたし。
         choices:
@@ -122,7 +116,6 @@ tracks:
     songTitle: 二色蝶
     questions:
       - id: dyj-11-05-q1
-        prompt: 思えば、
         target: 意味のない生涯
         display: 思えば、『意味のない生涯』。
         choices:
@@ -142,7 +135,6 @@ tracks:
     songTitle: 視界に広がった光景（けしき）は、
     questions:
       - id: dyj-11-06-q1
-        prompt: ''
         target: 我々
         display: 『我々』にはけして揮わぬ力の所作。
         choices:
@@ -162,7 +154,6 @@ tracks:
     songTitle: 其方（おまえ）
     questions:
       - id: dyj-11-07-q1
-        prompt: ''
         target: 重なる姿に幻想
         display: 『重なる姿に幻想』を見たか。
         choices:
@@ -182,7 +173,6 @@ tracks:
     songTitle: 想いを吼える物怪（もの）を祓うように。
     questions:
       - id: dyj-11-08-q1
-        prompt: その全てを以って、
         target: この身をただの幻想
         display: その全てを以って、『この身をただの幻想』と帰せ。
         choices:
@@ -202,7 +192,6 @@ tracks:
     songTitle: ＜正調＞佐渡の二ッ岩
     questions:
       - id: dyj-11-09-q1
-        prompt: ''
         target: ハァ旧友
         display: 『ハァ旧友』の頼みと 言うからにゃ
         choices:
@@ -222,7 +211,6 @@ tracks:
     songTitle: 一夜之夢
     questions:
       - id: dyj-11-10-q1
-        prompt: ''
         target: 吐息
         display: 『吐息』混じりの戯れ。
         choices:
@@ -242,7 +230,6 @@ tracks:
     songTitle: 等と嘯（うそぶ）けば、
     questions:
       - id: dyj-11-11-q1
-        prompt: ''
         target: そんな権力
         display: 『そんな権力』を手にしながら
         choices:
@@ -262,7 +249,6 @@ tracks:
     songTitle: この肢体（からだ）一つに
     questions:
       - id: dyj-11-12-q1
-        prompt: ''
         target: 如何なる強者
         display: 『如何なる強者』でさえ
         choices:

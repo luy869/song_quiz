@@ -10,7 +10,6 @@ tracks:
     songTitle: 月の歌
     questions:
       - id: dyj-31-01-q1
-        prompt: ''
         target: 月光色
         display: 『月光色』の
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 黒滔々（こくとうとう）と
     questions:
       - id: dyj-31-02-q1
-        prompt: ''
         target: 光
         display: 『光』
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: コレクターズ・ハイ
     questions:
       - id: dyj-31-03-q1
-        prompt: ''
         target: 法則
         display: 『法則』に
         choices:
@@ -66,7 +63,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-31-03-q2
-        prompt: ''
         target: “目的
         display: 『“目的』”は“手段”
         choices:
@@ -82,9 +78,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-31-03-q3
-        prompt: “目的（goal）
         target: ”は“手段
-        display: “目的『”は“手段』”
+        display: “目的（goal）“目的『”は“手段』”
         choices:
           - ライトスピード
           - start

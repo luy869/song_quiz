@@ -10,7 +10,6 @@ tracks:
     songTitle: 少女飛翔曲　～ Everlasting Longing
     questions:
       - id: dyj-18-01-q1
-        prompt: ''
         target: 与えられた“妖怪退治
         display: 『与えられた“妖怪退治』”を
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 飛翔（と）んで
     questions:
       - id: dyj-18-02-q1
-        prompt: 楽しそうに
         target: 弾幕
         display: 楽しそうに 『弾幕』ぶのか
         choices:
@@ -46,7 +44,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-18-02-q2
-        prompt: 「
         target: 零
         display: 「『零』」で「無」で
         choices:
@@ -62,9 +59,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-18-02-q3
-        prompt: 「零（まっさら）」で「
         target: 無
-        display: 「零」で「『無』」で
+        display: 「零（まっさら）」で「「零」で「『無』」で
         choices:
           - からっぽ
           - ことば
@@ -82,7 +78,6 @@ tracks:
     songTitle: それでも あの時みたいに飛翔（と）んでいられるのか？
     questions:
       - id: dyj-18-03-q1
-        prompt: ''
         target: 弾幕
         display: 『弾幕』んだ
         choices:
@@ -98,7 +93,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-18-03-q2
-        prompt: ''
         target: 全てを忘れ飛翔
         display: 『全てを忘れ飛翔』んでいた。
         choices:
@@ -118,7 +112,6 @@ tracks:
     songTitle: true outsiders
     questions:
       - id: dyj-18-04-q1
-        prompt: 「
         target: 好奇心
         display: 「『好奇心』」　　幻想の種を芽吹かせて。
         choices:
@@ -138,7 +131,6 @@ tracks:
     songTitle: 「探求心（inquiry）」　　幻想の種を芽吹かせて。
     questions:
       - id: dyj-18-05-q1
-        prompt: ''
         target: 見知った天地
         display: 『見知った天地』を振り捨てて
         choices:
@@ -158,7 +150,6 @@ tracks:
     songTitle: カ-210号の嘆き
     questions:
       - id: dyj-18-06-q1
-        prompt: ''
         target: そうして同輩
         display: 『そうして同輩』に失望して
         choices:
@@ -178,7 +169,6 @@ tracks:
     songTitle: Qua, Qua（そうなのです、そうなのです）
     questions:
       - id: dyj-18-07-q1
-        prompt: 「
         target: 哀れな河童
         display: 「『哀れな河童』」の怒声が木魂する
         choices:
@@ -194,9 +184,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-18-07-q2
-        prompt: 「哀れな河童（210ごう）」
         target: の怒声
-        display: 「哀れな河童」『の怒声』が木魂する
+        display: 「哀れな河童（210ごう）」「哀れな河童」『の怒声』が木魂する
         choices:
           - まがうた
           - おはなし
@@ -214,7 +203,6 @@ tracks:
     songTitle: はじまりのワイゲルト
     questions:
       - id: dyj-18-08-q1
-        prompt: 「
         target: 黒き瞳子
         display: 「　　『黒き瞳子』をや 持ちたらん君には。」
         choices:
@@ -234,7 +222,6 @@ tracks:
     songTitle: 黒き瞳子（ひとみ）の子
     questions:
       - id: dyj-18-09-q1
-        prompt: ''
         target: 幻想
         display: 『幻想』を
         choices:
@@ -254,7 +241,6 @@ tracks:
     songTitle: プリズムリバー練習曲第一番
     questions:
       - id: dyj-18-10-q1
-        prompt: 私の魔法
         target: 皆の音楽
         display: 私の魔法 『皆の音楽』
         choices:
@@ -274,7 +260,6 @@ tracks:
     songTitle: 【con amore】（優しく愛を込めるように奏でて）
     questions:
       - id: dyj-18-11-q1
-        prompt: ''
         target: はじめての練習曲
         display: 『はじめての練習曲』を
         choices:
@@ -294,7 +279,6 @@ tracks:
     songTitle: A transient faith
     questions:
       - id: dyj-18-12-q1
-        prompt: 「
         target: 儚き信仰
         display: 「『儚き信仰』」に縋りながら
         choices:
@@ -314,7 +298,6 @@ tracks:
     songTitle: ハロー、マイフレンド。
     questions:
       - id: dyj-18-13-q1
-        prompt: ''
         target: たとえあなたが瑣末な虚構
         display: 『たとえあなたが瑣末な虚構』でも
         choices:
@@ -334,7 +317,6 @@ tracks:
     songTitle: 「私の明日（せかい）」はここにしかないから
     questions:
       - id: dyj-18-14-q1
-        prompt: 「
         target: あなたの全て
         display: 「『あなたの全て』」はここにあるから
         choices:

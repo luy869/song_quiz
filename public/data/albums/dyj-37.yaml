@@ -10,7 +10,6 @@ tracks:
     songTitle: 咲き損ないの花
     questions:
       - id: dyj-37-01-q1
-        prompt: ''
         target: とても過酷な遊戯
         display: 『とても過酷な遊戯』だって
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 盤上（うえ）に登りもしない
     questions:
       - id: dyj-37-02-q1
-        prompt: ''
         target: 歌の一つも唱
         display: 『歌の一つも唱』わずに
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: 星空に消ゆ
     questions:
       - id: dyj-37-03-q1
-        prompt: ''
         target: 幻想
         display: 『幻想』
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: 霧の中の怪異
     questions:
       - id: dyj-37-04-q1
-        prompt: ''
         target: 幻聴
         display: 『幻聴』いたなら
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: 幻視（み）えたなら
     questions:
       - id: dyj-37-05-q1
-        prompt: ''
         target: 白闇
         display: 『白闇』に気配だけを残して
         choices:
@@ -110,7 +105,6 @@ tracks:
     songTitle: 鏡面に罅（ひび）だけを残して
     questions:
       - id: dyj-37-06-q1
-        prompt: ''
         target: 逝先
         display: 『逝先』は　闇の中へ
         choices:
@@ -130,7 +124,6 @@ tracks:
     songTitle: weary monster
     questions:
       - id: dyj-37-07-q1
-        prompt: ''
         target: その手はこれで幾度幾度
         display: 『その手はこれで幾度幾度』も血に濡れたか
         choices:
@@ -150,7 +143,6 @@ tracks:
     songTitle: まぼろしの友達
     questions:
       - id: dyj-37-08-q1
-        prompt: ''
         target: 陽
         display: 『陽』が消えて赤く
         choices:
@@ -170,7 +162,6 @@ tracks:
     songTitle: 翳（かげ）が消えて暗く
     questions:
       - id: dyj-37-09-q1
-        prompt: ''
         target: 胸中
         display: 『胸中』の思い固く
         choices:
@@ -190,7 +181,6 @@ tracks:
     songTitle: わたしの躯（からだ）は
     questions:
       - id: dyj-37-10-q1
-        prompt: ''
         target: 目惚
         display: 『目惚』ろしに
         choices:
@@ -206,7 +196,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-37-10-q2
-        prompt: ''
         target: 思い詰めて気が逸
         display: 『思い詰めて気が逸』って
         choices:
@@ -226,7 +215,6 @@ tracks:
     songTitle: 私の愛したＱ
     questions:
       - id: dyj-37-11-q1
-        prompt: ''
         target: Ｑう
         display: 『Ｑう』
         choices:
@@ -246,7 +234,6 @@ tracks:
     songTitle: SeleＱtion
     questions:
       - id: dyj-37-12-q1
-        prompt: ''
         target: Ｑぶ
         display: 『Ｑぶ』
         choices:
@@ -262,7 +249,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-37-12-q2
-        prompt: ''
         target: 貴女が刻む≪記録≫
         display: 『貴女が刻む≪記録≫』
         choices:

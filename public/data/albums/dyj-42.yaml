@@ -10,7 +10,6 @@ tracks:
     songTitle: Something Shiny
     questions:
       - id: dyj-42-01-q1
-        prompt: ''
         target: それはいつしか唱え始めた魔法
         display: 『それはいつしか唱え始めた魔法』
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 彩られ開いた世界に根差す幻想（ファンタジック）
     questions:
       - id: dyj-42-02-q1
-        prompt: ''
         target: 少女
         display: 『少女』の形に切り取られた残影に
         choices:
@@ -46,7 +44,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-02-q2
-        prompt: ''
         target: けして消えない一条の閃光
         display: 『けして消えない一条の閃光』がごとくに
         choices:
@@ -66,7 +63,6 @@ tracks:
     songTitle: 甘くて脆い砂糖菓子の弾幕（だんがん）で
     questions:
       - id: dyj-42-03-q1
-        prompt: ''
         target: 届かない世界に手を伸ばす魔法
         display: 『届かない世界に手を伸ばす魔法』
         choices:
@@ -86,7 +82,6 @@ tracks:
     songTitle: 単純明快　理知聡明　力強き論理（ロジック）
     questions:
       - id: dyj-42-04-q1
-        prompt: ''
         target: たとえば空に広がる天の川
         display: 『たとえば空に広がる天の川』
         choices:
@@ -106,7 +101,6 @@ tracks:
     songTitle: 知って拓（ひら）けるそれこそ未踏の地平
     questions:
       - id: dyj-42-05-q1
-        prompt: ''
         target: 降り積もる感情
         display: 『降り積もる感情』の果てに
         choices:
@@ -126,7 +120,6 @@ tracks:
     songTitle: 『かがやいて？』（スパークリー？）
     questions:
       - id: dyj-42-06-q1
-        prompt: ''
         target: いくぜ誰より革新的に
         display: 『いくぜ誰より革新的に』
         choices:
@@ -146,7 +139,6 @@ tracks:
     songTitle: 『活き活きと？』（ライブリー？）
     questions:
       - id: dyj-42-07-q1
-        prompt: ''
         target: なべて基本は身体の問題
         display: 『なべて基本は身体の問題』
         choices:
@@ -166,7 +158,6 @@ tracks:
     songTitle: 『夢見るように？』（ドリーミー？）
     questions:
       - id: dyj-42-08-q1
-        prompt: ''
         target: 全て叶える魔法
         display: 『全て叶える魔法』
         choices:
@@ -186,7 +177,6 @@ tracks:
     songTitle: 『より近づいて？』（クロースリー？）
     questions:
       - id: dyj-42-09-q1
-        prompt: ''
         target: 帽子
         display: 『帽子』も靴も髪型もリボンも
         choices:
@@ -202,9 +192,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-09-q2
-        prompt: 帽子（これ）
         target: も靴
-        display: 帽子『も靴』も髪型もリボンも
+        display: 帽子（これ）帽子『も靴』も髪型もリボンも
         choices:
           - これ
           - ことば
@@ -218,9 +207,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-09-q3
-        prompt: 帽子（これ）も靴（これ）
         target: も髪型
-        display: 帽子も靴『も髪型』もリボンも
+        display: 帽子（これ）も靴（これ）帽子も靴『も髪型』もリボンも
         choices:
           - これ
           - ありかた
@@ -234,9 +222,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-09-q4
-        prompt: 帽子（これ）も靴（これ）も髪型（これ）
         target: もリボン
-        display: 帽子も靴も髪型『もリボン』も
+        display: 帽子（これ）も靴（これ）も髪型（これ）帽子も靴も髪型『もリボン』も
         choices:
           - しょうぶ
           - これ
@@ -250,7 +237,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-09-q5
-        prompt: ''
         target: その他色んな小物
         display: 『その他色んな小物』も！
         choices:
@@ -270,7 +256,6 @@ tracks:
     songTitle: 規則（ルール）有用
     questions:
       - id: dyj-42-10-q1
-        prompt: ''
         target: そうだ私
         display: 『そうだ私』！
         choices:
@@ -290,7 +275,6 @@ tracks:
     songTitle: 『必死に？』（デッドリー？）
     questions:
       - id: dyj-42-11-q1
-        prompt: ''
         target: 口調
         display: 『口調』も言動も箒も声色も
         choices:
@@ -306,9 +290,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-11-q2
-        prompt: 口調（これ）
         target: も言動
-        display: 口調『も言動』も箒も声色も
+        display: 口調（これ）口調『も言動』も箒も声色も
         choices:
           - ひとのこころ
           - これ
@@ -322,9 +305,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-11-q3
-        prompt: 口調（これ）も言動（これ）
         target: も箒
-        display: 口調も言動『も箒』も声色も
+        display: 口調（これ）も言動（これ）口調も言動『も箒』も声色も
         choices:
           - すべて
           - あらわ
@@ -338,9 +320,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-11-q4
-        prompt: 口調（これ）も言動（これ）も箒（これ）
         target: も声色
-        display: 口調も言動も箒『も声色』も
+        display: 口調（これ）も言動（これ）も箒（これ）口調も言動も箒『も声色』も
         choices:
           - これ
           - ゆうしゃ
@@ -354,7 +335,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-11-q5
-        prompt: ''
         target: その他いろんな白黒仕草
         display: 『その他いろんな白黒仕草』も！
         choices:
@@ -374,7 +354,6 @@ tracks:
     songTitle: つみあがっていく役割演技（ロール）が
     questions:
       - id: dyj-42-12-q1
-        prompt: ''
         target: 自則
         display: 『自則』有用
         choices:
@@ -394,7 +373,6 @@ tracks:
     songTitle: 法則（ルール）無用
     questions:
       - id: dyj-42-13-q1
-        prompt: ''
         target: そもそも見渡せば右も左も反則
         display: 『そもそも見渡せば右も左も反則』ばっか
         choices:
@@ -414,7 +392,6 @@ tracks:
     songTitle: But all that glitters
     questions:
       - id: dyj-42-14-q1
-        prompt: ''
         target: 滲む視界の片隅にいつも幻視
         display: 『滲む視界の片隅にいつも幻視』続けている
         choices:
@@ -434,7 +411,6 @@ tracks:
     songTitle: それさえも判然としない迷宮（ラビリンス）
     questions:
       - id: dyj-42-15-q1
-        prompt: ''
         target: 世界に法則
         display: 『世界に法則』をひとつだけ書き足せるとしたら
         choices:
@@ -454,7 +430,6 @@ tracks:
     songTitle: Super Light Shooter
     questions:
       - id: dyj-42-16-q1
-        prompt: ''
         target: 魑魅魍魎
         display: 『魑魅魍魎』手ぐすね引いてこんばんは
         choices:
@@ -474,7 +449,6 @@ tracks:
     songTitle: 夜を告げる号砲（おと）
     questions:
       - id: dyj-42-17-q1
-        prompt: そうだ　いつだって
         target: モノを言わせるのは火力
         display: そうだ　いつだって　『モノを言わせるのは火力』
         choices:
@@ -494,7 +468,6 @@ tracks:
     songTitle: 夜を貫いて奔（はし）れ　我が頼みの魔砲
     questions:
       - id: dyj-42-18-q1
-        prompt: ''
         target: 来る狂
         display: 『来る狂』る　全てが痺れていく
         choices:
@@ -510,7 +483,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-18-q2
-        prompt: ''
         target: 遠く遠く夜の深底
         display: 『遠く遠く夜の深底』へ
         choices:
@@ -526,7 +498,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-42-18-q3
-        prompt: そうさ　いつだって
         target: 最短距離で行くぜ光速
         display: そうさ　いつだって　『最短距離で行くぜ光速』
         choices:

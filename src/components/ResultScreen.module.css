@@ -22,6 +22,31 @@
     font-family: 'Noto Serif JP', serif;
 }
 
+/* New record badge */
+.newRecord {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #f0d090;
+    background: linear-gradient(135deg, rgba(240, 208, 144, 0.15), rgba(184, 144, 74, 0.15));
+    border: 1px solid rgba(240, 208, 144, 0.4);
+    border-radius: 999px;
+    padding: 6px 24px;
+    animation: popIn 0.5s ease both;
+    animation-delay: 0.3s;
+    opacity: 0;
+}
+
+.prevBest {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+}
+
+.bestInfo {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+}
+
 .scoreCard {
     width: 100%;
     background: var(--bg-card);

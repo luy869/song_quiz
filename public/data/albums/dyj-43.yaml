@@ -10,7 +10,6 @@ tracks:
     songTitle: 幻燈
     questions:
       - id: dyj-43-01-q1
-        prompt: ''
         target: 幻燈
         display: 『幻燈』
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 「　」（けしてかえすすべなきことば）と
     questions:
       - id: dyj-43-02-q1
-        prompt: ''
         target: 何を言伝
         display: 『何を言伝』おうか。
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: 自由への賛歌
     questions:
       - id: dyj-43-03-q1
-        prompt: ''
         target: “自由”
         display: 『“自由”』になる。
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: “無心”（かぜ）になる。
     questions:
       - id: dyj-43-04-q1
-        prompt: ''
         target: “最速”
         display: 『“最速”』になる。
         choices:
@@ -86,7 +82,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-43-04-q2
-        prompt: ''
         target: 踏み入るような取材
         display: 『踏み入るような取材』で、
         choices:
@@ -106,7 +101,6 @@ tracks:
     songTitle: 記事にもならぬ“所感”（おもうところ）をやたらめったらぶつけられては
     questions:
       - id: dyj-43-05-q1
-        prompt: ''
         target: “空白”
         display: 『“空白”』になる。
         choices:
@@ -126,7 +120,6 @@ tracks:
     songTitle: “幻想”（かぜ）になる。
     questions:
       - id: dyj-43-06-q1
-        prompt: ''
         target: “私”
         display: 『“私”』になる。
         choices:
@@ -146,7 +139,6 @@ tracks:
     songTitle: everlasting ember
     questions:
       - id: dyj-43-07-q1
-        prompt: その身体
         target: 奥底に抱えてる熾火
         display: その身体　『奥底に抱えてる熾火』が為に
         choices:
@@ -166,7 +158,6 @@ tracks:
     songTitle: in／疎夢／near
     questions:
       - id: dyj-43-08-q1
-        prompt: ''
         target: 疎
         display: 『疎』り疎り夢の侭
         choices:
@@ -182,9 +173,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-43-08-q2
-        prompt: 疎（ひと）
         target: り疎
-        display: 疎『り疎』り夢の侭
+        display: 疎（ひと）疎『り疎』り夢の侭
         choices:
           - みんな
           - いろ
@@ -202,7 +192,6 @@ tracks:
     songTitle: ＊＊＊（わたし）
     questions:
       - id: dyj-43-09-q1
-        prompt: ''
         target: わたし／私／自分
         display: 『わたし／私／自分』だけ
         choices:
@@ -222,7 +211,6 @@ tracks:
     songTitle: Unforgivable;Nefarious;Overlaid;Warped;Erratic;Noxious;Girl
     questions:
       - id: dyj-43-10-q1
-        prompt: ''
         target: ≪禁忌≫
         display: 『≪禁忌≫』に触れる。
         choices:
@@ -242,7 +230,6 @@ tracks:
     songTitle: 独りぼっちの“魔法少女”（フランドール）
     questions:
       - id: dyj-43-11-q1
-        prompt: その魔法は、
         target: ≪破壊≫
         display: その魔法は、『≪破壊≫』ばかりで、
         choices:
@@ -262,7 +249,6 @@ tracks:
     songTitle: 『有害』（のろわしい）
     questions:
       - id: dyj-43-12-q1
-        prompt: ''
         target: そもそも≪禁忌≫
         display: 『そもそも≪禁忌≫』という言葉の意味が、
         choices:
@@ -278,7 +264,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-43-12-q2
-        prompt: 「どうして。
         target: “コンテニュー”
         display: 「どうして。『“コンテニュー”』すの？　終わった物語を？
         choices:
@@ -294,9 +279,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-43-12-q3
-        prompt: 「どうして。“コンテニュー”（やりなお）すの？
         target: 終わった物語
-        display: 「どうして。“コンテニュー”すの？　『終わった物語』を？
+        display: 「どうして。“コンテニュー”（やりなお）すの？「どうして。“コンテニュー”すの？　『終わった物語』を？
         choices:
           - おはなし
           - て
@@ -314,7 +298,6 @@ tracks:
     songTitle: 独りぼっちの“幻想少女”（フランドール）
     questions:
       - id: dyj-43-13-q1
-        prompt: どれほどの罪を重ね　変わらないの　“増え続けるの！？
         target: ”
         display: どれほどの罪を重ね　変わらないの　“増え続けるの！？『”』
         choices:
@@ -334,7 +317,6 @@ tracks:
     songTitle: A Fantastic Story
     questions:
       - id: dyj-43-14-q1
-        prompt: ''
         target: 偉大なる音と幻聴
         display: 『偉大なる音と幻聴』く
         choices:
@@ -354,7 +336,6 @@ tracks:
     songTitle: 漂（なが）れ着き　その縁もう
     questions:
       - id: dyj-43-15-q1
-        prompt: ''
         target: 薄れたおもいの消えゆくその涯
         display: 『薄れたおもいの消えゆくその涯』て
         choices:

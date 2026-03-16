@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react';
 import './App.css';
-import { loadAlbumIndex, loadAlbumData } from './utils/loadQuiz';
+import { loadAlbumIndex, loadAlbumData, loadAllAlbumData } from './utils/loadQuiz';
+import { buildQuizQuestions, shuffleArray } from './utils/quizBuilder';
+import { loadHistory, saveResult, saveRandomResult } from './utils/scoreHistory';
 import StartScreen from './components/StartScreen';
 import QuizScreen from './components/QuizScreen';
 import ResultScreen from './components/ResultScreen';
@@ -8,13 +10,29 @@ import ResultScreen from './components/ResultScreen';
 const SCREEN = { START: 'start', QUIZ: 'quiz', RESULT: 'result' };
 
 export default function App() {
-  const [albumIndex, setAlbumIndex] = useState([]);  // 全アルバム一覧
-  const [album, setAlbum] = useState(null);           // 選択中のアルバム（tracks含む）
+  const [albumIndex, setAlbumIndex] = useState([]);
+  const [album, setAlbum] = useState(null);
   const [screen, setScreen] = useState(SCREEN.START);
   const [score, setScore] = useState(0);
   const [quizKey, setQuizKey] = useState(0);
   const [loading, setLoading] = useState(true);
+  const [loadingMsg, setLoadingMsg] = useState('');
   const [error, setError] = useState(null);
+
+  // Phase 1: スコア履歴
+  const [history, setHistory] = useState(() => loadHistory());
+  const [bestPct, setBestPct] = useState(null);
+  const [prevBestPct, setPrevBestPct] = useState(null);
+  const [isNewRecord, setIsNewRecord] = useState(false);
+
+  // Phase 2: クイズモード & 質問配列
+  const [quizMode, setQuizMode] = useState('album');
+  const [questions, setQuestions] = useState([]);
+
+  // Phase 3: 入力モード（LocalStorage 永続化）
+  const [inputMode, setInputMode] = useState(
+    () => localStorage.getItem('songQuizInputMode') || 'choice',
+  );
 
   // アルバム一覧を読み込む
   const loadIndex = () => {
@@ -28,12 +46,14 @@ export default function App() {
 
   useEffect(() => { loadIndex(); }, []);
 
-  // アルバム選択 → 詳細データ取得 → クイズ開始
+  // アルバム選択 → 詳細データ取得 → シャッフルして出題
   const handleSelectAlbum = async (albumMeta) => {
     try {
       setLoading(true);
       const data = await loadAlbumData(albumMeta.file);
       setAlbum(data);
+      setQuestions(buildQuizQuestions({ mode: 'album', albumData: data }));
+      setQuizMode('album');
       setScore(0);
       setQuizKey((k) => k + 1);
       setScreen(SCREEN.QUIZ);
@@ -44,17 +64,50 @@ export default function App() {
     }
   };
 
-  const getTotalQuestions = (album) => {
-    if (!album || !album.tracks) return 0;
-    return album.tracks.reduce((sum, track) => sum + (track.questions?.length || 0), 0);
+  // 全アルバム横断クイズ
+  const handleSelectRandom = async (config) => {
+    try {
+      setLoading(true);
+      setLoadingMsg('アルバムを読み込み中...');
+      const allData = await loadAllAlbumData(albumIndex, (loaded, total) => {
+        setLoadingMsg(`${loaded}/${total} アルバム読み込み中...`);
+      });
+      setQuestions(buildQuizQuestions({ mode: 'random', allAlbumsData: allData, config }));
+      setQuizMode('random');
+      setAlbum(null);
+      setScore(0);
+      setQuizKey((k) => k + 1);
+      setScreen(SCREEN.QUIZ);
+    } catch (e) {
+      setError(e.message);
+    } finally {
+      setLoading(false);
+      setLoadingMsg('');
+    }
   };
 
   const handleFinish = (finalScore) => {
+    const total = questions.length;
+    let result;
+    if (quizMode === 'random') {
+      result = saveRandomResult(finalScore, total);
+    } else {
+      result = saveResult(album.id, finalScore, total);
+    }
     setScore(finalScore);
+    setBestPct(result.bestPct);
+    setPrevBestPct(result.prevBestPct);
+    setIsNewRecord(result.isNewRecord);
+    setHistory(loadHistory());
     setScreen(SCREEN.RESULT);
   };
 
   const handleRetry = () => {
+    if (quizMode === 'album' && album) {
+      setQuestions(buildQuizQuestions({ mode: 'album', albumData: album }));
+    } else {
+      setQuestions(shuffleArray(questions));
+    }
     setScore(0);
     setQuizKey((k) => k + 1);
     setScreen(SCREEN.QUIZ);
@@ -66,10 +119,15 @@ export default function App() {
     setScreen(SCREEN.START);
   };
 
+  const handleInputModeChange = (mode) => {
+    setInputMode(mode);
+    localStorage.setItem('songQuizInputMode', mode);
+  };
+
   if (loading) {
     return (
       <div className="app app--center">
-        読み込み中...
+        {loadingMsg || '読み込み中...'}
       </div>
     );
   }
@@ -89,13 +147,19 @@ export default function App() {
         <StartScreen
           key="start"
           albums={albumIndex}
+          history={history}
+          inputMode={inputMode}
           onSelectAlbum={handleSelectAlbum}
+          onSelectRandom={handleSelectRandom}
+          onInputModeChange={handleInputModeChange}
         />
       )}
-      {screen === SCREEN.QUIZ && album && (
+      {screen === SCREEN.QUIZ && questions.length > 0 && (
         <QuizScreen
           key={quizKey}
-          album={album}
+          questions={questions}
+          quizMode={quizMode}
+          inputMode={inputMode}
           onFinish={handleFinish}
         />
       )}
@@ -103,7 +167,10 @@ export default function App() {
         <ResultScreen
           key="result"
           score={score}
-          total={getTotalQuestions(album)}
+          total={questions.length}
+          bestPct={bestPct}
+          prevBestPct={prevBestPct}
+          isNewRecord={isNewRecord}
           onRetry={handleRetry}
           onHome={handleHome}
         />

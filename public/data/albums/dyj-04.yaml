@@ -10,7 +10,6 @@ tracks:
     songTitle: カレイドスコープ
     questions:
       - id: dyj-04-01-q1
-        prompt: ''
         target: 絡み合う指と指の間
         display: 『絡み合う指と指の間』から
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 二色以上の彩（いろ）を魅せてよ
     questions:
       - id: dyj-04-02-q1
-        prompt: ''
         target: 何も理解
         display: 『何も理解』らない、言葉だけじゃ
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: けして容（かたち）を為さない
     questions:
       - id: dyj-04-03-q1
-        prompt: ''
         target: 何も認識
         display: 『何も認識』えない、言葉だけじゃ
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: それでも館は廻っている
     questions:
       - id: dyj-04-04-q1
-        prompt: ''
         target: それは優美
         display: 『それは優美』
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: そして謙遜（modesty）
     questions:
       - id: dyj-04-05-q1
-        prompt: ''
         target: あとは少しばかりの諧謔
         display: 『あとは少しばかりの諧謔』
         choices:
@@ -110,7 +105,6 @@ tracks:
     songTitle: 絶対的一方通行
     questions:
       - id: dyj-04-06-q1
-        prompt: ''
         target: 理解
         display: 『理解』るな。探るな。
         choices:
@@ -126,7 +120,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-04-06-q2
-        prompt: ''
         target: 忘れられた世界が顕現
         display: 『忘れられた世界が顕現』れる
         choices:
@@ -142,7 +135,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-04-06-q3
-        prompt: ''
         target: 行きはよくても帰りはもう幻想入り
         display: 『行きはよくても帰りはもう幻想入り』。
         choices:
@@ -162,7 +154,6 @@ tracks:
     songTitle: ヒメゴトクラブ
     questions:
       - id: dyj-04-07-q1
-        prompt: ''
         target: 秘
         display: 『秘』に封を
         choices:
@@ -178,7 +169,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-04-07-q2
-        prompt: ''
         target: 現実
         display: 『現実』と夢想
         choices:
@@ -194,9 +184,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-04-07-q3
-        prompt: 現実（reality）
         target: と夢想
-        display: 現実『と夢想』
+        display: 現実（reality）現実『と夢想』
         choices:
           - imaginary
           - さんげつうららちてらす
@@ -214,7 +203,6 @@ tracks:
     songTitle: 怪奇（uncanny）な幻想（fantasy）
     questions:
       - id: dyj-04-08-q1
-        prompt: ねぇ、
         target: 聞かせてよ嬌声
         display: ねぇ、『聞かせてよ嬌声』を
         choices:

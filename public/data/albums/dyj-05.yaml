@@ -10,7 +10,6 @@ tracks:
     songTitle: スターシーカー
     questions:
       - id: dyj-05-01-q1
-        prompt: ''
         target: 甘い星型弾
         display: 『甘い星型弾』のように魅力的で
         choices:
@@ -26,7 +25,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-05-01-q2
-        prompt: はては“Where no man has gone
         target: before.
         display: はては“Where no man has gone 『before.』”
         choices:
@@ -46,7 +44,6 @@ tracks:
     songTitle: Peaceful Distance
     questions:
       - id: dyj-05-02-q1
-        prompt: 遠く続く、
         target: 空間の残響
         display: 遠く続く、『空間の残響』。
         choices:

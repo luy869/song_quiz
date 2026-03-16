@@ -10,7 +10,6 @@ tracks:
     songTitle: Subhuman
     questions:
       - id: dyj-36-01-q1
-        prompt: ''
         target: 業風
         display: 『業風』に身を曝して
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 倫（みち）
     questions:
       - id: dyj-36-02-q1
-        prompt: ''
         target: 幸
         display: 『幸』
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: それが感情（おもい）が侭
     questions:
       - id: dyj-36-03-q1
-        prompt: ''
         target: 殃
         display: 『殃』
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: 輝かしきその掟
     questions:
       - id: dyj-36-04-q1
-        prompt: ''
         target: 饗宴
         display: 『饗宴』の始まる兆しよ　餐・餐・餐
         choices:
@@ -86,9 +82,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-36-04-q2
-        prompt: 饗宴（うたげ）の始まる兆しよ
         target: 餐・餐・餐
-        display: 饗宴の始まる兆しよ　『餐・餐・餐』
+        display: 饗宴（うたげ）の始まる兆しよ饗宴の始まる兆しよ　『餐・餐・餐』
         choices:
           - レアリティ
           - かばね
@@ -106,7 +101,6 @@ tracks:
     songTitle: 勁（つよ）く疾（と）く風のごとく
     questions:
       - id: dyj-36-05-q1
-        prompt: 血綯え
         target: 血戯
         display: 血綯え　『血戯』え
         choices:
@@ -122,7 +116,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-36-05-q2
-        prompt: 四肢毎
         target: 血戯
         display: 四肢毎　『血戯』り奪れ
         choices:
@@ -138,9 +131,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-36-05-q3
-        prompt: 四肢毎　血戯（ちぎ）
         target: り奪
-        display: 四肢毎　血戯『り奪』れ
+        display: 四肢毎　血戯（ちぎ）四肢毎　血戯『り奪』れ
         choices:
           - つき
           - ごみくず
@@ -158,7 +150,6 @@ tracks:
     songTitle: 迅（はや）さこそが全てよ
     questions:
       - id: dyj-36-06-q1
-        prompt: ''
         target: さあさ馨
         display: 『さあさ馨』しく薫れよ　慟・慟・慟
         choices:
@@ -174,9 +165,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-36-06-q2
-        prompt: さあさ馨（かぐわ）しく薫れよ
         target: 慟・慟・慟
-        display: さあさ馨しく薫れよ　『慟・慟・慟』
+        display: さあさ馨（かぐわ）しく薫れよさあさ馨しく薫れよ　『慟・慟・慟』
         choices:
           - どう・どう・どう
           - コヒーレント
@@ -194,7 +184,6 @@ tracks:
     songTitle: 抗うこと術なき法（ロー）
     questions:
       - id: dyj-36-07-q1
-        prompt: ''
         target: 灰燼
         display: 『灰燼』に暴力を為して
         choices:
@@ -210,7 +199,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-36-07-q2
-        prompt: ''
         target: なら当然そのままその身は破られ弄
         display: 『なら当然そのままその身は破られ弄』られ叫ぶだけ
         choices:
@@ -230,7 +218,6 @@ tracks:
     songTitle: 呪い狂える魂の歌
     questions:
       - id: dyj-36-08-q1
-        prompt: ''
         target: 哉
         display: 『哉』
         choices:
@@ -250,7 +237,6 @@ tracks:
     songTitle: 国（ともがら）
     questions:
       - id: dyj-36-09-q1
-        prompt: ''
         target: その頸
         display: 『その頸』括られても
         choices:
@@ -270,7 +256,6 @@ tracks:
     songTitle: salvator noster
     questions:
       - id: dyj-36-10-q1
-        prompt: ''
         target: 頸
         display: 『頸』
         choices:
@@ -290,7 +275,6 @@ tracks:
     songTitle: その光芒（ひかり）に
     questions:
       - id: dyj-36-11-q1
-        prompt: ''
         target: “理想
         display: 『“理想』”の神影を見やれば
         choices:
@@ -306,9 +290,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-36-11-q2
-        prompt: “理想（イドラ）
         target: ”の神影
-        display: “理想『”の神影』を見やれば
+        display: “理想（イドラ）“理想『”の神影』を見やれば
         choices:
           - のぞみ
           - だれひとり
@@ -322,7 +305,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-36-11-q3
-        prompt: 我らが神よ
         target: “理想
         display: 我らが神よ　『“理想』”の神よ
         choices:
@@ -342,7 +324,6 @@ tracks:
     songTitle: 畜生道（けもののみち）を逝くことか
     questions:
       - id: dyj-36-12-q1
-        prompt: ''
         target: 問うは鼎
         display: 『問うは鼎』の軽重
         choices:
@@ -362,7 +343,6 @@ tracks:
     songTitle: 放って　祝（ほう）って
     questions:
       - id: dyj-36-13-q1
-        prompt: ''
         target: 昂
         display: 『昂』って　崇って
         choices:
@@ -378,9 +358,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-36-13-q2
-        prompt: 昂（あが）って
         target: 崇
-        display: 昂って　『崇』って
+        display: 昂（あが）って昂って　『崇』って
         choices:
           - あが
           - おびやかして
@@ -398,7 +377,6 @@ tracks:
     songTitle: 褸（つづ）れ　綴れ
     questions:
       - id: dyj-36-14-q1
-        prompt: ''
         target: 己のうちに支配者
         display: 『己のうちに支配者』の聲を聞いて　　。
         choices:

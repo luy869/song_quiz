@@ -10,7 +10,6 @@ tracks:
     songTitle: カネと楽園とエゴイスト
     questions:
       - id: dyj-32-01-q1
-        prompt: ''
         target: 上昇志向
         display: 『上昇志向』
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: Bloodless Gleaming
     questions:
       - id: dyj-32-02-q1
-        prompt: ''
         target: その小さな肢体
         display: 『その小さな肢体』どこまでが
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: 昂（のぼ）りきったら
     questions:
       - id: dyj-32-03-q1
-        prompt: ''
         target: 色彩
         display: 『色彩』が足りないわ　美しくねもっと
         choices:
@@ -66,7 +63,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-32-03-q2
-        prompt: さあ回されてよ
         target: 狂時計
         display: さあ回されてよ　『狂時計』のまま
         choices:
@@ -86,7 +82,6 @@ tracks:
     songTitle: Fairy Disease
     questions:
       - id: dyj-32-04-q1
-        prompt: ''
         target: どうにも色情
         display: 『どうにも色情』にも匂わさせ
         choices:
@@ -102,7 +97,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-32-04-q2
-        prompt: ''
         target: 瑠璃
         display: 『瑠璃』　玻璃　蒼玉　黒瑪瑙の
         choices:
@@ -118,9 +112,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-32-04-q3
-        prompt: 瑠璃（るり）
         target: 玻璃
-        display: 瑠璃　『玻璃』　蒼玉　黒瑪瑙の
+        display: 瑠璃（るり）瑠璃　『玻璃』　蒼玉　黒瑪瑙の
         choices:
           - こちらがわ
           - ぜったい
@@ -134,9 +127,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-32-04-q4
-        prompt: 瑠璃（るり）　玻璃（はり）
         target: 蒼玉
-        display: 瑠璃　玻璃　『蒼玉』　黒瑪瑙の
+        display: 瑠璃（るり）　玻璃（はり）瑠璃　玻璃　『蒼玉』　黒瑪瑙の
         choices:
           - まぼろし
           - やみ
@@ -150,9 +142,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-32-04-q5
-        prompt: 瑠璃（るり）　玻璃（はり）　蒼玉（そうぎょく）
         target: 黒瑪瑙
-        display: 瑠璃　玻璃　蒼玉　『黒瑪瑙』の
+        display: 瑠璃（るり）　玻璃（はり）　蒼玉（そうぎょく）瑠璃　玻璃　蒼玉　『黒瑪瑙』の
         choices:
           - ハレ
           - オールドアダム
@@ -170,7 +161,6 @@ tracks:
     songTitle: 孤独のイドラ
     questions:
       - id: dyj-32-05-q1
-        prompt: ''
         target: その膚
         display: 『その膚』は土塊
         choices:
@@ -186,7 +176,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-32-05-q2
-        prompt: ''
         target: 方／円／線
         display: 『方／円／線』のもと生み出された偶像
         choices:
@@ -202,9 +191,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-32-05-q3
-        prompt: 方／円／線（あらゆるかたち）
         target: のもと生み出された偶像
-        display: 方／円／線『のもと生み出された偶像』
+        display: 方／円／線（あらゆるかたち）方／円／線『のもと生み出された偶像』
         choices:
           - こいごころ
           - こわす
@@ -222,7 +210,6 @@ tracks:
     songTitle: 「創造（悪魔の所業）」
     questions:
       - id: dyj-32-06-q1
-        prompt: 「
         target: 孤独のイドラ
         display: 「『孤独のイドラ』」
         choices:
@@ -242,7 +229,6 @@ tracks:
     songTitle: 他愛なき噂沓（そんとう）の木霊する果てに
     questions:
       - id: dyj-32-07-q1
-        prompt: ''
         target: 質されることのないただ一つの盲
         display: 『質されることのないただ一つの盲』
         choices:
@@ -262,7 +248,6 @@ tracks:
     songTitle: 劇（ドラマ）は劇（ドラマ）がため疑われはしない。
     questions:
       - id: dyj-32-08-q1
-        prompt: ''
         target: いつか御骸
         display: 『いつか御骸』　越えてみせよう
         choices:
@@ -282,7 +267,6 @@ tracks:
     songTitle: ラストオカルトファンタジー
     questions:
       - id: dyj-32-09-q1
-        prompt: そう
         target: 希少性
         display: そう　『希少性』　優位性　特別の証明よ！
         choices:
@@ -298,9 +282,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-32-09-q2
-        prompt: そう　希少性（レアリティ）
         target: 優位性
-        display: そう　希少性　『優位性』　特別の証明よ！
+        display: そう　希少性（レアリティ）そう　希少性　『優位性』　特別の証明よ！
         choices:
           - レアリティ
           - イドラ
@@ -318,9 +301,8 @@ tracks:
     songTitle: 咲き誇れよ“端末の中の栄華（ゆめまぼろしのはな）”
     questions:
       - id: dyj-32-10-q1
-        prompt: 〈＊さあ、その一回に無数の祈りを込めて！
         target: ＊
-        display: 〈『＊』さあ、その一回に無数の祈りを込めて！＊〉
+        display: 〈＊さあ、その一回に無数の祈りを込めて！〈『＊』さあ、その一回に無数の祈りを込めて！＊〉
         choices:
           - レアリティ
           - ラストオカルトファンタジー
@@ -338,9 +320,8 @@ tracks:
     songTitle: 見知ったような遊戯（ゲーム）の数々
     questions:
       - id: dyj-32-11-q1
-        prompt: ＜＊さあ､その一回に無限の幻想を託して！
         target: ＊
-        display: ＜『＊』さあ､その一回に無限の幻想を託して！＊＞
+        display: ＜＊さあ､その一回に無限の幻想を託して！＜『＊』さあ､その一回に無限の幻想を託して！＊＞
         choices:
           - ルナ・ダイアル
           - ミルキーウェイ
@@ -358,7 +339,6 @@ tracks:
     songTitle: Greedy Girl
     questions:
       - id: dyj-32-12-q1
-        prompt: ''
         target: まるで商人
         display: 『まるで商人』ね
         choices:
@@ -378,7 +358,6 @@ tracks:
     songTitle: でもでも閑古鳥（とり）が鳴いている
     questions:
       - id: dyj-32-13-q1
-        prompt: ''
         target: 少女の綺想曲
         display: 『少女の綺想曲』
         choices:

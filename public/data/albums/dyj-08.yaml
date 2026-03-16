@@ -10,7 +10,6 @@ tracks:
     songTitle: いとおしきものに、うつくしきものに
     questions:
       - id: dyj-08-01-q1
-        prompt: めぐりあわせた、
         target: その叢雲
         display: めぐりあわせた、『その叢雲』の小粋なはからいとしましょう。
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: その命（いろ）戻して、彩を生む。
     questions:
       - id: dyj-08-02-q1
-        prompt: ''
         target: どんな弾幕
         display: 『どんな弾幕』よりも輝きを放てよ。
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: 靴の音を、響かせて、その手を
     questions:
       - id: dyj-08-03-q1
-        prompt: ''
         target: “我一直在这里等着你
         display: 『“我一直在这里等着你』*1”
         choices:

@@ -10,7 +10,6 @@ tracks:
     songTitle: ヒカリ
     questions:
       - id: dyj-07-01-q1
-        prompt: ねぇ、愛しい『
         target: 私の作品
         display: ねぇ、愛しい『『私の作品』』
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: そう、愛しい『私の代替物（Alice）』
     questions:
       - id: dyj-07-02-q1
-        prompt: さぁ、愛しい『
         target: 私の人形
         display: さぁ、愛しい『『私の人形』』
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: A-Yah-YAh-YaH-YAH!
     questions:
       - id: dyj-07-03-q1
-        prompt: ''
         target: 追い求め続けるものは形無き真実
         display: 『追い求め続けるものは形無き真実』
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: 旋風（かぜ）よ！
     questions:
       - id: dyj-07-04-q1
-        prompt: ''
         target: 神風
         display: 『神風』よ！
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: ホンノタビビト
     questions:
       - id: dyj-07-05-q1
-        prompt: ひとつめは、
         target: 魔道書
         display: ひとつめは、『魔道書』。
         choices:
@@ -110,7 +105,6 @@ tracks:
     songTitle: ふたつめは、童話（conte de fée）。
     questions:
       - id: dyj-07-06-q1
-        prompt: みっつめは、
         target: 新聞紙
         display: みっつめは、『新聞紙』。
         choices:
@@ -130,7 +124,6 @@ tracks:
     songTitle: よっつめは、絵本（livre d’images）。
     questions:
       - id: dyj-07-07-q1
-        prompt: ''
         target: 大図書館
         display: 『大図書館』
         choices:
@@ -150,7 +143,6 @@ tracks:
     songTitle: いつつめは、年代記（chronicle）。
     questions:
       - id: dyj-07-08-q1
-        prompt: ''
         target: 私の書斎
         display: 『私の書斎』には欠かせない。
         choices:
@@ -166,7 +158,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-07-08-q2
-        prompt: むっつめは、
         target: 学術論文
         display: むっつめは、『学術論文』。
         choices:
@@ -186,7 +177,6 @@ tracks:
     songTitle: Demon Strundum
     questions:
       - id: dyj-07-09-q1
-        prompt: 「
         target: コンテニュー
         display: 「『コンテニュー』」
         choices:
@@ -206,7 +196,6 @@ tracks:
     songTitle: パラレルスカイ
     questions:
       - id: dyj-07-10-q1
-        prompt: ''
         target: こんな世界
         display: 『こんな世界』と、歩んでゆける。
         choices:
@@ -226,7 +215,6 @@ tracks:
     songTitle: 客星（ほし）の、光を、今、ああ！
     questions:
       - id: dyj-07-11-q1
-        prompt: 古い、
         target: 秘術
         display: 古い、『秘術』を、今、ああ！
         choices:
@@ -246,7 +234,6 @@ tracks:
     songTitle: 御阿礼幻想艶戯譚 -綴-
     questions:
       - id: dyj-07-12-q1
-        prompt: ''
         target: かつて記したる感情
         display: 『かつて記したる感情』をめぐり
         choices:
@@ -266,7 +253,6 @@ tracks:
     songTitle: 一個（ひとり）の「登場人物（ひと）」としながら
     questions:
       - id: dyj-07-13-q1
-        prompt: ''
         target: 綴られる艶戯
         display: 『綴られる艶戯』は、「幻想」とさえ遊離して。
         choices:
@@ -286,7 +272,6 @@ tracks:
     songTitle: 嘘と慟哭
     questions:
       - id: dyj-07-14-q1
-        prompt: ''
         target: 御伽の国の悲恋
         display: 『御伽の国の悲恋』物語
         choices:
@@ -302,7 +287,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-07-14-q2
-        prompt: ''
         target: 夜盗かそれともはては妖怪
         display: 『夜盗かそれともはては妖怪』の仕業か
         choices:
@@ -322,7 +306,6 @@ tracks:
     songTitle: マッドパーティー
     questions:
       - id: dyj-07-15-q1
-        prompt: ''
         target: 晩餐
         display: 『晩餐』を始めるとしようか
         choices:
@@ -342,7 +325,6 @@ tracks:
     songTitle: アイ・ウィッシュ・クロスフェード
     questions:
       - id: dyj-07-16-q1
-        prompt: いつかはそう、
         target: あの星
         display: いつかはそう、『あの星』の様に、
         choices:

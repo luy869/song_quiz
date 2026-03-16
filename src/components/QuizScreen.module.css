@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 20px;
     animation: fadeInUp 0.4s ease both;
 }
 
@@ -25,7 +25,7 @@
 /* Progress */
 .progressBar {
     width: 100%;
-    height: 6px;
+    height: 4px;
     background: rgba(180, 150, 90, 0.12);
     border-radius: 999px;
     overflow: hidden;
@@ -42,33 +42,53 @@
 .card {
     background: var(--bg-card);
     border: 1px solid var(--border);
-    border-top: 2px solid rgba(184, 144, 74, 0.40);
     border-radius: var(--radius-lg);
-    padding: 36px 32px;
+    padding: 28px 28px 32px;
     backdrop-filter: blur(8px);
     animation: popIn 0.35s ease both;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
 }
 
-.songInfo {
-    margin-bottom: 20px;
-    padding-bottom: 16px;
-    border-bottom: 1px dashed rgba(180, 150, 90, 0.30);
+/* Card header: badges */
+.cardHeader {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
 }
 
-.songTitle {
-    font-size: 1.15rem;
-    font-weight: 700;
+.albumBadge,
+.songBadge {
+    font-size: 0.78rem;
+    font-weight: 600;
+    border-radius: 999px;
+    padding: 3px 12px;
+    font-family: 'Noto Serif JP', serif;
+    line-height: 1.5;
+}
+
+.albumBadge {
+    color: var(--accent);
+    background: var(--accent-glow);
+    border: 1px solid rgba(184, 144, 74, 0.30);
+}
+
+.songBadge {
     color: var(--text-primary);
-    margin-bottom: 8px;
-    line-height: 1.3;
+    background: rgba(240, 215, 160, 0.08);
+    border: 1px solid rgba(180, 150, 90, 0.18);
 }
 
 .songMeta {
     display: flex;
     flex-wrap: wrap;
     gap: 12px;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     color: var(--text-secondary);
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(180, 150, 90, 0.15);
 }
 
 .songMeta span,
@@ -89,50 +109,42 @@
     text-decoration: underline;
 }
 
-.questionNum {
-    font-size: 0.8rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--accent);
-    margin-bottom: 16px;
-}
-
-.questionText {
-    line-height: 1.6;
-    margin-bottom: 8px;
-}
-
-.prompt {
-    font-size: 1.5rem;
-    color: var(--text-primary);
-    font-weight: 400;
-    font-family: 'Noto Serif JP', serif;
-    line-height: 1.8;
+/* Question body */
+.questionBody {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
 }
 
 .display {
-    font-size: 2.4rem;
-    font-weight: 700;
+    font-size: 1.5rem;
+    font-weight: 500;
     color: var(--text-primary);
     font-family: 'Noto Serif JP', serif;
-    line-height: 1.4;
-    display: block;
-    margin-top: 8px;
-    letter-spacing: 0.08em;
+    line-height: 1.7;
 }
 
-/* Choices */
+.target {
+    display: inline;
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 1.8rem;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 1px;
+    margin: 0 2px;
+}
+
+/* Choices (4択モード) */
 .choices {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 8px;
 }
 
 .choiceBtn {
     width: 100%;
-    padding: 16px 22px;
-    font-size: 1.05rem;
+    padding: 14px 18px;
+    font-size: 1rem;
     font-weight: 500;
     text-align: left;
     color: var(--text-primary);
@@ -159,18 +171,18 @@
 }
 
 .disabledBtn {
-    opacity: 0.6;
+    opacity: 0.5;
 }
 
 .choiceIndex {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 28px;
-    height: 28px;
+    width: 26px;
+    height: 26px;
     border-radius: 50%;
     background: rgba(180, 150, 90, 0.10);
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     font-weight: 700;
     flex-shrink: 0;
     transition: background var(--transition);
@@ -179,6 +191,7 @@
 button.correct {
     background: var(--correct-bg);
     border-color: var(--correct);
+    border-left-color: var(--correct);
     color: var(--correct);
 }
 
@@ -190,6 +203,7 @@ button.correct .choiceIndex {
 button.wrong {
     background: var(--wrong-bg);
     border-color: var(--wrong);
+    border-left-color: var(--wrong);
     color: var(--wrong);
 }
 
@@ -198,42 +212,173 @@ button.wrong .choiceIndex {
     color: var(--text-on-accent);
 }
 
+/* Input mode (入力モード) */
+.inputArea {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.inputField {
+    width: 100%;
+    padding: 14px 18px;
+    font-size: 1.05rem;
+    font-family: inherit;
+    color: var(--text-primary);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    outline: none;
+    transition: border-color var(--transition);
+}
+
+.inputField::placeholder {
+    color: var(--text-secondary);
+    opacity: 0.7;
+}
+
+.inputField:focus {
+    border-color: var(--accent);
+}
+
+.inputField:disabled {
+    opacity: 0.5;
+}
+
+.inputActions {
+    display: flex;
+    gap: 8px;
+}
+
+.submitBtn {
+    flex: 1;
+    padding: 12px;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text-on-accent);
+    background: linear-gradient(135deg, #8a6020, #b8904a);
+    border-radius: var(--radius-md);
+    transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.submitBtn:hover:not(:disabled) {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(184, 144, 74, 0.25);
+}
+
+.submitBtn:disabled {
+    opacity: 0.45;
+}
+
+.giveUpBtn {
+    padding: 12px 18px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    transition: color var(--transition), border-color var(--transition);
+}
+
+.giveUpBtn:hover:not(:disabled) {
+    color: var(--wrong);
+    border-color: var(--wrong);
+}
+
 @media (max-width: 480px) {
     .card {
-        padding: 24px 18px;
-    }
-
-    .songTitle {
-        font-size: 1.05rem;
+        padding: 20px 16px 24px;
     }
 
     .display {
-        font-size: 1.7rem;
+        font-size: 1.25rem;
+    }
+
+    .target {
+        font-size: 1.45rem;
     }
 
     .prompt {
-        font-size: 1.2rem;
+        font-size: 0.9rem;
     }
 
     .choiceBtn {
-        padding: 14px 16px;
+        padding: 12px 14px;
+        font-size: 0.9rem;
+    }
+
+    .inputField {
+        padding: 12px 14px;
         font-size: 0.95rem;
+    }
+
+    .inputActions {
+        flex-direction: column;
     }
 }
 
-/* feedback toast */
-.feedback {
-    text-align: center;
-    font-size: 1.4rem;
-    font-weight: 700;
+/* feedback bar */
+.feedbackBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 14px 18px;
+    border-radius: var(--radius-md);
+    border: 1px solid transparent;
     animation: fadeIn 0.2s ease;
-    padding: 8px 0;
+    cursor: pointer;
+    user-select: none;
 }
 
 .feedbackCorrect {
     color: var(--correct);
+    background: var(--correct-bg);
+    border-color: rgba(106, 168, 128, 0.3);
 }
 
 .feedbackWrong {
     color: var(--wrong);
+    background: var(--wrong-bg);
+    border-color: rgba(170, 112, 112, 0.3);
+}
+
+.feedbackContent {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 0;
+}
+
+.feedbackLabel {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    opacity: 0.8;
+}
+
+.feedbackDetail {
+    font-size: 1rem;
+    font-weight: 600;
+    word-break: break-all;
+}
+
+.feedbackHint {
+    flex-shrink: 0;
+    font-size: 0.8rem;
+    font-weight: 600;
+    opacity: 0.6;
+}
+
+@media (max-width: 480px) {
+    .feedbackBar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nextBtn {
+        align-self: flex-end;
+    }
 }

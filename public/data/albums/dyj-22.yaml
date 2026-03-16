@@ -10,7 +10,6 @@ tracks:
     songTitle: 初番目物「龍人秘抄」
     questions:
       - id: dyj-22-01-q1
-        prompt: ''
         target: その力の源
         display: 『その力の源』辿るらん
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 二番目物「祟神」
     questions:
       - id: dyj-22-02-q1
-        prompt: ''
         target: そら乾
         display: 『そら乾』のどこまでも
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: ちも坤（ち）もどこまでも
     questions:
       - id: dyj-22-03-q1
-        prompt: ''
         target: 覇
         display: 『覇』ち道を歩けよ
         choices:
@@ -66,7 +63,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-22-03-q2
-        prompt: ''
         target: その簒奪者
         display: 『その簒奪者』の名
         choices:
@@ -86,7 +82,6 @@ tracks:
     songTitle: 倒々（とうとう）誰も知らぬまま
     questions:
       - id: dyj-22-04-q1
-        prompt: ''
         target: われが束ねた数多の信仰
         display: 『われが束ねた数多の信仰』
         choices:
@@ -106,7 +101,6 @@ tracks:
     songTitle: 四番目物「奈落唱」
     questions:
       - id: dyj-22-05-q1
-        prompt: ''
         target: 腕手
         display: 『腕手』の温もりを
         choices:
@@ -126,7 +120,6 @@ tracks:
     songTitle: ただある慈（いつくしみ）の果ての思い
     questions:
       - id: dyj-22-06-q1
-        prompt: ''
         target: 我が愛
         display: 『我が愛』しきもの
         choices:
@@ -146,7 +139,6 @@ tracks:
     songTitle: 狂言「跳ね玉兎」
     questions:
       - id: dyj-22-07-q1
-        prompt: ''
         target: 跳ね玉兎
         display: 『跳ね玉兎』
         choices:
@@ -166,7 +158,6 @@ tracks:
     songTitle: 五番目物「鬼顧」
     questions:
       - id: dyj-22-08-q1
-        prompt: ''
         target: 人情
         display: 『人情』
         choices:
@@ -186,7 +177,6 @@ tracks:
     songTitle: 人の魂（たま）の色にも似て
     questions:
       - id: dyj-22-09-q1
-        prompt: ''
         target: 力
         display: 『力』け
         choices:
@@ -206,7 +196,6 @@ tracks:
     songTitle: 風（ひび）け
     questions:
       - id: dyj-22-10-q1
-        prompt: ''
         target: 斃
         display: 『斃』せ
         choices:
@@ -226,7 +215,6 @@ tracks:
     songTitle: 「心綺楼」
     questions:
       - id: dyj-22-11-q1
-        prompt: ''
         target: 幾重幾多その感情
         display: 『幾重幾多その感情』
         choices:
@@ -246,7 +234,6 @@ tracks:
     songTitle: 数多の感情（こえ）よ　花となれ　　。
     questions:
       - id: dyj-22-12-q1
-        prompt: ''
         target: 遍く歓声
         display: 『遍く歓声』よ　　舞台の花となれ。
         choices:
@@ -266,7 +253,6 @@ tracks:
     songTitle: 新たな面（おもて）
     questions:
       - id: dyj-22-13-q1
-        prompt: ''
         target: 飛び交う怒声
         display: 『飛び交う怒声』よ　　舞台の花となれ。
         choices:
@@ -286,7 +272,6 @@ tracks:
     songTitle: 全ての感情（おもい）を見渡せど
     questions:
       - id: dyj-22-14-q1
-        prompt: ''
         target: 宴も酣
         display: 『宴も酣』か
         choices:
@@ -306,7 +291,6 @@ tracks:
     songTitle: 三位一体　調（と）き伏せて
     questions:
       - id: dyj-22-15-q1
-        prompt: ''
         target: さあ“この名
         display: 『さあ“この名』”の命ずるまま！
         choices:
@@ -326,7 +310,6 @@ tracks:
     songTitle: 符（spell）乱れ飛ぶ！
     questions:
       - id: dyj-22-16-q1
-        prompt: ''
         target: 希望の希求
         display: 『希望の希求』よ　　舞台の花となれ。
         choices:

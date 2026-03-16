@@ -49,6 +49,137 @@
     margin-top: 12px;
 }
 
+/* Mode toggle */
+.modeToggle {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.toggleLabel {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.toggleSwitch {
+    position: relative;
+    width: 48px;
+    height: 26px;
+    background: rgba(180, 150, 90, 0.15);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background var(--transition), border-color var(--transition);
+    padding: 0;
+}
+
+.toggleOn {
+    background: var(--accent-glow);
+    border-color: var(--accent);
+}
+
+.toggleKnob {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 18px;
+    height: 18px;
+    background: var(--text-secondary);
+    border-radius: 50%;
+    transition: transform var(--transition), background var(--transition);
+}
+
+.toggleOn .toggleKnob {
+    transform: translateX(22px);
+    background: var(--accent);
+}
+
+/* Random quiz section */
+.randomSection {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.randomCard {
+    width: 100%;
+    padding: 22px;
+    background: linear-gradient(135deg, rgba(184, 144, 74, 0.15) 0%, rgba(140, 80, 20, 0.15) 100%);
+    border: 1px solid rgba(184, 144, 74, 0.35);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    text-align: center;
+    transition: background var(--transition), border-color var(--transition);
+}
+
+.randomCard:hover {
+    background: linear-gradient(135deg, rgba(184, 144, 74, 0.22) 0%, rgba(140, 80, 20, 0.22) 100%);
+    border-color: var(--accent);
+}
+
+.randomCardHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.randomTitle {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    font-family: 'Noto Serif JP', serif;
+}
+
+.randomDesc {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    display: block;
+    margin-top: 6px;
+}
+
+.countSelector {
+    width: 100%;
+    padding: 16px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    text-align: center;
+    animation: fadeIn 0.2s ease;
+}
+
+.countLabel {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    display: block;
+    margin-bottom: 12px;
+}
+
+.countPills {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.countPill {
+    padding: 8px 20px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    background: rgba(180, 150, 90, 0.10);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background var(--transition), border-color var(--transition);
+}
+
+.countPill:hover {
+    background: var(--accent-glow);
+    border-color: var(--accent);
+}
+
 /* Album list */
 .albumList {
     width: 100%;
@@ -79,6 +210,16 @@
     border-left-width: 4px;
 }
 
+.goldBorder {
+    border-color: rgba(212, 170, 102, 0.5);
+    border-left: 3px solid #d4aa66;
+}
+
+.goldBorder:hover {
+    border-color: rgba(212, 170, 102, 0.7);
+    border-left-color: #d4aa66;
+}
+
 .albumCardHeader {
     display: flex;
     align-items: baseline;
@@ -99,6 +240,17 @@
     font-family: 'Noto Serif JP', serif;
 }
 
+.bestBadge {
+    margin-left: auto;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-glow);
+    border-radius: 999px;
+    padding: 2px 10px;
+    white-space: nowrap;
+}
+
 .albumSeries {
     font-size: 0.82rem;
     color: var(--text-secondary);
@@ -115,5 +267,10 @@
 
     .albumTitle {
         font-size: 1.15rem;
+    }
+
+    .countPill {
+        padding: 6px 14px;
+        font-size: 0.85rem;
     }
 }

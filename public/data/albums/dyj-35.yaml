@@ -10,7 +10,6 @@ tracks:
     songTitle: 解き明かされるべき謎
     questions:
       - id: dyj-35-01-q1
-        prompt: ''
         target: そこに隠された“規則
         display: 『そこに隠された“規則』”を
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: これは『ただの虚仮威し（こけおどし）』
     questions:
       - id: dyj-35-02-q1
-        prompt: ''
         target: 理解
         display: 『理解』ってみせるわ
         choices:
@@ -46,7 +44,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-35-02-q2
-        prompt: ''
         target: そこに込められた“思想
         display: 『そこに込められた“思想』”を
         choices:
@@ -66,7 +63,6 @@ tracks:
     songTitle: 解き明かされるべきその弾幕（なぞ）よ
     questions:
       - id: dyj-35-03-q1
-        prompt: ''
         target: そこに秘められた“幻想
         display: 『そこに秘められた“幻想』”を
         choices:
@@ -86,7 +82,6 @@ tracks:
     songTitle: Slightly Responsive
     questions:
       - id: dyj-35-04-q1
-        prompt: ''
         target: 原初
         display: 『原初』の衝動
         choices:
@@ -106,7 +101,6 @@ tracks:
     songTitle: イニシャルイニシャルエコーエゴー
     questions:
       - id: dyj-35-05-q1
-        prompt: ''
         target: 他人
         display: 『他人』に言われたことだけ　ただただ繰り返すだけの私みたいになってないかなー？！
         choices:
@@ -122,9 +116,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-35-05-q2
-        prompt: 他人（ひと）に言われたことだけ
         target: ただただ繰り返すだけの私
-        display: 他人に言われたことだけ　『ただただ繰り返すだけの私』みたいになってないかなー？！
+        display: 他人（ひと）に言われたことだけ他人に言われたことだけ　『ただただ繰り返すだけの私』みたいになってないかなー？！
         choices:
           - だれ
           - ひそか
@@ -142,7 +135,6 @@ tracks:
     songTitle: Dive into nothingness
     questions:
       - id: dyj-35-06-q1
-        prompt: ''
         target: 全部蒼穹
         display: 『全部蒼穹』の何処かへ溢して
         choices:
@@ -162,7 +154,6 @@ tracks:
     songTitle: 汚染（よご）れていく心を
     questions:
       - id: dyj-35-07-q1
-        prompt: ''
         target: 復帰
         display: 『復帰』れなくなるその間際へ
         choices:
@@ -178,7 +169,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-35-07-q2
-        prompt: “おちていく　なにもないところに　じぶんから
         target: めをそむけながら
         display: “おちていく　なにもないところに　じぶんから　『めをそむけながら』”
         choices:
@@ -198,7 +188,6 @@ tracks:
     songTitle: “かんぺきなこどくに　けれど　きっといっせんはこえられない（In utter loneliness with entice of demise won’t be let）”
     questions:
       - id: dyj-35-08-q1
-        prompt: “そうだ　ふたたび
         target: のぼりつめるそのときのために
         display: “そうだ　ふたたび　『のぼりつめるそのときのために』”
         choices:
@@ -218,7 +207,6 @@ tracks:
     songTitle: “こんなところで　おじけづいてなど　いられない！（beside my flawly story don’t give it up so you rise again.）”
     questions:
       - id: dyj-35-09-q1
-        prompt: ''
         target: 堕落した現実
         display: 『堕落した現実』を　振り払え
         choices:
@@ -238,7 +226,6 @@ tracks:
     songTitle: 重力（ひかれるちから）を感じたら
     questions:
       - id: dyj-35-10-q1
-        prompt: ''
         target: 推進力
         display: 『推進力』に変えて　上空へ
         choices:
@@ -254,9 +241,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-35-10-q2
-        prompt: 推進力（ちから）に変えて
         target: 上空
-        display: 推進力に変えて　『上空』へ
+        display: 推進力（ちから）に変えて推進力に変えて　『上空』へ
         choices:
           - あんこく
           - まえ
@@ -270,7 +256,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-35-10-q3
-        prompt: ''
         target: それがいつか到り達く
         display: 『それがいつか到り達く』まで？
         choices:
@@ -290,7 +275,6 @@ tracks:
     songTitle: Jeux interdits
     questions:
       - id: dyj-35-11-q1
-        prompt: ''
         target: それいけ高速
         display: 『それいけ高速』で
         choices:
@@ -310,7 +294,6 @@ tracks:
     songTitle: 撃墜数（スコア）だってあがり放題
     questions:
       - id: dyj-35-12-q1
-        prompt: ''
         target: ときには太陽
         display: 『ときには太陽』の光の下で　ほら　また
         choices:
@@ -330,7 +313,6 @@ tracks:
     songTitle: ≪禁断の遊び（les jeux interdits）≫
     questions:
       - id: dyj-35-13-q1
-        prompt: さあ　そこゆく
         target: 紅白の人間
         display: さあ　そこゆく　『紅白の人間』
         choices:
@@ -350,7 +332,6 @@ tracks:
     songTitle: さあ　そこゆく　白黒の人間（あなた）
     questions:
       - id: dyj-35-14-q1
-        prompt: 一回休んで
         target: くるくる目眩
         display: 一回休んで　『くるくる目眩』
         choices:
@@ -370,7 +351,6 @@ tracks:
     songTitle: プレイヤーズ・スコア
     questions:
       - id: dyj-35-15-q1
-        prompt: ''
         target: “あなたの道
         display: 『“あなたの道』”
         choices:
@@ -390,7 +370,6 @@ tracks:
     songTitle: それは矜恃（プライド）という在り方
     questions:
       - id: dyj-35-16-q1
-        prompt: ''
         target: “あなたの戦績
         display: 『“あなたの戦績』”
         choices:
@@ -410,7 +389,6 @@ tracks:
     songTitle: “あなたの祈り（プレイヤーズ・スコア）”
     questions:
       - id: dyj-35-17-q1
-        prompt: ''
         target: “あなたの未来
         display: 『“あなたの未来』”
         choices:

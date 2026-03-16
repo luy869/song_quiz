@@ -10,7 +10,6 @@ tracks:
     songTitle: Uprising Ideology
     questions:
       - id: dyj-26-01-q1
-        prompt: ''
         target: それがお前の正義
         display: 『それがお前の正義』だろう？！
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: それがお前の大義（Ideology）だろう！？
     questions:
       - id: dyj-26-02-q1
-        prompt: ''
         target: それがお前の正義
         display: 『それがお前の正義』だ！
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: ノーモア、エニモア?モアーモア?!
     questions:
       - id: dyj-26-03-q1
-        prompt: ''
         target: 弾幕決闘
         display: 『弾幕決闘』という名の弱いもの虐め
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: 至天
     questions:
       - id: dyj-26-04-q1
-        prompt: ''
         target: 神をも閲
         display: 『神をも閲』せ
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: その魂（たま）の総て失くしても
     questions:
       - id: dyj-26-05-q1
-        prompt: ''
         target: 志
         display: 『志』高くおわしますれば
         choices:
@@ -110,7 +105,6 @@ tracks:
     songTitle: 異聞『正義の味方』
     questions:
       - id: dyj-26-06-q1
-        prompt: 嗚呼、何故！
         target: と悲鳴
         display: 嗚呼、何故！『と悲鳴』のありながら。
         choices:
@@ -126,7 +120,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-26-06-q2
-        prompt: ''
         target: 誰が壇上
         display: 『誰が壇上』で踊るのを　数奇な運命と呼ぶだろう？
         choices:
@@ -142,9 +135,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-26-06-q3
-        prompt: 誰が壇上（うで）で踊るのを
         target: 数奇な運命
-        display: 誰が壇上で踊るのを　『数奇な運命』と呼ぶだろう？
+        display: 誰が壇上（うで）で踊るのを誰が壇上で踊るのを　『数奇な運命』と呼ぶだろう？
         choices:
           - うご
           - なれのはて
@@ -162,7 +154,6 @@ tracks:
     songTitle: 嗚呼、何故！と怒声（こえ）のありながら。
     questions:
       - id: dyj-26-07-q1
-        prompt: 「
         target: 嫌われ者
         display: 「『嫌われ者』」
         choices:
@@ -182,7 +173,6 @@ tracks:
     songTitle: アノインシスター
     questions:
       - id: dyj-26-08-q1
-        prompt: ''
         target: ほらほらわたし■
         display: 『ほらほらわたし■』ってるんだよ？
         choices:
@@ -202,7 +192,6 @@ tracks:
     songTitle: この　（こころ）だけは見通せないのよね
     questions:
       - id: dyj-26-09-q1
-        prompt: ''
         target: ほらほらわたしの■
         display: 『ほらほらわたしの■』聞こえてる？
         choices:
@@ -222,7 +211,6 @@ tracks:
     songTitle: 語九十九節
     questions:
       - id: dyj-26-10-q1
-        prompt: ''
         target: 祇園生者の鐘の音
         display: 『祇園生者の鐘の音』
         choices:
@@ -242,7 +230,6 @@ tracks:
     songTitle: 沙羅双樹の花の音（こえ）
     questions:
       - id: dyj-26-11-q1
-        prompt: ''
         target: かくて天地
         display: 『かくて天地』動かす唄
         choices:
@@ -262,7 +249,6 @@ tracks:
     songTitle: Downfalling Ideology
     questions:
       - id: dyj-26-12-q1
-        prompt: ''
         target: さあ奮い起こせお前の大義
         display: 『さあ奮い起こせお前の大義』！
         choices:

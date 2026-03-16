@@ -10,7 +10,6 @@ tracks:
     songTitle: 秘封倶楽部！秘封倶楽部！秘封倶楽部！秘封倶楽部！（メサイア！メサイア！メサイア！メサイア！）
     questions:
       - id: dyj-33-01-q1
-        prompt: ''
         target: 宇宙
         display: 『宇宙』を越えて　もっと遠くへ
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 秘封倶楽部！秘封倶楽部！秘封倶楽部！秘封倶楽部！（ハレルヤ！ハレルヤ！ハレルヤ！ハレルヤ！）
     questions:
       - id: dyj-33-02-q1
-        prompt: ''
         target: 嘲笑
         display: 『嘲笑』うだけ　嘆くだけ
         choices:
@@ -46,7 +44,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-02-q2
-        prompt: ''
         target: 世界を巻き込む“世界秘封倶楽部化計画”
         display: 『世界を巻き込む“世界秘封倶楽部化計画”』
         choices:
@@ -66,7 +63,6 @@ tracks:
     songTitle: 『μετέωρο』
     questions:
       - id: dyj-33-03-q1
-        prompt: ''
         target: μετέωρο
         display: 『μετέωρο』
         choices:
@@ -86,7 +82,6 @@ tracks:
     songTitle: 形相（かたち）を持たぬ理想郷（ユートピア）
     questions:
       - id: dyj-33-04-q1
-        prompt: ''
         target: かくも強く希求
         display: 『かくも強く希求』めよう　人の続く限りこれからも
         choices:
@@ -106,7 +101,6 @@ tracks:
     songTitle: いつか幻視（み）た風景を思わせよ
     questions:
       - id: dyj-33-05-q1
-        prompt: ''
         target: いざや幻想
         display: 『いざや幻想』の息の根を止めろよ
         choices:
@@ -126,7 +120,6 @@ tracks:
     songTitle: 形相（かたち）を持たぬことの意味
     questions:
       - id: dyj-33-06-q1
-        prompt: 扉を叩く権利は
         target: 全ての幻想
         display: 扉を叩く権利は　『全ての幻想』見る者達のものなら
         choices:
@@ -146,7 +139,6 @@ tracks:
     songTitle: 幻想（ゆめ）を　現に　世界を　楽園に
     questions:
       - id: dyj-33-07-q1
-        prompt: 空、
         target: 愈々
         display: 空、『愈々』近く
         choices:
@@ -162,7 +154,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-07-q2
-        prompt: ''
         target: 斯くて≪楽園≫は≪現実≫
         display: 『斯くて≪楽園≫は≪現実≫』となろう
         choices:
@@ -182,7 +173,6 @@ tracks:
     songTitle: 『シン・汎用合成クラスメイト：宇佐見227号』
     questions:
       - id: dyj-33-08-q1
-        prompt: ''
         target: 君というその存在だけが異質な合成品
         display: 『君というその存在だけが異質な合成品』で
         choices:
@@ -202,7 +192,6 @@ tracks:
     songTitle: 天然（ナチュラルボーン）
     questions:
       - id: dyj-33-09-q1
-        prompt: ''
         target: “合成”
         display: 『“合成”』は想フ
         choices:
@@ -222,7 +211,6 @@ tracks:
     songTitle: 『夏の終わり／世界の終わり』
     questions:
       - id: dyj-33-10-q1
-        prompt: ''
         target: ありったけの＊＊＊
         display: 『ありったけの＊＊＊』を乗せて
         choices:
@@ -242,7 +230,6 @@ tracks:
     songTitle: 『Then Dead Laughs』
     questions:
       - id: dyj-33-11-q1
-        prompt: ''
         target: 死
         display: 『死』を謳歌？！
         choices:
@@ -258,7 +245,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-11-q2
-        prompt: 新しい世界
         target: 新しい死生
         display: 新しい世界　『新しい死生』
         choices:
@@ -278,7 +264,6 @@ tracks:
     songTitle: 甘き甘き天国（ゲヘナ）の誘い
     questions:
       - id: dyj-33-12-q1
-        prompt: ''
         target: 何を讒言
         display: 『何を讒言』おうが
         choices:
@@ -298,7 +283,6 @@ tracks:
     songTitle: ＜旧き人類＞（ふるきものたち）よ指を咥え見ていろ
     questions:
       - id: dyj-33-13-q1
-        prompt: ''
         target: 屍化粧
         display: 『屍化粧』
         choices:
@@ -318,7 +302,6 @@ tracks:
     songTitle: 『預言者メリー』
     questions:
       - id: dyj-33-14-q1
-        prompt: ''
         target: 檻
         display: 『檻』の中で確かな明示
         choices:
@@ -334,7 +317,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-14-q2
-        prompt: かなたの不思議
         target: 奇しき幻想
         display: かなたの不思議　『奇しき幻想』
         choices:
@@ -354,7 +336,6 @@ tracks:
     songTitle: 拝する嚮（きょう）する望みは止まらない
     questions:
       - id: dyj-33-15-q1
-        prompt: ''
         target: 顔を歪めて預言者
         display: 『顔を歪めて預言者』は笑う
         choices:
@@ -374,7 +355,6 @@ tracks:
     songTitle: その命令（コード）は
     questions:
       - id: dyj-33-16-q1
-        prompt: ''
         target: それでもたった一基
         display: 『それでもたった一基』は救えない
         choices:
@@ -390,7 +370,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-16-q2
-        prompt: ''
         target: その基板
         display: 『その基板』に　刻まれた　われらが　最期の願は
         choices:
@@ -406,9 +385,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-16-q3
-        prompt: その基板（むね）に　刻まれた　われらが
         target: 最期の願
-        display: その基板に　刻まれた　われらが　『最期の願』は
+        display: その基板（むね）に　刻まれた　われらがその基板に　刻まれた　われらが　『最期の願』は
         choices:
           - のろい
           - かんじょう
@@ -426,7 +404,6 @@ tracks:
     songTitle: 『まざりあうせかい』
     questions:
       - id: dyj-33-17-q1
-        prompt: ''
         target: それは脆くしかし強固
         display: 『それは脆くしかし強固』く
         choices:
@@ -442,7 +419,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-17-q2
-        prompt: ''
         target: Z対
         display: 『Z対』領域の拡散
         choices:
@@ -458,9 +434,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-17-q3
-        prompt: Z対（ぜったい）
         target: 領域
-        display: Z対『領域』の拡散
+        display: Z対（ぜったい）Z対『領域』の拡散
         choices:
           - ドメイン
           - サネカズラ
@@ -474,9 +449,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-33-17-q4
-        prompt: Z対（ぜったい）領域（ドメイン）
         target: の拡散
-        display: Z対領域『の拡散』
+        display: Z対（ぜったい）領域（ドメイン）Z対領域『の拡散』
         choices:
           - ハレ
           - エゴ
@@ -494,7 +468,6 @@ tracks:
     songTitle: 最奥（おく）に
     questions:
       - id: dyj-33-18-q1
-        prompt: ''
         target: まざりあう≪常識／非常識≫
         display: 『まざりあう≪常識／非常識≫』は
         choices:
@@ -514,7 +487,6 @@ tracks:
     songTitle: こんな薄っぺらい防壁（イメージ）で隔てられていたのに
     questions:
       - id: dyj-33-19-q1
-        prompt: ''
         target: 秒で変わる∃
         display: 『秒で変わる∃』
         choices:
@@ -534,7 +506,6 @@ tracks:
     songTitle: 無限の心音（おと）に小さな自分（エゴ）がわらうこえ
     questions:
       - id: dyj-33-20-q1
-        prompt: ''
         target: 他者
         display: 『他者』こそがいつだって最大の非常識
         choices:
@@ -554,7 +525,6 @@ tracks:
     songTitle: けれどその境界（かべ）さえももう
     questions:
       - id: dyj-33-21-q1
-        prompt: ''
         target: 幻想
         display: 『幻想』でいましょう
         choices:
@@ -574,7 +544,6 @@ tracks:
     songTitle: 『ゴーストリー・プラネット』
     questions:
       - id: dyj-33-22-q1
-        prompt: ''
         target: いまだ未完成の＜理論＞
         display: 『いまだ未完成の＜理論＞』
         choices:
@@ -594,7 +563,6 @@ tracks:
     songTitle: こんな広い惑星（ほし）に
     questions:
       - id: dyj-33-23-q1
-        prompt: ''
         target: にじむにじむ揺らぐ干渉
         display: 『にじむにじむ揺らぐ干渉』の果てに
         choices:

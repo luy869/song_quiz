@@ -9,7 +9,15 @@ function getResultMessage(pct) {
     return { emoji: '🎵', msg: '歌詞を聴いて、また挑戦してみよう！' };
 }
 
-export default function ResultScreen({ score, total, onRetry, onHome }) {
+export default function ResultScreen({
+    score,
+    total,
+    bestPct,
+    prevBestPct,
+    isNewRecord,
+    onRetry,
+    onHome,
+}) {
     const pct = total > 0 ? Math.round((score / total) * 100) : 0;
     const { emoji, msg } = getResultMessage(pct);
     const [barWidth, setBarWidth] = useState(0);
@@ -25,6 +33,15 @@ export default function ResultScreen({ score, total, onRetry, onHome }) {
             <p className={s.emojiDisplay}>{emoji}</p>
             <h2 className={s.title}>クイズ終了！</h2>
 
+            {isNewRecord && (
+                <div className={s.newRecord}>
+                    新記録!
+                    {prevBestPct != null && (
+                        <span className={s.prevBest}> (前回: {prevBestPct}%)</span>
+                    )}
+                </div>
+            )}
+
             <div className={s.scoreCard}>
                 <p>
                     <span className={s.scoreNum}>{score}</span>
@@ -37,14 +54,18 @@ export default function ResultScreen({ score, total, onRetry, onHome }) {
                 <p className={s.scoreLabel} style={{ marginTop: 8 }}>{pct}%</p>
             </div>
 
+            {!isNewRecord && bestPct != null && (
+                <p className={s.bestInfo}>ベスト: {bestPct}%</p>
+            )}
+
             <p className={s.message}>{msg}</p>
 
             <div className={s.actions}>
                 <button className={s.retryBtn} onClick={onRetry}>
-                    🔄 もう一度挑戦する
+                    もう一度挑戦する
                 </button>
                 <button className={s.homeBtn} onClick={onHome}>
-                    ← タイトルに戻る
+                    タイトルに戻る
                 </button>
             </div>
         </div>

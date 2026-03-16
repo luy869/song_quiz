@@ -4,6 +4,8 @@ import yaml from 'js-yaml';
 // 開発時は '/', 本番(/song_quiz/)でも正しいパスになる
 const BASE = import.meta.env.BASE_URL;
 
+const albumDataCache = new Map();
+
 /**
  * YAML ファイルを fetch してパースする
  * @param {string} path - BASE_URL からの相対パス (例: 'data/albums.yaml')
@@ -27,10 +29,32 @@ export const loadAlbumIndex = async () => {
 };
 
 /**
- * 指定アルバムの全データ（tracks含む）を取得する
+ * 指定アルバムの全データ（tracks含む）を取得する（キャッシュ付き）
  * @param {string} filePath - albums.yaml に記載された file パス (例: 'albums/dyj-01.yaml')
  * @returns {Promise<Object>} album オブジェクト
  */
 export const loadAlbumData = async (filePath) => {
-    return fetchYaml(`data/${filePath}`);
+    if (albumDataCache.has(filePath)) {
+        return albumDataCache.get(filePath);
+    }
+    const data = await fetchYaml(`data/${filePath}`);
+    albumDataCache.set(filePath, data);
+    return data;
+};
+
+/**
+ * 全アルバムのデータを並列取得する
+ * @param {Array} albumIndex - loadAlbumIndex() の結果
+ * @param {(loaded: number, total: number) => void} onProgress - 進捗コールバック
+ * @returns {Promise<Array>} 全アルバムデータ配列
+ */
+export const loadAllAlbumData = async (albumIndex, onProgress) => {
+    let loaded = 0;
+    const promises = albumIndex.map(async (album) => {
+        const data = await loadAlbumData(album.file);
+        loaded++;
+        onProgress?.(loaded, albumIndex.length);
+        return data;
+    });
+    return Promise.all(promises);
 };

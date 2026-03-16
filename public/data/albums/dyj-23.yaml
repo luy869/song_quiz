@@ -10,7 +10,6 @@ tracks:
     songTitle: 疵とマントと○○心
     questions:
       - id: dyj-23-01-q1
-        prompt: ああ！　この疵の痛み『
         target: 体中
         display: ああ！　この疵の痛み『『体中』』を
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 外套（マント）
     questions:
       - id: dyj-23-02-q1
-        prompt: ''
         target: 恐怖と自尊心
         display: 『恐怖と自尊心』の狭間で
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: なにいろ小径
     questions:
       - id: dyj-23-03-q1
-        prompt: ''
         target: きっとみんなとそれほど変わらないくらい少女
         display: 『きっとみんなとそれほど変わらないくらい少女』の顔してる？
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: 千夜一夜
     questions:
       - id: dyj-23-04-q1
-        prompt: あなたを
         target: 幻想郷
         display: あなたを　『幻想郷』を　抱いて
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: 硝子色の月　風が哂（わら）う声
     questions:
       - id: dyj-23-05-q1
-        prompt: ''
         target: 無限の物語
         display: 『無限の物語』を見届けながら。
         choices:
@@ -110,7 +105,6 @@ tracks:
     songTitle: 尚も口閉ざす賢者（シェヘラザード）は。
     questions:
       - id: dyj-23-06-q1
-        prompt: ''
         target: その色彩
         display: 『その色彩』を独り今も見つめている。
         choices:
@@ -130,7 +124,6 @@ tracks:
     songTitle: グラスホッパーズ
     questions:
       - id: dyj-23-07-q1
-        prompt: 皆それぞれが
         target: 口々愚痴々々具
         display: 皆それぞれが　『口々愚痴々々具』に
         choices:
@@ -150,7 +143,6 @@ tracks:
     songTitle: 『闇に潜む密偵の如く（grasshoppers）』
     questions:
       - id: dyj-23-08-q1
-        prompt: あいつが噂の『
         target: 詐欺師
         display: あいつが噂の『『詐欺師』』か。
         choices:
@@ -170,7 +162,6 @@ tracks:
     songTitle: 桑原始終四散子守歌（くわばらばらばらららばい）
     questions:
       - id: dyj-23-09-q1
-        prompt: 真実は　　そうさ　皆聞いてる
         target: 耳を欹
         display: 真実は　　そうさ　皆聞いてる　『耳を欹』て
         choices:
@@ -190,7 +181,6 @@ tracks:
     songTitle: 『混迷に惑わす伏兵の如く（grasshoppers）』
     questions:
       - id: dyj-23-10-q1
-        prompt: 『
         target: 監視社会に蔓延する情報の如く
         display: 『『監視社会に蔓延する情報の如く』』
         choices:
@@ -210,7 +200,6 @@ tracks:
     songTitle: オールド・モチーフ
     questions:
       - id: dyj-23-11-q1
-        prompt: ''
         target: 天空
         display: 『天空』の洞を覗き込む
         choices:
@@ -226,7 +215,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-23-11-q2
-        prompt: そう
         target: 所以なき自己過信と擁
         display: そう　『所以なき自己過信と擁』く熱量の高さ
         choices:
@@ -246,7 +234,6 @@ tracks:
     songTitle: 我らが手に＜原初の想像（old motif）＞の絶えずあることを
     questions:
       - id: dyj-23-12-q1
-        prompt: ''
         target: けして手放すことの叶わぬ重き原罪
         display: 『けして手放すことの叶わぬ重き原罪』を追って
         choices:
@@ -266,7 +253,6 @@ tracks:
     songTitle: 我らが手に＜原初の発想（old motif）＞の絶えずあることを
     questions:
       - id: dyj-23-13-q1
-        prompt: 誰もがみな
         target: 己の世界
         display: 誰もがみな　『己の世界』を持つ
         choices:
@@ -282,7 +268,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-23-13-q2
-        prompt: ''
         target: 己の理想
         display: 『己の理想』を見て　その幻想の先に
         choices:
@@ -298,9 +283,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-23-13-q3
-        prompt: 己の理想（ゆめ）を見て
         target: その幻想
-        display: 己の理想を見て　『その幻想』の先に
+        display: 己の理想（ゆめ）を見て己の理想を見て　『その幻想』の先に
         choices:
           - ゆめ
           - て
@@ -318,7 +302,6 @@ tracks:
     songTitle: 皆それぞれ　癒せぬ中二病（ふしぎ）を抱えて生きていく
     questions:
       - id: dyj-23-14-q1
-        prompt: ''
         target: 我らが手に＜原初の空想
         display: 『我らが手に＜原初の空想』＞の絶えずあることを
         choices:
@@ -338,7 +321,6 @@ tracks:
     songTitle: かぜのゆくえ
     questions:
       - id: dyj-23-15-q1
-        prompt: ''
         target: 遙か届かぬ時間
         display: 『遙か届かぬ時間』へ
         choices:

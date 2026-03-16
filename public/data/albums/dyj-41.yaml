@@ -10,7 +10,6 @@ tracks:
     songTitle: ｜夢現｜
     questions:
       - id: dyj-41-01-q1
-        prompt: ｜夢｜の中へ
         target: ｜現｜
         display: ｜夢｜の中へ　『｜現｜』の中へ
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 踊れよ　踊れよ　神（われ）のまにまに
     questions:
       - id: dyj-41-02-q1
-        prompt: 忘れるな
         target: 汝
         display: 忘れるな　『汝』の立つ場所こそは何処
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: 夜に朝に　変わらず実在（あ）るもの
     questions:
       - id: dyj-41-03-q1
-        prompt: ''
         target: 戸
         display: 『戸』に手を　触れるものたちよ
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: '|不思議⟩少女の見る夢は'
     questions:
       - id: dyj-41-04-q1
-        prompt: ''
         target: ≪異端≫
         display: 『≪異端≫』と呼ばれてかまわなかった
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: 厳然たる客観性（オブジェクティビティ）こそが真実だから
     questions:
       - id: dyj-41-05-q1
-        prompt: ''
         target: おまえの実在
         display: 『おまえの実在』は其処に在れよ
         choices:
@@ -110,7 +105,6 @@ tracks:
     songTitle: 月は其処に在りや？
     questions:
       - id: dyj-41-06-q1
-        prompt: 重なり果て
         target: 苔むしたその先行研究
         display: 重なり果て　『苔むしたその先行研究』
         choices:
@@ -130,7 +124,6 @@ tracks:
     songTitle: 破られぬ定理（セオリー）探しては
     questions:
       - id: dyj-41-07-q1
-        prompt: ''
         target: それだから踊るのよ円舞曲
         display: 『それだから踊るのよ円舞曲』
         choices:
@@ -150,7 +143,6 @@ tracks:
     songTitle: 五感さえも　欺くようなその研究（スタディ）
     questions:
       - id: dyj-41-08-q1
-        prompt: ''
         target: 在りもしない変数
         display: 『在りもしない変数』に追いやられて
         choices:
@@ -170,7 +162,6 @@ tracks:
     songTitle: 確かなる命題（テーゼ）拘って
     questions:
       - id: dyj-41-09-q1
-        prompt: ''
         target: 汝
         display: 『汝』が辿り着ける叙情歌？
         choices:
@@ -186,9 +177,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-41-09-q2
-        prompt: 汝（おまえ）
         target: が辿り着ける叙情歌
-        display: 汝『が辿り着ける叙情歌』？
+        display: 汝（おまえ）汝『が辿り着ける叙情歌』？
         choices:
           - アリア
           - デマゴーグ
@@ -206,7 +196,6 @@ tracks:
     songTitle: 後退（レトロ）を崇めて美徳とて
     questions:
       - id: dyj-41-10-q1
-        prompt: ''
         target: 汝
         display: 『汝』の道は真理、也や？
         choices:
@@ -226,7 +215,6 @@ tracks:
     songTitle: 少女実在性倶楽部
     questions:
       - id: dyj-41-11-q1
-        prompt: でも足りない
         target: Ψ
         display: でも足りない　『Ψ』は投げない
         choices:
@@ -246,7 +234,6 @@ tracks:
     songTitle: 作用（ふれ）るとき
     questions:
       - id: dyj-41-12-q1
-        prompt: ''
         target: 伝送禁止
         display: 『伝送禁止』な感情の侭に
         choices:
@@ -266,7 +253,6 @@ tracks:
     songTitle: 実在（あ）る
     questions:
       - id: dyj-41-13-q1
-        prompt: ''
         target: 独善
         display: 『独善』
         choices:
@@ -282,7 +268,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-41-13-q2
-        prompt: ''
         target: 解
         display: 『解』を持たない　貴女を探して
         choices:
@@ -298,9 +283,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-41-13-q3
-        prompt: 解（こたえ）を持たない
         target: 貴女
-        display: 解を持たない　『貴女』を探して
+        display: 解（こたえ）を持たない解を持たない　『貴女』を探して
         choices:
           - こちらがわ
           - これ
@@ -318,7 +302,6 @@ tracks:
     songTitle: 全てが計算（もと）められたら
     questions:
       - id: dyj-41-14-q1
-        prompt: ''
         target: '[Δx]'
         display: 『[Δx]』の
         choices:
@@ -338,7 +321,6 @@ tracks:
     songTitle: '[Δt]（不確定な私たち）の'
     questions:
       - id: dyj-41-15-q1
-        prompt: ''
         target: 誰かがみる舞台
         display: 『誰かがみる舞台』であっても？
         choices:
@@ -358,7 +340,6 @@ tracks:
     songTitle: 敗北主義的（イロジカル）な感情を
     questions:
       - id: dyj-41-16-q1
-        prompt: ''
         target: '|Ψ⟩'
         display: 『|Ψ⟩』にならない！
         choices:
@@ -378,7 +359,6 @@ tracks:
     songTitle: '[単独系]（ひとり）では'
     questions:
       - id: dyj-41-17-q1
-        prompt: ''
         target: 立式不能
         display: 『立式不能』ない
         choices:
@@ -398,7 +378,6 @@ tracks:
     songTitle: 少女期の終わりに
     questions:
       - id: dyj-41-18-q1
-        prompt: ''
         target: 残月
         display: 『残月』も照らせよ
         choices:
@@ -418,7 +397,6 @@ tracks:
     songTitle: 確かに実在（あ）るのにね
     questions:
       - id: dyj-41-19-q1
-        prompt: けれど　そうよ　いつか
         target: どんな活動
         display: けれど　そうよ　いつか　『どんな活動』もね
         choices:

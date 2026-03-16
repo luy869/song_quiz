@@ -10,7 +10,6 @@ tracks:
     songTitle: ホーカス・ポーカス
     questions:
       - id: dyj-30-01-q1
-        prompt: 『
         target: 方法
         display: 『『方法』』はもう知ったから
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: 解答（こたえ）
     questions:
       - id: dyj-30-02-q1
-        prompt: ''
         target: ひとすじの火種
         display: 『ひとすじの火種』として
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: Marks of Sin
     questions:
       - id: dyj-30-03-q1
-        prompt: ''
         target: 無色の妖精
         display: 『無色の妖精』
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: 一匹（ひとり）
     questions:
       - id: dyj-30-04-q1
-        prompt: ''
         target: 記号
         display: 『記号』
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: 故郷（ばしょ）に落ちて
     questions:
       - id: dyj-30-05-q1
-        prompt: ''
         target: 我
         display: 『我』
         choices:
@@ -106,7 +101,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-30-05-q2
-        prompt: ''
         target: これこそいつか見た[Ira
         display: 『これこそいつか見た[Ira』]というのだろう!
         choices:
@@ -126,7 +120,6 @@ tracks:
     songTitle: 色彩（いろ）
     questions:
       - id: dyj-30-06-q1
-        prompt: ''
         target: 無垢の妖精
         display: 『無垢の妖精』
         choices:
@@ -142,7 +135,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-30-06-q2
-        prompt: ''
         target: これこそいつか見た[Invida
         display: 『これこそいつか見た[Invida』]というのだろう!
         choices:
@@ -162,7 +154,6 @@ tracks:
     songTitle: 非無色（pierrot）
     questions:
       - id: dyj-30-07-q1
-        prompt: ''
         target: 非無垢
         display: 『非無垢』
         choices:
@@ -182,7 +173,6 @@ tracks:
     songTitle: 凶精（pierrot）
     questions:
       - id: dyj-30-08-q1
-        prompt: ''
         target: 罪の成果
         display: 『罪の成果』
         choices:
@@ -202,7 +192,6 @@ tracks:
     songTitle: この象形（かたち）の意味が
     questions:
       - id: dyj-30-09-q1
-        prompt: ''
         target: これこそいつか見た[superbia
         display: 『これこそいつか見た[superbia』]というのだろう!
         choices:
@@ -222,7 +211,6 @@ tracks:
     songTitle: 幻想少女物語
     questions:
       - id: dyj-30-10-q1
-        prompt: ''
         target: 頁
         display: 『頁』を
         choices:
@@ -242,7 +230,6 @@ tracks:
     songTitle: Dolls into Pitiful Pretenders
     questions:
       - id: dyj-30-11-q1
-        prompt: 【
         target: 神聖
         display: 【『神聖』】という
         choices:
@@ -262,7 +249,6 @@ tracks:
     songTitle: 【恐怖（enigma）】という
     questions:
       - id: dyj-30-12-q1
-        prompt: ''
         target: '**'
         display: 『**』
         choices:
@@ -282,7 +268,6 @@ tracks:
     songTitle: 「真実（すくい）」を
     questions:
       - id: dyj-30-13-q1
-        prompt: 【
         target: 呪い
         display: 【『呪い』】という
         choices:
@@ -302,7 +287,6 @@ tracks:
     songTitle: 幻想星神信仰
     questions:
       - id: dyj-30-14-q1
-        prompt: ''
         target: 宿星
         display: 『宿星』
         choices:
@@ -322,7 +306,6 @@ tracks:
     songTitle: 流竄（なが）れて
     questions:
       - id: dyj-30-15-q1
-        prompt: ''
         target: 交懐
         display: 『交懐』れば
         choices:
@@ -342,7 +325,6 @@ tracks:
     songTitle: 碍（かべ）の
     questions:
       - id: dyj-30-16-q1
-        prompt: ''
         target: 交懐
         display: 『交懐』わらす
         choices:
@@ -362,7 +344,6 @@ tracks:
     songTitle: 礙（かべ）の
     questions:
       - id: dyj-30-17-q1
-        prompt: ''
         target: 娑婆
         display: 『娑婆』
         choices:
@@ -382,7 +363,6 @@ tracks:
     songTitle: くすぶるなにか
     questions:
       - id: dyj-30-18-q1
-        prompt: ''
         target: “終幻想
         display: 『“終幻想』”
         choices:
@@ -402,7 +382,6 @@ tracks:
     songTitle: “追幻想人（ラストオカルティスト）”
     questions:
       - id: dyj-30-19-q1
-        prompt: ''
         target: “続幻想
         display: 『“続幻想』”
         choices:
@@ -422,7 +401,6 @@ tracks:
     songTitle: ／彁
     questions:
       - id: dyj-30-20-q1
-        prompt: ''
         target: 無重力
         display: 『無重力』さ
         choices:
@@ -442,7 +420,6 @@ tracks:
     songTitle: 執着（おも）わず
     questions:
       - id: dyj-30-21-q1
-        prompt: ''
         target: 彁
         display: 『彁』をもたない
         choices:
@@ -462,7 +439,6 @@ tracks:
     songTitle: 彁（かたち）をなさない
     questions:
       - id: dyj-30-22-q1
-        prompt: ''
         target: 夢現
         display: 『夢現』さ
         choices:

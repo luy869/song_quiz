@@ -10,7 +10,6 @@ tracks:
     songTitle: 真実の詩
     questions:
       - id: dyj-09-01-q1
-        prompt: ''
         target: その深い瞳
         display: 『その深い瞳』はぼくをまっすぐ射抜いていた。
         choices:
@@ -30,7 +29,6 @@ tracks:
     songTitle: もっともおそろしいものについて
     questions:
       - id: dyj-09-02-q1
-        prompt: ''
         target: 歪む有象無象
         display: 『歪む有象無象』に心せよ。
         choices:
@@ -50,7 +48,6 @@ tracks:
     songTitle: “（小さな）嘘”が“（大きな）偽”を作り出してゆく。*2
     questions:
       - id: dyj-09-03-q1
-        prompt: ''
         target: 認識
         display: 『認識』のままに、
         choices:
@@ -70,7 +67,6 @@ tracks:
     songTitle: 「真実の姿（わたし）」から
     questions:
       - id: dyj-09-04-q1
-        prompt: ''
         target: 躯は狸
         display: 『躯は狸』
         choices:
@@ -90,7 +86,6 @@ tracks:
     songTitle: 尾は蛇（くちなわ）
     questions:
       - id: dyj-09-05-q1
-        prompt: ''
         target: 尾は狸
         display: 『尾は狸』
         choices:
@@ -110,7 +105,6 @@ tracks:
     songTitle: 手足は蛇（くちなわ）の如くにて
     questions:
       - id: dyj-09-06-q1
-        prompt: ''
         target: 喚
         display: 『喚』く声は鵺にぞ似たりける。
         choices:
@@ -126,7 +120,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-09-06-q2
-        prompt: 幻想は我が
         target: 朋
         display: 幻想は我が 『朋』なりて
         choices:
@@ -146,7 +139,6 @@ tracks:
     songTitle: その意思（かんじょう）こそが
     questions:
       - id: dyj-09-07-q1
-        prompt: ''
         target: “不明
         display: 『“不明』”の聖域を
         choices:
@@ -162,7 +154,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-09-07-q2
-        prompt: このわたしさえ「
         target: 恐れさせて
         display: このわたしさえ「『恐れさせて』」しまうほど。
         choices:
@@ -178,7 +169,6 @@ tracks:
           - ateji
           - 4択
       - id: dyj-09-07-q3
-        prompt: ''
         target: 伝染していくこの恐怖
         display: 『伝染していくこの恐怖』こそが我が本質
         choices:
@@ -194,9 +184,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-09-07-q4
-        prompt: 伝染していくこの恐怖（かんじょう）
         target: こそが我が本質
-        display: 伝染していくこの恐怖『こそが我が本質』
+        display: 伝染していくこの恐怖（かんじょう）伝染していくこの恐怖『こそが我が本質』
         choices:
           - あそ
           - うたごえ
@@ -214,7 +203,6 @@ tracks:
     songTitle: 及びもつかぬものへ今も尚、姿を変貌（か）えていく
     questions:
       - id: dyj-09-08-q1
-        prompt: その意思のままに、
         target: 認識
         display: その意思のままに、『認識』のままに、
         choices:
@@ -234,7 +222,6 @@ tracks:
     songTitle: rebellion -たいせつなもののために-
     questions:
       - id: dyj-09-09-q1
-        prompt: 一層空っぽの目をした、
         target: 漂流者
         display: 一層空っぽの目をした、『漂流者』。
         choices:
@@ -254,7 +241,6 @@ tracks:
     songTitle: Fragile Idol-Worship
     questions:
       - id: dyj-09-10-q1
-        prompt: ''
         target: その直向
         display: 『その直向』に捧げる偶像崇拝が
         choices:
@@ -270,9 +256,8 @@ tracks:
           - ateji
           - 4択
       - id: dyj-09-10-q2
-        prompt: その直向（ひたむき）
         target: に捧げる偶像崇拝
-        display: その直向『に捧げる偶像崇拝』が
+        display: その直向（ひたむき）その直向『に捧げる偶像崇拝』が
         choices:
           - しりたいこと
           - しんこう
@@ -290,7 +275,6 @@ tracks:
     songTitle: 嘘のすゝめ
     questions:
       - id: dyj-09-11-q1
-        prompt: 偽りを作り上げ、
         target: 騙ること
         display: 偽りを作り上げ、『騙ること』。
         choices:
